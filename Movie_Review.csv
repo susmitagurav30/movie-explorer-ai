@@ -1,0 +1,2399 @@
+Movie Name,Year,Language,IMDb Rating,Votes,Genre,Director,OTT Platform
+The Shawshank Redemption,1994,English,9.3,2800000,Drama,Frank Darabont,Netflix
+The Godfather,1972,English,9.2,1900000,Crime,Francis Ford Coppola,Amazon Prime
+The Dark Knight,2008,English,9,2700000,Action,Christopher Nolan,Amazon Prime
+Pulp Fiction,1994,English,8.9,2100000,Crime,Quentin Tarantino,Netflix
+Fight Club,1999,English,8.8,2100000,Drama,David Fincher,Amazon Prime
+Forrest Gump,1994,English,8.8,2200000,Drama,Robert Zemeckis,Netflix
+Inception,2010,English,8.8,2300000,Sci-Fi,Christopher Nolan,Netflix
+The Matrix,1999,English,8.7,1900000,Sci-Fi,Wachowski Sisters,Amazon Prime
+Goodfellas,1990,English,8.7,1200000,Crime,Martin Scorsese,Netflix
+Se7en,1995,English,8.6,1700000,Thriller,David Fincher,Netflix
+Interstellar,2014,English,8.6,2000000,Sci-Fi,Christopher Nolan,Netflix
+Parasite,2019,Korean,8.5,900000,Thriller,Bong Joon-ho,Amazon Prime
+Gladiator,2000,English,8.5,1600000,Action,Ridley Scott,Netflix
+Whiplash,2014,English,8.5,900000,Drama,Damien Chazelle,Amazon Prime
+The Prestige,2006,English,8.5,1400000,Drama,Christopher Nolan,Netflix
+The Lion King,1994,English,8.5,1100000,Animation,Roger Allers,Disney+ Hotstar
+Avengers: Endgame,2019,English,8.4,1100000,Action,Russo Brothers,Disney+ Hotstar
+Joker,2019,English,8.4,1500000,Drama,Todd Phillips,Amazon Prime
+Titanic,1997,English,7.9,1200000,Romance,James Cameron,Disney+ Hotstar
+3 Idiots,2009,Hindi,8.4,400000,Drama,Rajkumar Hirani,Netflix
+Dangal,2016,Hindi,8.3,200000,Drama,Nitesh Tiwari,Disney+ Hotstar
+Taare Zameen Par,2007,Hindi,8.4,200000,Drama,Aamir Khan,Netflix
+PK,2014,Hindi,8.1,200000,Comedy,Rajkumar Hirani,Netflix
+Lagaan,2001,Hindi,8.1,120000,Drama,Ashutosh Gowariker,Netflix
+Sholay,1975,Hindi,8.1,80000,Action,Ramesh Sippy,Amazon Prime
+Gully Boy,2019,Hindi,7.9,100000,Drama,Zoya Akhtar,Amazon Prime
+Drishyam,2015,Hindi,8.2,90000,Thriller,Nishikant Kamat,Netflix
+Andhadhun,2018,Hindi,8.2,150000,Thriller,Sriram Raghavan,Netflix
+Queen,2013,Hindi,8.1,70000,Drama,Vikas Bahl,Netflix
+Spirited Away,2001,Japanese,8.6,800000,Animation,Hayao Miyazaki,Netflix
+Your Name,2016,Japanese,8.4,300000,Animation,Makoto Shinkai,Netflix
+Oldboy,2003,Korean,8.4,600000,Thriller,Park Chan-wook,Amazon Prime
+Amélie,2001,French,8.3,700000,Romance,Jean-Pierre Jeunet,Netflix
+The Intouchables,2011,French,8.5,900000,Drama,Olivier Nakache,Netflix
+City of God,2002,Portuguese,8.6,800000,Crime,Fernando Meirelles,Amazon Prime
+Life Is Beautiful,1997,Italian,8.6,700000,Drama,Roberto Benigni,Netflix
+Pan's Labyrinth,2006,Spanish,8.2,700000,Fantasy,Guillermo del Toro,Amazon Prime
+The Departed,2006,English,8.5,1300000,Crime,Martin Scorsese,Netflix
+Django Unchained,2012,English,8.4,1600000,Western,Quentin Tarantino,Netflix
+The Wolf of Wall Street,2013,English,8.2,1400000,Biography,Martin Scorsese,Amazon Prime
+The Social Network,2010,English,7.7,700000,Drama,David Fincher,Netflix
+Mad Max: Fury Road,2015,English,8.1,1000000,Action,George Miller,Amazon Prime
+Blade Runner 2049,2017,English,8,600000,Sci-Fi,Denis Villeneuve,Netflix
+The Revenant,2015,English,8,800000,Adventure,Alejandro Iñárritu,Amazon Prime
+No Country for Old Men,2007,English,8.1,1000000,Crime,Coen Brothers,Netflix
+La La Land,2016,English,8,700000,Musical,Damien Chazelle,Amazon Prime
+Her,2013,English,8,700000,Romance,Spike Jonze,Netflix
+Nayakan,1987,Tamil,8.6,25000,"Crime, Drama",Mani Ratnam,Prime Video
+Anbe Sivam,2003,Tamil,8.6,23000,Drama,Sundar C,Prime Video
+Gol Maal,1979,Hindi,8.5,30000,Comedy,Hrishikesh Mukherjee,Prime Video
+Kumbalangi Nights,2019,Malayalam,8.5,35000,Drama,Madhu C Narayanan,Prime Video
+3 Idiots,2009,Hindi,8.4,400000,"Comedy, Drama",Rajkumar Hirani,Netflix
+Dangal,2016,Hindi,8.4,200000,"Biography, Sport",Nitesh Tiwari,Hotstar
+Black Friday,2004,Hindi,8.4,20000,Crime,Anurag Kashyap,Hotstar
+Sardar Udham,2021,Hindi,8.4,90000,Biography,Shoojit Sircar,Prime Video
+Taare Zameen Par,2007,Hindi,8.4,200000,Drama,Aamir Khan,Netflix
+Drishyam,2013,Malayalam,8.3,90000,Thriller,Jeethu Joseph,Prime Video
+Super Deluxe,2019,Tamil,8.3,40000,Drama,Thiagarajan Kumararaja,Netflix
+Andhadhun,2018,Hindi,8.2,100000,Thriller,Sriram Raghavan,Netflix
+Gangs of Wasseypur,2012,Hindi,8.2,100000,Crime,Anurag Kashyap,Netflix
+Baahubali 2,2017,Telugu,8.2,120000,Action,S S Rajamouli,Netflix
+Article 15,2019,Hindi,8.1,90000,Crime,Anubhav Sinha,Netflix
+Movie Name,Year,Language,IMDb Rating,Votes,Genre,Director,OTT Platform
+Nayakan,1987,Tamil,8.6,25000,"Crime, Drama",Mani Ratnam,Prime Video
+Anbe Sivam,2003,Tamil,8.6,23000,Drama,Sundar C,Prime Video
+Gol Maal,1979,Hindi,8.5,30000,Comedy,Hrishikesh Mukherjee,Prime Video
+Kumbalangi Nights,2019,Malayalam,8.5,35000,Drama,Madhu C Narayanan,Prime Video
+3 Idiots,2009,Hindi,8.4,400000,"Comedy, Drama",Rajkumar Hirani,Netflix
+Dangal,2016,Hindi,8.4,200000,"Biography, Sport",Nitesh Tiwari,Hotstar
+Black Friday,2004,Hindi,8.4,20000,Crime,Anurag Kashyap,Hotstar
+Sardar Udham,2021,Hindi,8.4,90000,Biography,Shoojit Sircar,Prime Video
+Taare Zameen Par,2007,Hindi,8.4,200000,Drama,Aamir Khan,Netflix
+Drishyam,2013,Malayalam,8.3,90000,Thriller,Jeethu Joseph,Prime Video
+Super Deluxe,2019,Tamil,8.3,40000,Drama,Thiagarajan Kumararaja,Netflix
+Andhadhun,2018,Hindi,8.2,100000,Thriller,Sriram Raghavan,Netflix
+Gangs of Wasseypur,2012,Hindi,8.2,100000,Crime,Anurag Kashyap,Netflix
+Baahubali 2,2017,Telugu,8.2,120000,Action,S S Rajamouli,Netflix
+Article 15,2019,Hindi,8.1,90000,Crime,Anubhav Sinha,Netflix
+The Shawshank Redemption,1994,English,9.3,2700000,Drama,Frank Darabont,Hotstar
+The Godfather,1972,English,9.2,1900000,"Crime, Drama",Francis Ford Coppola,Zee5
+The Dark Knight,2008,English,9,2700000,"Action, Crime, Drama",Christopher Nolan,Prime Video
+The Godfather Part II,1974,English,9,1300000,"Crime, Drama",Francis Ford Coppola,Hotstar
+12 Angry Men,1957,English,9,800000,"Crime, Drama",Sidney Lumet,Zee5
+Schindler's List,1993,English,9,1400000,"Biography, Drama, History",Steven Spielberg,SonyLIV
+The Lord of the Rings: The Return of the King,2003,English,9,1900000,"Action, Adventure, Drama",Peter Jackson,JioCinema
+Pulp Fiction,1994,English,8.9,2100000,"Crime, Drama",Quentin Tarantino,SonyLIV
+The Lord of the Rings: The Fellowship of the Ring,2001,English,8.8,1900000,"Action, Adventure, Drama",Peter Jackson,JioCinema
+Inception,2010,English,8.8,2400000,"Action, Adventure, Sci-Fi",Christopher Nolan,Zee5
+Fight Club,1999,English,8.8,2200000,Drama,David Fincher,Hotstar
+Forrest Gump,1994,English,8.8,2100000,"Drama, Romance",Robert Zemeckis,Zee5
+"The Good, the Bad and the Ugly",1966,Italian,8.8,770000,Western,Sergio Leone,JioCinema
+The Lord of the Rings: The Two Towers,2002,English,8.8,1700000,"Action, Adventure, Drama",Peter Jackson,Zee5
+The Matrix,1999,English,8.7,2000000,"Action, Sci-Fi",Lana Wachowski,SonyLIV
+Goodfellas,1990,English,8.7,1200000,"Biography, Crime, Drama",Martin Scorsese,SonyLIV
+Star Wars: Episode V - The Empire Strikes Back,1980,English,8.7,1300000,"Action, Adventure, Fantasy",Irvin Kershner,Zee5
+One Flew Over the Cuckoo's Nest,1975,English,8.7,1000000,Drama,Milos Forman,Hotstar
+Parasite,2019,Korean,8.5,800000,"Drama, Thriller",Bong Joon Ho,Prime Video
+Interstellar,2014,English,8.7,1900000,"Adventure, Drama, Sci-Fi",Christopher Nolan,Prime Video
+Seven,1995,English,8.6,1700000,"Crime, Drama, Mystery",David Fincher,Zee5
+The Silence of the Lambs,1991,English,8.6,1500000,"Crime, Drama, Horror",Jonathan Demme,Hotstar
+Saving Private Ryan,1998,English,8.6,1400000,"Drama, War",Steven Spielberg,Netflix
+City of God,2002,Portuguese,8.6,760000,"Crime, Drama",Fernando Meirelles,Prime Video
+Life Is Beautiful,1997,Italian,8.6,700000,"Comedy, Drama, Romance",Roberto Benigni,Netflix
+The Green Mile,1999,English,8.6,1300000,"Crime, Drama, Fantasy",Frank Darabont,Prime Video
+Star Wars: Episode IV - A New Hope,1977,English,8.6,1400000,"Action, Adventure, Fantasy",George Lucas,JioCinema
+Terminator 2: Judgment Day,1991,English,8.6,1100000,"Action, Sci-Fi",James Cameron,JioCinema
+Back to the Future,1985,English,8.5,1200000,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,JioCinema
+Spirited Away,2001,Japanese,8.6,780000,"Animation, Adventure, Family",Hayao Miyazaki,Prime Video
+The Pianist,2002,English,8.5,840000,"Biography, Drama, Music",Roman Polanski,Hotstar
+Psycho,1960,English,8.5,680000,"Horror, Mystery, Thriller",Alfred Hitchcock,Hotstar
+Gladiator,2000,English,8.5,1500000,"Action, Adventure, Drama",Ridley Scott,Hotstar
+The Departed,2006,English,8.5,1300000,"Crime, Drama, Thriller",Martin Scorsese,Zee5
+Whiplash,2014,English,8.5,900000,"Drama, Music",Damien Chazelle,JioCinema
+The Prestige,2006,English,8.5,1300000,"Drama, Mystery, Sci-Fi",Christopher Nolan,Netflix
+The Lion King,1994,English,8.5,1000000,"Animation, Adventure, Drama",Roger Allers,JioCinema
+Alien,1979,English,8.5,900000,"Horror, Sci-Fi",Ridley Scott,Zee5
+Cinema Paradiso,1988,Italian,8.5,260000,Drama,Giuseppe Tornatore,JioCinema
+Apocalypse Now,1979,English,8.5,670000,"Drama, Mystery, War",Francis Ford Coppola,SonyLIV
+Memento,2000,English,8.4,1200000,"Mystery, Thriller",Christopher Nolan,Netflix
+Raiders of the Lost Ark,1981,English,8.4,980000,"Action, Adventure",Steven Spielberg,SonyLIV
+Django Unchained,2012,English,8.4,1600000,"Drama, Western",Quentin Tarantino,Prime Video
+WALL-E,2008,English,8.4,1100000,"Animation, Adventure, Family",Andrew Stanton,Zee5
+The Lives of Others,2006,German,8.4,390000,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,Netflix
+Oldboy,2003,Korean,8.4,590000,"Action, Drama, Mystery",Park Chan-wook,JioCinema
+Once Upon a Time in America,1984,English,8.3,350000,"Crime, Drama",Sergio Leone,Hotstar
+The Shining,1980,English,8.4,1000000,"Drama, Horror",Stanley Kubrick,SonyLIV
+Amadeus,1984,English,8.4,400000,"Biography, Drama, Music",Milos Forman,Netflix
+Toy Story,1995,English,8.3,1000000,"Animation, Adventure, Comedy",John Lasseter,Zee5
+Braveheart,1995,English,8.3,1000000,"Biography, Drama, History",Mel Gibson,SonyLIV
+Reservoir Dogs,1992,English,8.3,1000000,"Crime, Thriller",Quentin Tarantino,Hotstar
+Inglourious Basterds,2009,English,8.3,1500000,"Adventure, Drama, War",Quentin Tarantino,Netflix
+Good Will Hunting,1997,English,8.3,1000000,Drama,Gus Van Sant,Netflix
+Star Wars: Episode VI - Return of the Jedi,1983,English,8.3,1000000,"Action, Adventure, Fantasy",Richard Marquand,Prime Video
+Requiem for a Dream,2000,English,8.3,850000,Drama,Darren Aronofsky,Hotstar
+Eternal Sunshine of the Spotless Mind,2004,English,8.3,1000000,"Drama, Romance, Sci-Fi",Michel Gondry,Zee5
+The Hunt,2012,Danish,8.3,330000,Drama,Thomas Vinterberg,SonyLIV
+A Clockwork Orange,1971,English,8.3,840000,"Crime, Drama, Sci-Fi",Stanley Kubrick,Hotstar
+Full Metal Jacket,1987,English,8.3,750000,"Drama, War",Stanley Kubrick,Zee5
+Scarface,1983,English,8.3,840000,"Crime, Drama",Brian De Palma,Hotstar
+Taxi Driver,1976,English,8.2,840000,"Crime, Drama",Martin Scorsese,Prime Video
+Lawrence of Arabia,1962,English,8.3,300000,"Adventure, Biography, Drama",David Lean,Netflix
+To Kill a Mockingbird,1962,English,8.3,320000,"Crime, Drama",Robert Mulligan,JioCinema
+The Sting,1973,English,8.3,270000,"Comedy, Crime, Drama",George Roy Hill,JioCinema
+Amelie,2001,French,8.3,760000,"Comedy, Romance",Jean-Pierre Jeunet,JioCinema
+Metropolis,1927,German,8.3,180000,"Drama, Sci-Fi",Fritz Lang,Netflix
+Citizen Kane,1941,English,8.3,440000,"Drama, Mystery",Orson Welles,Netflix
+The Apartment,1960,English,8.3,180000,"Comedy, Drama, Romance",Billy Wilder,Prime Video
+Double Indemnity,1944,English,8.3,160000,"Crime, Drama, Film-Noir",Billy Wilder,Zee5
+Snatch,2000,English,8.3,850000,"Comedy, Crime",Guy Ritchie,SonyLIV
+Singin' in the Rain,1952,English,8.3,250000,"Comedy, Musical, Romance",Stanley Donen,SonyLIV
+The Kid,1921,English,8.3,130000,"Comedy, Drama, Family",Charles Chaplin,SonyLIV
+Lagaan,2001,Hindi,8.1,110000,"Drama, Musical, Sport",Ashutosh Gowariker,JioCinema
+Dil Chahta Hai,2001,Hindi,8.1,710000,"Comedy, Drama, Romance",Farhan Akhtar,JioCinema
+Zindagi Na Milegi Dobara,2011,Hindi,8.2,75000,"Comedy, Drama, Musical",Zoya Akhtar,JioCinema
+Barfi!,2012,Hindi,8.1,80000,"Comedy, Drama, Romance",Anurag Basu,Hotstar
+Queen,2013,Hindi,8.1,65000,"Adventure, Comedy, Drama",Vikas Bahl,SonyLIV
+M.S. Dhoni: The Untold Story,2016,Hindi,7.9,50000,"Biography, Drama, Sport",Neeraj Pandey,Prime Video
+Bajrangi Bhaijaan,2015,Hindi,8.1,85000,"Action, Adventure, Comedy",Kabir Khan,SonyLIV
+PK,2014,Hindi,8.1,180000,"Comedy, Drama, Sci-Fi",Rajkumar Hirani,Hotstar
+Haider,2014,Hindi,8,55000,"Action, Crime, Drama",Vishal Bhardwaj,Zee5
+Kahaani,2012,Hindi,8.1,60000,"Mystery, Thriller",Sujoy Ghosh,Prime Video
+Udaan,2010,Hindi,8.1,45000,Drama,Vikramaditya Motwane,Prime Video
+Paan Singh Tomar,2012,Hindi,8.2,38000,"Action, Biography, Crime",Tigmanshu Dhulia,Zee5
+Tumbbad,2018,Hindi,8.2,60000,"Drama, Fantasy, Horror",Rahi Anil Barve,Zee5
+Uri: The Surgical Strike,2019,Hindi,8.2,60000,"Action, Drama, War",Aditya Dhar,Prime Video
+Drishyam,2015,Hindi,8.2,85000,"Crime, Drama, Mystery",Nishikant Kamat,Zee5
+Swades,2004,Hindi,8.2,90000,Drama,Ashutosh Gowariker,Hotstar
+Rang De Basanti,2006,Hindi,8.1,120000,"Comedy, Crime, Drama",Rakeysh Omprakash Mehra,Hotstar
+Munna Bhai M.B.B.S.,2003,Hindi,8.1,80000,"Comedy, Drama",Rajkumar Hirani,SonyLIV
+Vicky Donor,2012,Hindi,7.8,45000,"Comedy, Romance",Shoojit Sircar,SonyLIV
+Rockstar,2011,Hindi,7.7,45000,"Drama, Music, Musical",Imtiaz Ali,SonyLIV
+Jab We Met,2007,Hindi,7.9,55000,"Comedy, Drama, Romance",Imtiaz Ali,Prime Video
+Tamasha,2015,Hindi,7.3,30000,"Comedy, Drama, Romance",Imtiaz Ali,Hotstar
+Wake Up Sid,2009,Hindi,7.6,35000,"Comedy, Drama, Romance",Ayan Mukerji,JioCinema
+Chak De! India,2007,Hindi,8.1,80000,"Drama, Family, Sport",Shimit Amin,SonyLIV
+Special 26,2013,Hindi,8,55000,"Crime, Drama, Thriller",Neeraj Pandey,Zee5
+A Wednesday,2008,Hindi,8.1,80000,"Action, Crime, Drama",Neeraj Pandey,Zee5
+Dev.D,2009,Hindi,7.9,30000,"Comedy, Drama, Romance",Anurag Kashyap,JioCinema
+Black,2005,Hindi,8.1,35000,Drama,Sanjay Leela Bhansali,Prime Video
+Guzaarish,2010,Hindi,7.4,15000,"Drama, Romance",Sanjay Leela Bhansali,Netflix
+Bajirao Mastani,2015,Hindi,7.2,35000,"Action, Drama, History",Sanjay Leela Bhansali,Prime Video
+Padmaavat,2018,Hindi,7,30000,"Drama, History, Romance",Sanjay Leela Bhansali,SonyLIV
+Om Shanti Om,2007,Hindi,6.7,45000,"Action, Comedy, Drama",Farah Khan,Netflix
+Main Hoon Na,2004,Hindi,7,35000,"Action, Comedy, Drama",Farah Khan,Prime Video
+Dilwale Dulhania Le Jayenge,1995,Hindi,8,70000,"Drama, Romance",Aditya Chopra,JioCinema
+Kuch Kuch Hota Hai,1998,Hindi,7,55000,"Comedy, Drama, Romance",Karan Johar,Netflix
+Kabhi Khushi Kabhie Gham...,2001,Hindi,7.4,55000,"Drama, Musical, Romance",Karan Johar,Prime Video
+My Name Is Khan,2010,Hindi,7.9,100000,"Drama, Sci-Fi",Karan Johar,JioCinema
+Kal Ho Naa Ho,2003,Hindi,7.9,70000,"Comedy, Drama, Romance",Nikkhil Advani,JioCinema
+Don,2006,Hindi,7.1,40000,"Action, Crime, Thriller",Farhan Akhtar,JioCinema
+Agneepath,2012,Hindi,6.9,25000,"Action, Crime, Drama",Karan Malhotra,JioCinema
+Dhoom 2,2006,Hindi,6.5,30000,"Action, Crime, Thriller",Sanjay Gadhvi,Netflix
+Bahubali: The Beginning,2015,Telugu,8,120000,"Action, Drama",S.S. Rajamouli,SonyLIV
+Bahubali 2: The Conclusion,2017,Telugu,8.2,100000,"Action, Drama",S.S. Rajamouli,Hotstar
+RRR,2022,Telugu,7.8,150000,"Action, Drama",S.S. Rajamouli,Zee5
+Eega,2012,Telugu,7.7,25000,"Action, Comedy, Fantasy",S.S. Rajamouli,Prime Video
+Magadheera,2009,Telugu,7.7,20000,"Action, Drama, Fantasy",S.S. Rajamouli,Hotstar
+Pushpa: The Rise - Part 1,2021,Telugu,7.6,60000,"Action, Crime, Drama",Sukumar,Netflix
+Arjun Reddy,2017,Telugu,8,30000,"Action, Drama, Romance",Sandeep Reddy Vanga,Hotstar
+Kabir Singh,2019,Hindi,7,80000,"Action, Drama, Romance",Sandeep Reddy Vanga,Hotstar
+Sarkar,2005,Hindi,7.6,20000,"Action, Crime, Drama",Ram Gopal Varma,Netflix
+Satya,1998,Hindi,8.3,20000,"Action, Crime, Drama",Ram Gopal Varma,Zee5
+Company,2002,Hindi,8,15000,"Action, Crime, Drama",Ram Gopal Varma,Hotstar
+Rangeela,1995,Hindi,7.4,15000,"Comedy, Drama, Musical",Ram Gopal Varma,Prime Video
+Sholay,1975,Hindi,8.1,55000,"Action, Adventure, Comedy",Ramesh Sippy,SonyLIV
+Deewaar,1975,Hindi,8,15000,"Action, Crime, Drama",Yash Chopra,Hotstar
+Zanjeer,1973,Hindi,7.5,10000,"Action, Crime, Drama",Prakash Mehra,Hotstar
+Anand,1971,Hindi,8.7,35000,"Drama, Musical",Hrishikesh Mukherjee,Netflix
+Chupke Chupke,1975,Hindi,8.3,15000,"Comedy, Drama, Romance",Hrishikesh Mukherjee,Zee5
+Piku,2015,Hindi,7.6,40000,"Comedy, Drama",Shoojit Sircar,Netflix
+October,2018,Hindi,7.5,20000,"Drama, Romance",Shoojit Sircar,JioCinema
+Madras Cafe,2013,Hindi,7.6,20000,"Action, Drama, History",Shoojit Sircar,SonyLIV
+Pink,2016,Hindi,8.1,50000,"Crime, Drama, Thriller",Aniruddha Roy Chowdhury,Prime Video
+Badla,2019,Hindi,7.7,35000,"Crime, Drama, Mystery",Sujoy Ghosh,Zee5
+Badlapur,2015,Hindi,7.4,30000,"Action, Crime, Drama",Sriram Raghavan,Zee5
+Johnny Gaddaar,2007,Hindi,7.9,10000,"Crime, Drama, Mystery",Sriram Raghavan,JioCinema
+Ek Hasina Thi,2004,Hindi,7.5,10000,"Crime, Drama, Mystery",Sriram Raghavan,Prime Video
+Hera Pheri,2000,Hindi,8.1,65000,"Action, Comedy, Crime",Priyadarshan,Netflix
+Phir Hera Pheri,2006,Hindi,7.2,35000,"Comedy, Crime",Neeraj Vora,JioCinema
+Bhool Bhulaiyaa,2007,Hindi,7.4,40000,"Comedy, Horror, Mystery",Priyadarshan,SonyLIV
+Drishyam 2,2021,Malayalam,8.4,40000,"Crime, Drama, Thriller",Jeethu Joseph,Zee5
+Lucifer,2019,Malayalam,7.5,20000,"Action, Crime, Drama",Prithviraj Sukumaran,SonyLIV
+Premam,2015,Malayalam,8.3,35000,"Comedy, Drama, Romance",Alphonse Puthren,JioCinema
+Bangalore Days,2014,Malayalam,8.3,30000,"Comedy, Drama, Romance",Anjali Menon,Prime Video
+Vikram Vedha,2017,Tamil,8.2,45000,"Action, Crime, Drama","Gayatri, Pushkar",Netflix
+96,2018,Tamil,8.5,25000,"Drama, Romance",C. Prem Kumar,Prime Video
+Kaithi,2019,Tamil,8.5,30000,"Action, Crime, Thriller",Lokesh Kanagaraj,Prime Video
+Master,2021,Tamil,7.3,45000,"Action, Crime, Drama",Lokesh Kanagaraj,JioCinema
+Jai Bhim,2021,Tamil,8.8,210000,"Crime, Drama, Mystery",T.J. Gnanavel,Netflix
+Soorarai Pottru,2020,Tamil,8.7,120000,"Action, Drama",Sudha Kongara,Netflix
+Asuran,2019,Tamil,8.5,30000,"Action, Drama",Vetrimaaran,Prime Video
+Vada Chennai,2018,Tamil,8.4,20000,"Action, Crime, Drama",Vetrimaaran,SonyLIV
+Visaaranai,2015,Tamil,8.5,10000,"Crime, Drama, Thriller",Vetrimaaran,Zee5
+Polladhavan,2007,Tamil,8.1,10000,"Action, Crime, Drama",Vetrimaaran,Netflix
+Pariyerum Perumal,2018,Tamil,8.7,15000,Drama,Mari Selvaraj,Hotstar
+Karnan,2021,Tamil,8,20000,"Action, Drama",Mari Selvaraj,Netflix
+Sarpatta Parambarai,2021,Tamil,8.6,25000,"Action, Drama, Sport",Pa. Ranjith,Zee5
+Madras,2014,Tamil,8,10000,"Action, Drama",Pa. Ranjith,JioCinema
+Kaala,2018,Tamil,6.7,15000,"Action, Drama",Pa. Ranjith,Hotstar
+Kabali,2016,Tamil,6.1,20000,"Action, Crime, Drama",Pa. Ranjith,JioCinema
+Petta,2019,Tamil,7,20000,"Action, Drama",Karthik Subbaraj,SonyLIV
+Jigarthanda,2014,Tamil,8.1,15000,"Action, Comedy, Crime",Karthik Subbaraj,Hotstar
+Pizza,2012,Tamil,8,10000,"Horror, Mystery, Thriller",Karthik Subbaraj,SonyLIV
+Iraivi,2016,Tamil,8,5000,Drama,Karthik Subbaraj,JioCinema
+Aruvi,2017,Tamil,8.7,15000,Drama,Arun Prabhu Purushothaman,Netflix
+Ratsasan,2018,Tamil,8.3,40000,"Crime, Drama, Mystery",Ram Kumar,Netflix
+Theri,2016,Tamil,7.1,30000,"Action, Crime, Drama",Atlee,Hotstar
+Mersal,2017,Tamil,7.5,35000,"Action, Thriller",Atlee,SonyLIV
+Bigil,2019,Tamil,6.7,30000,"Action, Drama, Sport",Atlee,Netflix
+Leo,2023,Tamil,7.2,50000,"Action, Crime, Thriller",Lokesh Kanagaraj,SonyLIV
+Jawan,2023,Hindi,7,80000,"Action, Thriller",Atlee,Zee5
+Pathaan,2023,Hindi,5.9,150000,"Action, Adventure, Thriller",Siddharth Anand,Netflix
+War,2019,Hindi,6.5,30000,"Action, Thriller",Siddharth Anand,Hotstar
+Fighter,2024,Hindi,6.3,40000,"Action, Adventure, Thriller",Siddharth Anand,Prime Video
+Animal,2023,Hindi,6.2,100000,"Action, Crime, Drama",Sandeep Reddy Vanga,Netflix
+Dunki,2023,Hindi,6.7,50000,"Comedy, Drama",Rajkumar Hirani,SonyLIV
+Tiger 3,2023,Hindi,7,30000,"Action, Adventure, Thriller",Maneesh Sharma,JioCinema
+Rocky Aur Rani Kii Prem Kahaani,2023,Hindi,6.6,25000,"Comedy, Drama, Family",Karan Johar,SonyLIV
+Brahmastra Part One: Shiva,2022,Hindi,5.6,70000,"Action, Adventure, Fantasy",Ayan Mukerji,Hotstar
+K.G.F: Chapter 1,2018,Kannada,8.2,180000,"Action, Crime, Drama",Prashanth Neel,Prime Video
+K.G.F: Chapter 2,2022,Kannada,8.3,150000,"Action, Crime, Drama",Prashanth Neel,SonyLIV
+Kantara,2022,Kannada,8.2,100000,"Action, Adventure, Drama",Rishab Shetty,Prime Video
+777 Charlie,2022,Kannada,8.7,40000,"Adventure, Comedy, Drama",Kiranraj K,JioCinema
+Vikrant Rona,2022,Kannada,7,15000,"Action, Adventure, Drama",Anup Bhandari,Netflix
+Sita Ramam,2022,Telugu,8.6,65000,"Action, Drama, Mystery",Hanu Raghavapudi,Netflix
+Major,2022,Telugu,8.1,40000,"Action, Biography, Drama",Sashi Kiran Tikka,JioCinema
+Goodachari,2018,Telugu,7.8,15000,"Action, Drama, Thriller",Sashi Kiran Tikka,JioCinema
+Evaru,2019,Telugu,8.1,15000,"Crime, Drama, Mystery",Venkat Ramji,Hotstar
+Awe!,2018,Telugu,7.7,10000,"Sci-Fi, Thriller",Prashanth Varma,SonyLIV
+Hanu-Man,2024,Telugu,7.9,30000,"Action, Adventure, Fantasy",Prashanth Varma,JioCinema
+Kalki 2898 AD,2024,Telugu,7.5,40000,"Action, Adventure, Sci-Fi",Nag Ashwin,Zee5
+Mahanati,2018,Telugu,8.5,25000,"Biography, Drama",Nag Ashwin,SonyLIV
+Jersey,2019,Telugu,8.5,30000,"Drama, Sport",Gowtam Tinnanuri,Prime Video
+Agent Sai Srinivasa Athreya,2019,Telugu,8.4,20000,"Comedy, Crime, Mystery",Swaroop RSJ,Netflix
+Mathu Vadalara,2019,Telugu,8.2,10000,"Comedy, Crime, Thriller",Ritesh Rana,SonyLIV
+C/o Kancharapalem,2018,Telugu,8.8,15000,Drama,Venkatesh Maha,Hotstar
+Pelli Choopulu,2016,Telugu,8.2,15000,"Comedy, Romance",Tharun Bhascker,Prime Video
+Ee Nagaraniki Emaindi,2018,Telugu,8.1,15000,"Comedy, Drama",Tharun Bhascker,Zee5
+Manmadhudu,2002,Telugu,8.2,10000,"Comedy, Drama, Romance",K. Vijaya Bhaskar,Zee5
+Athadu,2005,Telugu,8.2,20000,"Action, Crime, Drama",Trivikram Srinivas,Prime Video
+Khaleja,2010,Telugu,7.7,15000,"Action, Comedy, Drama",Trivikram Srinivas,Zee5
+Julayi,2012,Telugu,7.2,15000,"Action, Comedy",Trivikram Srinivas,SonyLIV
+Ala Vaikunthapurramuloo,2020,Telugu,7.2,30000,"Action, Comedy, Drama",Trivikram Srinivas,Hotstar
+Aravinda Sametha Veera Raghava,2018,Telugu,7.5,20000,"Action, Drama",Trivikram Srinivas,Netflix
+Okkadu,2003,Telugu,8.1,10000,"Action, Drama, Romance",Gunasekhar,Netflix
+Pokiri,2006,Telugu,8,15000,"Action, Crime, Thriller",Puri Jagannadh,SonyLIV
+Bommarillu,2006,Telugu,8.2,15000,"Comedy, Drama, Family",Bhaskar,Netflix
+Happy Days,2007,Telugu,8.1,10000,"Comedy, Drama",Sekhar Kammula,Zee5
+Fidaa,2017,Telugu,7.4,15000,"Comedy, Drama, Romance",Sekhar Kammula,Netflix
+Godavari,2006,Telugu,8.1,5000,"Comedy, Drama, Romance",Sekhar Kammula,Netflix
+Anand,2004,Telugu,8.1,5000,"Drama, Romance",Sekhar Kammula,Hotstar
+Leader,2010,Telugu,8,10000,Drama,Sekhar Kammula,Hotstar
+Love Story,2021,Telugu,6.8,10000,"Drama, Romance",Sekhar Kammula,Zee5
+Siva,1989,Telugu,8.5,10000,"Action, Crime, Drama",Ram Gopal Varma,Hotstar
+Kshana Kshanam,1991,Telugu,8.2,5000,"Action, Comedy, Crime",Ram Gopal Varma,SonyLIV
+Gaayam,1993,Telugu,8.2,5000,"Action, Crime, Drama",Ram Gopal Varma,JioCinema
+Govinda Govinda,1994,Telugu,7.5,2000,"Action, Adventure, Crime",Ram Gopal Varma,Prime Video
+The Dark Knight Rises,2012,English,8.4,1700000,"Action, Drama",Christopher Nolan,Netflix
+Batman Begins,2005,English,8.2,1500000,"Action, Crime, Drama",Christopher Nolan,Netflix
+Dunkirk,2017,English,7.8,700000,"Action, Drama, History",Christopher Nolan,Netflix
+Oppenheimer,2023,English,8.4,700000,"Biography, Drama, History",Christopher Nolan,Prime Video
+Tenet,2020,English,7.3,550000,"Action, Sci-Fi, Thriller",Christopher Nolan,Netflix
+Once Upon a Time in Hollywood,2019,English,7.6,800000,"Comedy, Drama",Quentin Tarantino,Hotstar
+The Hateful Eight,2015,English,7.8,600000,"Crime, Drama, Mystery",Quentin Tarantino,Zee5
+Kill Bill: Vol. 1,2003,English,8.2,1100000,"Action, Crime, Thriller",Quentin Tarantino,Netflix
+Kill Bill: Vol. 2,2004,English,8,800000,"Action, Crime, Thriller",Quentin Tarantino,Prime Video
+The Wolf of Wall Street,2013,English,8.2,1500000,"Biography, Comedy, Crime",Martin Scorsese,JioCinema
+Shutter Island,2010,English,8.2,1400000,"Mystery, Thriller",Martin Scorsese,JioCinema
+The Irishman,2019,English,7.8,400000,"Biography, Crime, Drama",Martin Scorsese,Hotstar
+Casino,1995,English,8.2,550000,"Crime, Drama",Martin Scorsese,JioCinema
+The Aviator,2004,English,7.5,360000,"Biography, Drama",Martin Scorsese,Netflix
+Gangs of New York,2002,English,7.5,450000,"Crime, Drama",Martin Scorsese,Hotstar
+Heat,1995,English,8.3,700000,"Action, Crime, Drama",Michael Mann,Zee5
+Collateral,2004,English,7.5,400000,"Action, Crime, Drama",Michael Mann,SonyLIV
+Man On Fire,2004,English,7.7,360000,"Action, Crime, Drama",Tony Scott,Prime Video
+Deja Vu,2006,English,7.1,300000,"Action, Sci-Fi, Thriller",Tony Scott,JioCinema
+Top Gun: Maverick,2022,English,8.3,650000,"Action, Drama",Joseph Kosinski,JioCinema
+John Wick,2014,English,7.4,700000,"Action, Crime, Thriller",Chad Stahelski,JioCinema
+John Wick: Chapter 2,2017,English,7.4,500000,"Action, Crime, Thriller",Chad Stahelski,Prime Video
+John Wick: Chapter 3 - Parabellum,2019,English,7.4,400000,"Action, Crime, Thriller",Chad Stahelski,SonyLIV
+John Wick: Chapter 4,2023,English,7.7,300000,"Action, Crime, Thriller",Chad Stahelski,Hotstar
+Spider-Man: Into the Spider-Verse,2018,English,8.4,650000,"Animation, Action, Adventure",Bob Persichetti,Hotstar
+Spider-Man: Across the Spider-Verse,2023,English,8.6,400000,"Animation, Action, Adventure",Joaquim Dos Santos,Hotstar
+Dune,2021,English,8,750000,"Action, Adventure, Sci-Fi",Denis Villeneuve,Netflix
+Dune: Part Two,2024,English,8.6,450000,"Action, Adventure, Sci-Fi",Denis Villeneuve,Prime Video
+Blade Runner 2049,2017,English,8,650000,"Action, Drama, Mystery",Denis Villeneuve,Prime Video
+Arrival,2016,English,7.9,750000,"Drama, Mystery, Sci-Fi",Denis Villeneuve,SonyLIV
+Sicario,2015,English,7.7,450000,"Action, Crime, Drama",Denis Villeneuve,JioCinema
+Prisoners,2013,English,8.1,750000,"Crime, Drama, Mystery",Denis Villeneuve,Prime Video
+Incendies,2010,French,8.3,190000,"Drama, Mystery, War",Denis Villeneuve,Hotstar
+Enemy,2013,English,6.9,200000,"Drama, Mystery, Thriller",Denis Villeneuve,Hotstar
+The Grand Budapest Hotel,2014,English,8.1,850000,"Adventure, Comedy, Crime",Wes Anderson,Zee5
+Moonrise Kingdom,2012,English,7.8,350000,"Comedy, Drama, Romance",Wes Anderson,Netflix
+The French Dispatch,2021,English,7.1,150000,"Comedy, Drama, Romance",Wes Anderson,JioCinema
+Asteroid City,2023,English,6.5,100000,"Comedy, Drama, Romance",Wes Anderson,Hotstar
+Fantastic Mr. Fox,2009,English,7.9,250000,"Animation, Adventure, Comedy",Wes Anderson,Netflix
+Isle of Dogs,2018,English,7.8,180000,"Animation, Adventure, Comedy",Wes Anderson,Hotstar
+The Royal Tenenbaums,2001,English,7.6,300000,"Comedy, Drama",Wes Anderson,Zee5
+La La Land,2016,English,8,650000,"Comedy, Drama, Music",Damien Chazelle,JioCinema
+First Man,2018,English,7.3,190000,"Biography, Drama, History",Damien Chazelle,Hotstar
+Babylon,2022,English,7,150000,"Comedy, Drama, History",Damien Chazelle,SonyLIV
+Get Out,2017,English,7.8,650000,"Horror, Mystery, Thriller",Jordan Peele,JioCinema
+Us,2019,English,6.8,300000,"Horror, Mystery, Thriller",Jordan Peele,Hotstar
+Nope,2022,English,6.8,250000,"Horror, Mystery, Sci-Fi",Jordan Peele,Netflix
+Hereditary,2018,English,7.3,350000,"Drama, Horror, Mystery",Ari Aster,SonyLIV
+Midsommar,2019,English,7.1,350000,"Drama, Horror, Mystery",Ari Aster,JioCinema
+Beau Is Afraid,2023,English,6.7,50000,"Comedy, Drama, Horror",Ari Aster,Prime Video
+Everything Everywhere All at Once,2022,English,7.8,500000,"Action, Adventure, Comedy","Daniel Kwan, Daniel Scheinert",JioCinema
+Memories of Murder,2003,Korean,8.1,200000,"Crime, Drama, Mystery",Bong Joon Ho,JioCinema
+The Host,2006,Korean,7.1,120000,"Action, Drama, Horror",Bong Joon Ho,Netflix
+Snowpiercer,2013,English,7.1,350000,"Action, Drama, Sci-Fi",Bong Joon Ho,Netflix
+Okja,2017,English,7.3,120000,"Action, Adventure, Drama",Bong Joon Ho,Netflix
+Mother,2009,Korean,7.8,60000,"Crime, Drama, Mystery",Bong Joon Ho,Zee5
+The Handmaiden,2016,Korean,8.1,180000,"Drama, Romance, Thriller",Park Chan-wook,JioCinema
+Decision to Leave,2022,Korean,7.3,80000,"Crime, Drama, Mystery",Park Chan-wook,Zee5
+Thirst,2009,Korean,7.1,50000,"Drama, Horror, Romance",Park Chan-wook,Netflix
+Lady Vengeance,2005,Korean,7.5,80000,"Crime, Drama, Thriller",Park Chan-wook,Hotstar
+Sympathy for Mr. Vengeance,2002,Korean,7.5,80000,"Action, Crime, Drama",Park Chan-wook,Zee5
+Train to Busan,2016,Korean,7.6,250000,"Action, Horror, Thriller",Yeon Sang-ho,JioCinema
+Burning,2018,Korean,7.5,80000,"Drama, Mystery, Thriller",Lee Chang-dong,Zee5
+Poetry,2010,Korean,7.8,20000,Drama,Lee Chang-dong,Prime Video
+Secret Sunshine,2007,Korean,7.4,15000,Drama,Lee Chang-dong,Prime Video
+A Taxi Driver,2017,Korean,7.9,35000,"Action, Drama, History",Jang Hoon,Hotstar
+The Wailing,2016,Korean,7.4,80000,"Horror, Mystery, Thriller",Na Hong-jin,SonyLIV
+The Chaser,2008,Korean,7.8,70000,"Action, Crime, Thriller",Na Hong-jin,JioCinema
+The Yellow Sea,2010,Korean,7.3,30000,"Action, Crime, Drama",Na Hong-jin,Netflix
+Shoplifters,2018,Japanese,7.9,90000,"Crime, Drama",Hirokazu Kore-eda,Prime Video
+Monster,2023,Japanese,8.1,20000,Drama,Hirokazu Kore-eda,JioCinema
+Broker,2022,Korean,7.1,30000,Drama,Hirokazu Kore-eda,Hotstar
+"Like Father, Like Son",2013,Japanese,7.7,30000,Drama,Hirokazu Kore-eda,Prime Video
+Still Walking,2008,Japanese,7.9,25000,Drama,Hirokazu Kore-eda,Hotstar
+Our Little Sister,2015,Japanese,7.5,20000,Drama,Hirokazu Kore-eda,Hotstar
+The Boy and the Heron,2023,Japanese,7.6,100000,"Animation, Adventure, Drama",Hayao Miyazaki,Hotstar
+Princess Mononoke,1997,Japanese,8.4,450000,"Animation, Action, Adventure",Hayao Miyazaki,Netflix
+My Neighbor Totoro,1988,Japanese,8.1,350000,"Animation, Family, Fantasy",Hayao Miyazaki,Hotstar
+Howl's Moving Castle,2004,Japanese,8.2,450000,"Animation, Adventure, Family",Hayao Miyazaki,SonyLIV
+Castle in the Sky,1986,Japanese,8,180000,"Animation, Adventure, Family",Hayao Miyazaki,JioCinema
+Kiki's Delivery Service,1989,Japanese,7.8,150000,"Animation, Adventure, Family",Hayao Miyazaki,Netflix
+Nausicaa of the Valley of the Wind,1984,Japanese,8,180000,"Animation, Adventure, Fantasy",Hayao Miyazaki,SonyLIV
+Ponyo,2008,Japanese,7.6,150000,"Animation, Adventure, Family",Hayao Miyazaki,JioCinema
+The Wind Rises,2013,Japanese,7.7,90000,"Animation, Biography, Drama",Hayao Miyazaki,Netflix
+The Tale of the Princess Kaguya,2013,Japanese,8,50000,"Animation, Adventure, Drama",Isao Takahata,SonyLIV
+Grave of the Fireflies,1988,Japanese,8.5,300000,"Animation, Drama, War",Isao Takahata,Hotstar
+Your Name.,2016,Japanese,8.4,300000,"Animation, Drama, Fantasy",Makoto Shinkai,JioCinema
+Weathering with You,2019,Japanese,7.5,60000,"Animation, Drama, Fantasy",Makoto Shinkai,JioCinema
+Suzume,2022,Japanese,7.7,50000,"Animation, Action, Adventure",Makoto Shinkai,Zee5
+Garden of Words,2013,Japanese,7.4,50000,"Animation, Drama, Romance",Makoto Shinkai,Hotstar
+Perfect Blue,1997,Japanese,8,90000,"Animation, Crime, Drama",Satoshi Kon,Prime Video
+Paprika,2006,Japanese,7.7,80000,"Animation, Drama, Mystery",Satoshi Kon,Hotstar
+Millennium Actress,2001,Japanese,7.8,30000,"Animation, Drama, Fantasy",Satoshi Kon,JioCinema
+Tokyo Godfathers,2003,Japanese,7.8,40000,"Animation, Adventure, Comedy",Satoshi Kon,Zee5
+Akira,1988,Japanese,8,200000,"Animation, Action, Sci-Fi",Katsuhiro Otomo,JioCinema
+Ghost in the Shell,1995,Japanese,7.9,150000,"Animation, Action, Crime",Mamoru Oshii,JioCinema
+Drive My Car,2021,Japanese,7.6,80000,Drama,Ryusuke Hamaguchi,Netflix
+The First Slam Dunk,2022,Japanese,8.2,10000,"Animation, Comedy, Drama",Takehiko Inoue,Prime Video
+Godzilla Minus One,2023,Japanese,8.2,120000,"Action, Adventure, Drama",Takashi Yamazaki,SonyLIV
+Seven Samurai,1954,Japanese,8.6,350000,"Action, Drama",Akira Kurosawa,Hotstar
+Rashomon,1950,Japanese,8.2,180000,"Crime, Drama, Mystery",Akira Kurosawa,SonyLIV
+Ikiru,1952,Japanese,8.3,80000,Drama,Akira Kurosawa,Zee5
+Ran,1985,Japanese,8.2,130000,"Action, Drama, War",Akira Kurosawa,Zee5
+Yojimbo,1961,Japanese,8.2,120000,"Action, Drama, Thriller",Akira Kurosawa,Zee5
+High and Low,1963,Japanese,8.4,50000,"Crime, Drama, Mystery",Akira Kurosawa,Hotstar
+Throne of Blood,1957,Japanese,8.1,50000,"Drama, History",Akira Kurosawa,SonyLIV
+The Hidden Fortress,1958,Japanese,8.1,40000,"Action, Adventure, Drama",Akira Kurosawa,JioCinema
+Sanjuro,1962,Japanese,8,40000,"Action, Comedy, Drama",Akira Kurosawa,SonyLIV
+Kagemusha,1980,Japanese,7.9,40000,"Drama, History, War",Akira Kurosawa,Zee5
+Dersu Uzala,1975,Russian,8.2,30000,"Adventure, Biography, Drama",Akira Kurosawa,Netflix
+Tokyo Story,1953,Japanese,8.1,60000,Drama,Yasujiro Ozu,Hotstar
+Late Spring,1949,Japanese,8.2,20000,Drama,Yasujiro Ozu,SonyLIV
+An Autumn Afternoon,1962,Japanese,8.1,10000,Drama,Yasujiro Ozu,SonyLIV
+Floating Weeds,1959,Japanese,8,10000,Drama,Yasujiro Ozu,Netflix
+Early Summer,1951,Japanese,8.2,10000,Drama,Yasujiro Ozu,Prime Video
+Harakiri,1962,Japanese,8.6,60000,"Action, Drama, Mystery",Masaki Kobayashi,JioCinema
+The Human Condition I: No Greater Love,1959,Japanese,8.5,10000,"Drama, War",Masaki Kobayashi,Hotstar
+The Human Condition II: Road to Eternity,1959,Japanese,8.5,5000,"Drama, War",Masaki Kobayashi,Hotstar
+The Human Condition III: A Soldier's Prayer,1961,Japanese,8.8,5000,"Drama, War",Masaki Kobayashi,JioCinema
+Woman in the Dunes,1964,Japanese,8.5,20000,"Drama, Thriller",Hiroshi Teshigahara,Zee5
+Ugetsu,1953,Japanese,8.2,25000,"Drama, Fantasy, War",Kenji Mizoguchi,SonyLIV
+Sansho the Bailiff,1954,Japanese,8.3,20000,Drama,Kenji Mizoguchi,Netflix
+The 400 Blows,1959,French,8.1,120000,"Crime, Drama",Francois Truffaut,JioCinema
+Breathless,1960,French,7.7,85000,"Crime, Drama",Jean-Luc Godard,Zee5
+Contempt,1963,French,7.5,35000,"Drama, Romance",Jean-Luc Godard,Netflix
+Pierrot le Fou,1965,French,7.5,30000,"Comedy, Crime, Drama",Jean-Luc Godard,Netflix
+Alphaville,1965,French,7,25000,"Drama, Sci-Fi, Thriller",Jean-Luc Godard,Zee5
+Jules and Jim,1962,French,7.7,45000,"Drama, Romance",Francois Truffaut,Prime Video
+Day for Night,1973,French,8.1,20000,"Comedy, Drama, Romance",Francois Truffaut,JioCinema
+Shoot the Piano Player,1960,French,7.4,20000,"Comedy, Crime, Drama",Francois Truffaut,Zee5
+The Last Metro,1980,French,7.3,15000,"Drama, Romance, War",Francois Truffaut,Prime Video
+Bicycle Thieves,1948,Italian,8.3,170000,Drama,Vittorio De Sica,SonyLIV
+Umberto D.,1952,Italian,8.2,30000,Drama,Vittorio De Sica,Zee5
+Shoeshine,1946,Italian,8,10000,Drama,Vittorio De Sica,Prime Video
+Miracle in Milan,1951,Italian,7.7,10000,"Comedy, Drama, Fantasy",Vittorio De Sica,Hotstar
+La Dolce Vita,1960,Italian,8,80000,"Comedy, Drama",Federico Fellini,JioCinema
+8 1/2,1963,Italian,8,130000,Drama,Federico Fellini,Hotstar
+Amarcord,1973,Italian,7.8,45000,"Comedy, Drama",Federico Fellini,Netflix
+La Strada,1954,Italian,8,70000,Drama,Federico Fellini,Hotstar
+Nights of Cabiria,1957,Italian,8.1,50000,Drama,Federico Fellini,Netflix
+"Rome, Open City",1945,Italian,8,40000,"Drama, Thriller, War",Roberto Rossellini,Zee5
+Paisan,1946,Italian,7.6,5000,"Drama, War",Roberto Rossellini,JioCinema
+"Germany, Year Zero",1948,Italian,7.8,10000,"Drama, War",Roberto Rossellini,Hotstar
+Stromboli,1950,Italian,7.2,10000,Drama,Roberto Rossellini,Prime Video
+Journey to Italy,1954,Italian,7.3,10000,Drama,Roberto Rossellini,SonyLIV
+L'Avventura,1960,Italian,7.8,45000,"Drama, Mystery",,Netflix
+L'Eclisse,1962,Italian,7.7,25000,"Drama, Romance",,Prime Video
+La Notte,1961,Italian,8,25000,Drama,,SonyLIV
+Red Desert,1964,Italian,7.5,20000,Drama,,SonyLIV
+Blow-Up,1966,English,7.5,65000,"Drama, Mystery, Thriller",,Zee5
+The Passenger,1975,English,7.5,20000,"Drama, Thriller",,Prime Video
+Identification of a Woman,1982,Italian,6.8,5000,"Drama, Romance",,JioCinema
+The Leopard,1963,Italian,8,25000,"Drama, History",,SonyLIV
+Rocco and His Brothers,1960,Italian,8.2,25000,"Crime, Drama",,JioCinema
+Death in Venice,1971,Italian,7.4,25000,Drama,,Hotstar
+The Damned,1969,Italian,7.4,10000,"Drama, War",,JioCinema
+Ludwig,1973,Italian,7.6,5000,"Biography, Drama, History",,Netflix
+Senso,1954,Italian,7.4,10000,"Drama, History, Romance",,Hotstar
+The Conformist,1970,Italian,7.9,30000,Drama,,Hotstar
+Last Tango in Paris,1972,Italian,6.9,60000,"Drama, Romance",,Prime Video
+1900,1976,Italian,7.7,25000,"Drama, History",,SonyLIV
+The Last Emperor,1987,English,7.7,110000,"Biography, Drama, History",,JioCinema
+The Sheltering Sky,1990,English,6.7,15000,"Drama, Romance",,JioCinema
+Little Buddha,1993,English,6.1,15000,Drama,,Zee5
+Stealing Beauty,1996,English,6.6,25000,"Drama, Romance",,Prime Video
+The Dreamers,2003,English,7.1,130000,"Drama, Romance",,JioCinema
+Stalker,1979,Russian,8.1,150000,"Drama, Sci-Fi",,Netflix
+Solaris,1972,Russian,8,100000,"Drama, Mystery, Sci-Fi",,Hotstar
+Andrei Rublev,1966,Russian,8.1,60000,"Biography, Drama, History",,Netflix
+The Mirror,1975,Russian,8,45000,"Biography, Drama",,JioCinema
+Nostalghia,1983,Russian,8,25000,Drama,,Zee5
+The Sacrifice,1986,Swedish,8,25000,Drama,,Prime Video
+Ivan's Childhood,1962,Russian,8,40000,"Drama, War",,SonyLIV
+The Seventh Seal,1957,Swedish,8.1,200000,"Drama, Fantasy",,Prime Video
+Wild Strawberries,1957,Swedish,8.1,120000,Drama,,Prime Video
+Persona,1966,Swedish,8.1,130000,"Drama, Thriller",,Prime Video
+Fanny and Alexander,1982,Swedish,8.1,70000,Drama,,JioCinema
+Cries and Whispers,1972,Swedish,8.1,40000,Drama,,Zee5
+Autumn Sonata,1978,Swedish,8.1,35000,Drama,,JioCinema
+Scenes from a Marriage,1973,Swedish,8.3,20000,Drama,,Zee5
+Through a Glass Darkly,1961,Swedish,8,25000,Drama,,Netflix
+Winter Light,1963,Swedish,8,25000,Drama,,SonyLIV
+The Silence,1963,Swedish,7.8,20000,Drama,,Zee5
+The Virgin Spring,1960,Swedish,8,35000,Drama,,Hotstar
+The Magician,1958,Swedish,7.5,15000,"Comedy, Drama, Fantasy",,Zee5
+Shame,1968,Swedish,8,15000,"Drama, War",,SonyLIV
+The Passion of Anna,1969,Swedish,7.8,10000,Drama,,Zee5
+Hour of the Wolf,1968,Swedish,7.6,25000,"Drama, Horror",,JioCinema
+Saraband,2003,Swedish,7.4,10000,Drama,,JioCinema
+The White Ribbon,2009,German,7.8,85000,"Crime, Drama, Mystery",,Hotstar
+Amour,2012,French,7.9,110000,"Drama, Romance",,Hotstar
+Hidden,2005,French,7.3,85000,"Drama, Mystery, Thriller",,SonyLIV
+The Piano Teacher,2001,French,7.5,70000,"Drama, Romance",,Zee5
+Funny Games,1997,German,7.5,80000,"Crime, Drama, Horror",,Hotstar
+Benny's Video,1992,German,7.1,15000,"Crime, Drama, Horror",,JioCinema
+The Seventh Continent,1989,German,7.5,15000,Drama,,Hotstar
+Code Unknown,2000,French,7.1,15000,Drama,,Prime Video
+Time of the Wolf,2003,French,6.5,15000,"Drama, Horror",,SonyLIV
+Happy End,2017,French,6.6,25000,Drama,,JioCinema
+The Castle,1997,German,6.9,5000,"Drama, Mystery",,Hotstar
+Paradise: Love,2012,German,7,10000,Drama,,Zee5
+Paradise: Faith,2012,German,6.8,5000,Drama,,JioCinema
+Paradise: Hope,2013,German,6.7,5000,Drama,,SonyLIV
+Dogtooth,2009,Greek,7.2,85000,"Drama, Thriller",,Netflix
+The Lobster,2015,English,7.1,280000,"Comedy, Drama, Romance",,Netflix
+The Killing of a Sacred Deer,2017,English,7,180000,"Drama, Horror, Mystery",,JioCinema
+The Favourite,2018,English,7.5,220000,"Biography, Comedy, Drama",,Zee5
+Poor Things,2023,English,7.9,250000,"Comedy, Drama, Romance",,SonyLIV
+Alps,2011,Greek,6.3,10000,Drama,,Hotstar
+Kinetta,2005,Greek,5.2,2000,Drama,,Prime Video
+Amores Perros,2000,Spanish,8.1,250000,"Drama, Thriller",,SonyLIV
+21 Grams,2003,English,7.6,250000,"Crime, Drama, Thriller",,Zee5
+Babel,2006,English,7.5,300000,"Drama, Thriller",,Netflix
+Biutiful,2010,Spanish,7.5,90000,Drama,,Prime Video
+Birdman,2014,English,7.7,650000,"Comedy, Drama",,JioCinema
+The Revenant,2015,English,8,850000,"Action, Adventure, Drama",,Zee5
+Bardo,2022,Spanish,6.7,25000,"Comedy, Drama",,Prime Video
+Y Tu Mama Tambien,2001,Spanish,7.7,130000,"Comedy, Drama, Romance",,SonyLIV
+Children of Men,2006,English,7.9,550000,"Action, Drama, Sci-Fi",,Prime Video
+Gravity,2013,English,7.7,850000,"Action, Adventure, Sci-Fi",,Prime Video
+Roma,2018,Spanish,7.7,180000,Drama,,Prime Video
+Harry Potter and the Prisoner of Azkaban,2004,English,7.9,650000,"Adventure, Family, Fantasy",,SonyLIV
+Pan's Labyrinth,2006,Spanish,8.2,700000,"Drama, Fantasy, War",,Zee5
+The Shape of Water,2017,English,7.3,450000,"Drama, Fantasy, Romance",,Prime Video
+Pacific Rim,2013,English,7,500000,"Action, Adventure, Sci-Fi",,Zee5
+Hellboy,2004,English,6.8,350000,"Action, Fantasy, Horror",,Zee5
+Hellboy II: The Golden Army,2008,English,7,280000,"Action, Adventure, Fantasy",,Netflix
+Crimson Peak,2015,English,6.5,150000,"Drama, Fantasy, Horror",,Zee5
+Nightmare Alley,2021,English,7,180000,"Crime, Drama, Mystery",,Zee5
+Cronos,1993,Spanish,6.7,30000,"Drama, Horror, Sci-Fi",,SonyLIV
+The Devil's Backbone,2001,Spanish,7.4,70000,"Drama, Horror, Thriller",,Hotstar
+Pinocchio,2022,English,7.6,120000,"Animation, Drama, Family",,SonyLIV
+Life of Pi,2012,English,7.9,650000,"Adventure, Drama, Fantasy",,Netflix
+Brokeback Mountain,2005,English,7.7,380000,"Drama, Romance",,Netflix
+"Crouching Tiger, Hidden Dragon",2000,Mandarin,7.9,280000,"Action, Adventure, Drama",,Zee5
+Sense and Sensibility,1995,English,7.7,120000,"Drama, Romance",,JioCinema
+"Lust, Caution",2007,Mandarin,7.5,45000,"Drama, Romance, Thriller",,JioCinema
+The Ice Storm,1997,English,7.4,60000,Drama,,Prime Video
+Eat Drink Man Woman,1994,Mandarin,7.8,25000,"Comedy, Drama, Romance",,Netflix
+The Wedding Banquet,1993,Mandarin,7.6,20000,"Comedy, Drama, Romance",,Hotstar
+Hulk,2003,English,5.6,280000,"Action, Sci-Fi",,Prime Video
+Taking Woodstock,2009,English,6.7,35000,"Comedy, Drama, Music",,SonyLIV
+Billy Lynn's Long Halftime Walk,2016,English,6.2,25000,"Action, Drama, War",,SonyLIV
+Gemini Man,2019,English,5.7,120000,"Action, Sci-Fi, Thriller",,Zee5
+Moonlight,2016,English,7.4,300000,Drama,,Netflix
+If Beale Street Could Talk,2018,English,7.1,60000,"Drama, Romance",,SonyLIV
+The Underground Railroad,2021,English,8.1,15000,"Drama, History",,SonyLIV
+Nomadland,2020,English,7.3,180000,Drama,,Hotstar
+The Eternals,2021,English,6.3,350000,"Action, Adventure, Fantasy",,Hotstar
+The Rider,2017,English,7.4,30000,"Drama, Western",,SonyLIV
+Songs My Brothers Taught Me,2015,English,6.9,5000,Drama,,Zee5
+Lady Bird,2017,English,7.4,300000,"Comedy, Drama",,Prime Video
+Little Women,2019,English,7.8,250000,"Drama, Romance",,Netflix
+Barbie,2023,English,6.9,500000,"Adventure, Comedy, Fantasy",,Zee5
+Frances Ha,2012,English,7.4,80000,"Comedy, Drama, Romance",,JioCinema
+Mistress America,2015,English,6.7,25000,"Comedy, Drama",,SonyLIV
+White Noise,2022,English,5.7,45000,"Comedy, Drama, Horror",,Zee5
+Marriage Story,2019,English,7.9,350000,"Drama, Romance",,JioCinema
+The Squid and the Whale,2005,English,7.3,85000,"Comedy, Drama",,Prime Video
+While We're Young,2014,English,6.3,50000,"Comedy, Drama",,Hotstar
+Greenberg,2010,English,6.1,35000,"Comedy, Drama, Romance",,Hotstar
+Margot at the Wedding,2007,English,6,20000,"Comedy, Drama",,Netflix
+Kicking and Screaming,1995,English,6.8,10000,"Comedy, Drama",,SonyLIV
+The Meyerowitz Stories,2017,English,6.9,50000,"Comedy, Drama",,Hotstar
+Her,2013,English,8,650000,"Drama, Romance, Sci-Fi",,SonyLIV
+Being John Malkovich,1999,English,7.8,350000,"Comedy, Drama, Fantasy",,Prime Video
+Adaptation.,2002,English,7.7,200000,"Comedy, Drama",,Zee5
+Where the Wild Things Are,2009,English,6.7,110000,"Adventure, Drama, Family",,JioCinema
+Anomalisa,2015,English,7.2,70000,"Animation, Comedy, Drama",,Hotstar
+"Synecdoche, New York",2008,English,7.5,95000,Drama,,SonyLIV
+I'm Thinking of Ending Things,2020,English,6.6,95000,"Drama, Thriller",,SonyLIV
+Lost in Translation,2003,English,7.7,450000,"Comedy, Drama",,JioCinema
+The Virgin Suicides,1999,English,7.2,180000,"Drama, Romance",,Hotstar
+Marie Antoinette,2006,English,6.5,110000,"Biography, Drama, History",,Prime Video
+Somewhere,2010,English,6.3,50000,"Comedy, Drama",,Zee5
+The Bling Ring,2013,English,5.6,85000,"Biography, Crime, Drama",,SonyLIV
+The Beguiled,2017,English,6.3,65000,"Drama, Thriller",,SonyLIV
+Priscilla,2023,English,6.6,40000,"Biography, Drama, Music",,JioCinema
+Licorice Pizza,2021,English,7.2,120000,"Comedy, Drama, Romance",,Prime Video
+Phantom Thread,2017,English,7.4,130000,"Drama, Romance",,Hotstar
+Inherent Vice,2014,English,6.6,110000,"Comedy, Crime, Drama",,SonyLIV
+The Master,2012,English,7.1,180000,Drama,,Hotstar
+There Will Be Blood,2007,English,8.2,600000,Drama,,JioCinema
+Punch-Drunk Love,2002,English,7.3,180000,"Comedy, Drama, Romance",,Hotstar
+Magnolia,1999,English,8,320000,Drama,,SonyLIV
+Boogie Nights,1997,English,7.9,280000,Drama,,SonyLIV
+Hard Eight,1996,English,7.1,50000,"Crime, Drama",,JioCinema
+The Whale,2022,English,7.7,180000,Drama,,Zee5
+Mother!,2017,English,6.6,220000,"Drama, Horror, Mystery",,Prime Video
+Noah,2014,English,5.8,260000,"Action, Adventure, Drama",,Prime Video
+Black Swan,2010,English,8,750000,"Drama, Thriller",,JioCinema
+The Wrestler,2008,English,7.9,320000,"Drama, Sport",,SonyLIV
+The Fountain,2006,English,7.2,250000,"Drama, Sci-Fi",,Netflix
+Pi,1998,English,7.3,180000,"Drama, Horror, Mystery",,Prime Video
+Barton Fink,1991,English,7.6,120000,"Comedy, Drama, Thriller",,Prime Video
+The Big Lebowski,1998,English,8.1,850000,"Comedy, Crime",,Netflix
+Fargo,1996,English,8.1,700000,"Crime, Drama, Thriller",,Prime Video
+No Country for Old Men,2007,English,8.2,1000000,"Crime, Drama, Thriller",,Prime Video
+"O Brother, Where Art Thou?",2000,English,7.7,320000,"Adventure, Comedy, Crime",,JioCinema
+A Serious Man,2009,English,7,150000,"Comedy, Drama",,Zee5
+True Grit,2010,English,7.6,350000,"Drama, Western",,Prime Video
+Inside Llewyn Davis,2013,English,7.4,150000,"Drama, Music",,Prime Video
+The Ballad of Buster Scruggs,2018,English,7.2,150000,"Comedy, Drama, Western",,JioCinema
+The Tragedy of Macbeth,2021,English,7.1,45000,"Drama, History, Thriller",,Hotstar
+"Hail, Caesar!",2016,English,6.3,130000,"Comedy, Drama, Music",,Prime Video
+Burn After Reading,2008,English,7,350000,"Comedy, Crime, Drama",,Hotstar
+The Ladykillers,2004,English,6.2,110000,"Comedy, Crime",,JioCinema
+The Man Who Wasn't There,2001,English,7.5,110000,"Crime, Drama",,Hotstar
+Intolerable Cruelty,2003,English,6.3,110000,"Comedy, Crime, Romance",,Hotstar
+The Hudsucker Proxy,1994,English,7.2,85000,"Comedy, Drama, Fantasy",,Prime Video
+Raising Arizona,1987,English,7.3,140000,"Comedy, Crime",,Hotstar
+Miller's Crossing,1990,English,7.7,130000,"Crime, Drama, Thriller",,Netflix
+Blood Simple,1984,English,7.6,100000,"Crime, Drama, Thriller",,SonyLIV
+Mank,2020,English,6.8,75000,"Biography, Drama",,SonyLIV
+The Killer,2023,English,6.7,120000,"Action, Adventure, Crime",,Netflix
+Gone Girl,2014,English,8.1,1000000,"Drama, Mystery, Thriller",,Hotstar
+The Social Network,2010,English,7.8,750000,"Biography, Drama",,JioCinema
+The Girl with the Dragon Tattoo,2011,English,7.8,480000,"Crime, Drama, Mystery",,JioCinema
+The Curious Case of Benjamin Button,2008,English,7.8,650000,"Drama, Fantasy, Romance",,SonyLIV
+Zodiac,2007,English,7.7,580000,"Crime, Drama, Mystery",,Netflix
+Panic Room,2002,English,6.8,280000,"Crime, Drama, Thriller",,Netflix
+The Game,1997,English,7.7,400000,"Drama, Mystery, Thriller",,Zee5
+Alien 3,1992,English,6.4,300000,"Action, Horror, Sci-Fi",,SonyLIV
+Se7en,1995,English,8.6,1700000,"Crime, Drama, Mystery",,JioCinema
+Mindhunter,2017,English,8.6,300000,"Crime, Drama, Mystery",,JioCinema
+The House that Jack Built,2018,English,6.8,75000,"Crime, Drama, Horror",,Netflix
+Nymphomaniac: Vol. I,2013,English,6.9,120000,Drama,,SonyLIV
+Nymphomaniac: Vol. II,2013,English,6.6,85000,Drama,,Zee5
+Melancholia,2011,English,7.1,190000,"Drama, Sci-Fi",,Netflix
+Antichrist,2009,English,6.5,120000,"Drama, Horror",,Zee5
+Dogville,2003,English,8,150000,"Crime, Drama",,Netflix
+Dancer in the Dark,2000,English,7.9,110000,"Crime, Drama, Musical",,Hotstar
+Breaking the Waves,1996,English,7.8,65000,"Drama, Romance",,Prime Video
+The Idiots,1998,Danish,6.8,35000,"Comedy, Drama",,Hotstar
+Europa,1991,English,7.5,15000,"Drama, Thriller, War",,Prime Video
+The Element of Crime,1984,English,6.7,10000,"Crime, Drama, Thriller",,Zee5
+Epidemic,1987,Danish,5.9,5000,"Drama, Horror",,Hotstar
+Kingdom of Heaven,2005,English,7.2,300000,"Action, Adventure, Drama",,JioCinema
+Blade Runner,1982,English,8.1,800000,"Action, Sci-Fi",,Prime Video
+Thelma & Louise,1991,English,7.5,160000,"Adventure, Crime, Drama",,Zee5
+Black Hawk Down,2001,English,7.7,400000,"Action, Drama, History",,JioCinema
+American Gangster,2007,English,7.8,450000,"Biography, Crime, Drama",,Zee5
+Prometheus,2012,English,7,600000,"Adventure, Mystery, Sci-Fi",,JioCinema
+The Martian,2015,English,8,850000,"Adventure, Drama, Sci-Fi",,Prime Video
+Alien: Covenant,2017,English,6.4,300000,"Horror, Sci-Fi, Thriller",,Hotstar
+Napoleon,2023,English,6.4,150000,"Action, Biography, Drama",,Hotstar
+House of Gucci,2021,English,6.6,180000,"Biography, Crime, Drama",,JioCinema
+The Last Duel,2021,English,7.4,180000,"Action, Drama, History",,JioCinema
+All the Money in the World,2017,English,6.8,85000,"Biography, Crime, Drama",,Hotstar
+Exodus: Gods and Kings,2014,English,6,180000,"Action, Adventure, Drama",,Zee5
+The Counselor,2013,English,5.4,100000,"Crime, Drama, Thriller",,Hotstar
+Robin Hood,2010,English,6.6,280000,"Action, Adventure, Drama",,Netflix
+A Good Year,2006,English,6.9,100000,"Comedy, Drama, Romance",,Prime Video
+Matchstick Men,2003,English,7.3,130000,"Comedy, Crime, Drama",,Netflix
+Black Rain,1989,English,6.6,55000,"Action, Crime, Thriller",,Prime Video
+Someone to Watch Over Me,1987,English,6.1,15000,"Crime, Drama, Romance",,Zee5
+Legend,1985,English,6.3,65000,"Adventure, Fantasy, Romance",,SonyLIV
+The Duellists,1977,English,7.4,35000,"Drama, War",,Prime Video
+1492: Conquest of Paradise,1992,English,6.4,30000,"Adventure, Biography, Drama",,Prime Video
+Hannibal,2001,English,6.8,280000,"Crime, Drama, Horror",,SonyLIV
+G.I. Jane,1997,English,6,85000,"Action, Drama",,Zee5
+White Squall,1996,English,6.6,25000,"Adventure, Drama",,JioCinema
+Body of Lies,2008,English,7,230000,"Action, Drama, Thriller",,Zee5
+Titanic,1997,English,7.9,1200000,"Drama, Romance",James Cameron,Zee5
+Avatar,2009,English,7.9,1300000,"Action, Adventure, Fantasy",James Cameron,Zee5
+Avatar: The Way of Water,2022,English,7.6,450000,"Action, Adventure, Sci-Fi",James Cameron,Zee5
+The Terminator,1984,English,8.1,850000,"Action, Sci-Fi",James Cameron,Netflix
+Aliens,1986,English,8.4,700000,"Action, Adventure, Sci-Fi",James Cameron,SonyLIV
+The Abyss,1989,English,7.5,180000,"Adventure, Drama, Sci-Fi",James Cameron,Netflix
+True Lies,1994,English,7.3,250000,"Action, Comedy, Thriller",James Cameron,SonyLIV
+Jurassic Park,1993,English,8.2,1000000,"Action, Adventure, Sci-Fi",Steven Spielberg,Prime Video
+E.T. the Extra-Terrestrial,1982,English,7.9,400000,"Adventure, Family, Sci-Fi",Steven Spielberg,Hotstar
+Jaws,1975,English,8.1,650000,"Adventure, Thriller",Steven Spielberg,Prime Video
+Indiana Jones and the Last Crusade,1989,English,8.2,800000,"Action, Adventure",Steven Spielberg,SonyLIV
+Indiana Jones and the Temple of Doom,1984,English,7.5,500000,"Action, Adventure",Steven Spielberg,JioCinema
+Catch Me If You Can,2002,English,8.1,1000000,"Biography, Crime, Drama",Steven Spielberg,Netflix
+Minority Report,2002,English,7.7,580000,"Action, Crime, Mystery",Steven Spielberg,Zee5
+Bridge of Spies,2015,English,7.6,320000,"Drama, History, Thriller",Steven Spielberg,Prime Video
+The Post,2017,English,7.2,150000,"Drama, History, Thriller",Steven Spielberg,JioCinema
+Lincoln,2012,English,7.3,280000,"Biography, Drama, History",Steven Spielberg,SonyLIV
+War of the Worlds,2005,English,6.5,450000,"Action, Adventure, Sci-Fi",Steven Spielberg,JioCinema
+Munich,2005,English,7.5,230000,"Action, Drama, History",Steven Spielberg,Netflix
+A.I. Artificial Intelligence,2001,English,7.2,320000,"Drama, Sci-Fi",Steven Spielberg,SonyLIV
+Close Encounters of the Third Kind,1977,English,7.6,200000,"Drama, Sci-Fi",Steven Spielberg,Prime Video
+The Color Purple,1985,English,7.7,85000,Drama,,JioCinema
+Empire of the Sun,1987,English,7.7,120000,"Drama, War",,JioCinema
+The Fabelmans,2022,English,7.5,120000,Drama,,SonyLIV
+West Side Story,2021,English,7.2,90000,"Crime, Drama, Musical",,Zee5
+Ready Player One,2018,English,7.4,450000,"Action, Adventure, Sci-Fi",,SonyLIV
+The Adventures of Tintin,2011,English,7.3,230000,"Animation, Action, Adventure",,Zee5
+The Sugarland Express,1974,English,6.7,15000,"Crime, Drama",,SonyLIV
+Duel,1971,English,7.6,75000,"Action, Thriller",,Netflix
+1941,1979,English,5.8,35000,"Action, Comedy, War",,Netflix
+Hook,1991,English,6.8,250000,"Adventure, Comedy, Family",,JioCinema
+Amistad,1997,English,7.3,85000,"Biography, Drama, History",,Prime Video
+The Terminal,2004,English,7.4,450000,"Comedy, Drama, Romance",,Hotstar
+War Horse,2011,English,7.2,160000,"Action, Adventure, Drama",,Zee5
+Always,1989,English,6.4,30000,"Drama, Fantasy, Romance",,JioCinema
+The Big Friendly Giant,2016,English,6.4,85000,"Adventure, Family, Fantasy",,Prime Video
+Frozen,2013,English,7.4,650000,"Animation, Adventure, Comedy",,Hotstar
+Frozen II,2019,English,6.8,180000,"Animation, Action, Adventure",,Prime Video
+Moana,2016,English,7.6,350000,"Animation, Adventure, Comedy",,SonyLIV
+Zootopia,2016,English,8,500000,"Animation, Adventure, Comedy",,SonyLIV
+Tangled,2010,English,7.7,450000,"Animation, Adventure, Comedy",,Zee5
+Big Hero 6,2014,English,7.8,450000,"Animation, Action, Adventure",,Prime Video
+Wreck-It Ralph,2012,English,7.7,420000,"Animation, Adventure, Comedy",,Hotstar
+Ralph Breaks the Internet,2018,English,7,160000,"Animation, Adventure, Comedy",,Netflix
+Encanto,2021,English,7.2,250000,"Animation, Adventure, Comedy",,Prime Video
+Raya and the Last Dragon,2021,English,7.3,180000,"Animation, Action, Adventure",,Hotstar
+The Little Mermaid,1989,English,7.6,250000,"Animation, Adventure, Family",,Zee5
+Beauty and the Beast,1991,English,8,450000,"Animation, Adventure, Family",,JioCinema
+Aladdin,1992,English,8,400000,"Animation, Adventure, Family",,Zee5
+The Hunchback of Notre Dame,1996,English,7,180000,"Animation, Drama, Family",,Hotstar
+Mulan,1998,English,7.6,300000,"Animation, Adventure, Family",,JioCinema
+Tarzan,1999,English,7.3,220000,"Animation, Adventure, Family",,Prime Video
+Hercules,1997,English,7.3,230000,"Animation, Adventure, Comedy",,Prime Video
+Pocahontas,1995,English,6.7,180000,"Animation, Adventure, Drama",,SonyLIV
+The Jungle Book,1967,English,7.6,180000,"Animation, Adventure, Family",,JioCinema
+Cinderella,1950,English,7.3,160000,"Animation, Family, Fantasy",,Netflix
+Sleeping Beauty,1959,English,7.2,110000,"Animation, Family, Fantasy",,SonyLIV
+Peter Pan,1953,English,7.3,140000,"Animation, Adventure, Family",,Netflix
+Alice in Wonderland,1951,English,7.4,150000,"Animation, Adventure, Family",,Hotstar
+Pinocchio,1940,English,7.5,150000,"Animation, Adventure, Family",,SonyLIV
+Dumbo,1941,English,7.2,130000,"Animation, Adventure, Family",,Hotstar
+Bambi,1942,English,7.3,140000,"Animation, Adventure, Drama",,Prime Video
+Snow White and the Seven Dwarfs,1937,English,7.6,200000,"Animation, Adventure, Family",,JioCinema
+Fantasia,1940,English,7.7,100000,"Animation, Family, Fantasy",,Prime Video
+Ratatouille,2007,English,8.1,750000,"Animation, Adventure, Comedy",,Hotstar
+Up,2009,English,8.3,1000000,"Animation, Adventure, Comedy",,Prime Video
+Finding Nemo,2003,English,8.2,1000000,"Animation, Adventure, Comedy",,Zee5
+Finding Dory,2016,English,7.3,280000,"Animation, Adventure, Comedy",,JioCinema
+The Incredibles,2004,English,8,750000,"Animation, Action, Adventure",,JioCinema
+Incredibles 2,2018,English,7.6,300000,"Animation, Action, Adventure",,Hotstar
+"Monsters, Inc.",2001,English,8.1,900000,"Animation, Adventure, Comedy",,SonyLIV
+Monsters University,2013,English,7.2,350000,"Animation, Adventure, Comedy",,Prime Video
+Cars,2006,English,7.2,450000,"Animation, Adventure, Comedy",,Prime Video
+Cars 2,2011,English,6.2,180000,"Animation, Adventure, Comedy",,SonyLIV
+Cars 3,2017,English,6.7,100000,"Animation, Adventure, Comedy",,SonyLIV
+Brave,2012,English,7.1,400000,"Animation, Adventure, Comedy",,Netflix
+Inside Out,2015,English,8.1,700000,"Animation, Adventure, Comedy",,Netflix
+Inside Out 2,2024,English,7.8,100000,"Animation, Adventure, Comedy",,Hotstar
+Coco,2017,English,8.4,550000,"Animation, Adventure, Family",,Prime Video
+Soul,2020,English,8,350000,"Animation, Adventure, Comedy",,SonyLIV
+Luca,2021,English,7.4,180000,"Animation, Adventure, Comedy",,SonyLIV
+Turning Red,2022,English,7,150000,"Animation, Adventure, Comedy",,JioCinema
+Elemental,2023,English,7,120000,"Animation, Adventure, Comedy",,SonyLIV
+Onward,2020,English,7.4,150000,"Animation, Adventure, Comedy",,Hotstar
+The Good Dinosaur,2015,English,6.7,120000,"Animation, Adventure, Comedy",,Hotstar
+Toy Story 2,1999,English,7.9,580000,"Animation, Adventure, Comedy",,Zee5
+Toy Story 3,2010,English,8.3,850000,"Animation, Adventure, Comedy",,SonyLIV
+Toy Story 4,2019,English,7.7,250000,"Animation, Adventure, Comedy",,Netflix
+A Bug's Life,1998,English,7.2,300000,"Animation, Adventure, Comedy",,Prime Video
+Shrek,2001,English,7.9,700000,"Animation, Adventure, Comedy",,Prime Video
+Shrek 2,2004,English,7.3,450000,"Animation, Adventure, Comedy",,Netflix
+Shrek the Third,2007,English,6.1,300000,"Animation, Adventure, Comedy",,JioCinema
+Shrek Forever After,2010,English,6.3,200000,"Animation, Adventure, Comedy",,Prime Video
+Kung Fu Panda,2008,English,7.6,500000,"Animation, Action, Adventure",,Netflix
+Kung Fu Panda 2,2011,English,7.3,300000,"Animation, Action, Adventure",,Netflix
+Kung Fu Panda 3,2016,English,7.1,150000,"Animation, Action, Adventure",,JioCinema
+Kung Fu Panda 4,2024,English,6.3,50000,"Animation, Action, Adventure",,Netflix
+How to Train Your Dragon,2010,English,8.1,750000,"Animation, Action, Adventure",,SonyLIV
+How to Train Your Dragon 2,2014,English,7.8,350000,"Animation, Action, Adventure",,Netflix
+How to Train Your Dragon: The Hidden World,2019,English,7.4,200000,"Animation, Action, Adventure",,Netflix
+Madagascar,2005,English,6.9,450000,"Animation, Adventure, Comedy",,Zee5
+Madagascar: Escape 2 Africa,2008,English,6.6,250000,"Animation, Adventure, Comedy",,SonyLIV
+Madagascar 3: Europe's Most Wanted,2012,English,6.8,180000,"Animation, Adventure, Comedy",,JioCinema
+Despicable Me,2010,English,7.6,550000,"Animation, Adventure, Comedy",,JioCinema
+Despicable Me 2,2013,English,7.3,400000,"Animation, Adventure, Comedy",,Hotstar
+Despicable Me 3,2017,English,6.2,130000,"Animation, Adventure, Comedy",,Hotstar
+Minions,2015,English,6.4,250000,"Animation, Adventure, Comedy",,JioCinema
+Minions: The Rise of Gru,2022,English,6.6,85000,"Animation, Adventure, Comedy",,SonyLIV
+Ice Age,2002,English,7.5,480000,"Animation, Adventure, Comedy",,SonyLIV
+Ice Age: The Meltdown,2006,English,6.8,280000,"Animation, Adventure, Comedy",,Netflix
+Ice Age: Dawn of the Dinosaurs,2009,English,6.9,250000,"Animation, Adventure, Comedy",,Netflix
+Spider-Man,2002,English,7.4,850000,"Action, Adventure, Sci-Fi",Sam Raimi,Hotstar
+Spider-Man 2,2004,English,7.5,650000,"Action, Adventure, Sci-Fi",Sam Raimi,SonyLIV
+Spider-Man 3,2007,English,6.3,580000,"Action, Adventure, Sci-Fi",Sam Raimi,JioCinema
+The Amazing Spider-Man,2012,English,6.9,650000,"Action, Adventure, Sci-Fi",Marc Webb,Netflix
+The Amazing Spider-Man 2,2014,English,6.6,500000,"Action, Adventure, Sci-Fi",Marc Webb,Hotstar
+Spider-Man: Homecoming,2017,English,7.4,680000,"Action, Adventure, Sci-Fi",Jon Watts,JioCinema
+Spider-Man: Far From Home,2019,English,7.4,550000,"Action, Adventure, Sci-Fi",Jon Watts,Zee5
+Spider-Man: No Way Home,2021,English,8.2,850000,"Action, Adventure, Sci-Fi",Jon Watts,JioCinema
+Iron Man,2008,English,7.9,1000000,"Action, Adventure, Sci-Fi",Jon Favreau,JioCinema
+Iron Man 2,2010,English,6.9,850000,"Action, Adventure, Sci-Fi",Jon Favreau,Prime Video
+Iron Man 3,2013,English,7.1,850000,"Action, Adventure, Sci-Fi",Shane Black,JioCinema
+Captain America: The First Avenger,2011,English,6.9,850000,"Action, Adventure, Sci-Fi",Joe Johnston,Hotstar
+Captain America: The Winter Soldier,2014,English,7.8,850000,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",Zee5
+Captain America: Civil War,2016,English,7.8,850000,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",JioCinema
+Thor,2011,English,7,850000,"Action, Adventure, Fantasy",Kenneth Branagh,Zee5
+Thor: The Dark World,2013,English,6.8,680000,"Action, Adventure, Fantasy",Alan Taylor,Zee5
+Thor: Ragnarok,2017,English,7.9,800000,"Action, Adventure, Comedy",Taika Waititi,SonyLIV
+Thor: Love and Thunder,2022,English,6.2,380000,"Action, Adventure, Comedy",Taika Waititi,Zee5
+The Avengers,2012,English,8,1400000,"Action, Adventure, Sci-Fi",Joss Whedon,Hotstar
+Avengers: Age of Ultron,2015,English,7.3,850000,"Action, Adventure, Sci-Fi",Joss Whedon,SonyLIV
+Avengers: Infinity War,2018,English,8.4,1200000,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",Netflix
+Avengers: Endgame,2019,English,8.4,1200000,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo",Prime Video
+Guardians of the Galaxy,2014,English,8,1100000,"Action, Adventure, Comedy",James Gunn,Prime Video
+Guardians of the Galaxy Vol. 2,2017,English,7.6,750000,"Action, Adventure, Comedy",James Gunn,Zee5
+Guardians of the Galaxy Vol. 3,2023,English,7.9,380000,"Action, Adventure, Comedy",James Gunn,JioCinema
+Black Panther,2018,English,7.3,800000,"Action, Adventure, Sci-Fi",Ryan Coogler,Prime Video
+Black Panther: Wakanda Forever,2022,English,6.7,300000,"Action, Adventure, Drama",Ryan Coogler,SonyLIV
+Doctor Strange,2016,English,7.5,750000,"Action, Adventure, Fantasy",Scott Derrickson,JioCinema
+Doctor Strange in the Multiverse of Madness,2022,English,6.9,450000,"Action, Adventure, Fantasy",Sam Raimi,Zee5
+Ant-Man,2015,English,7.3,680000,"Action, Adventure, Comedy",Peyton Reed,Prime Video
+Ant-Man and the Wasp,2018,English,7,420000,"Action, Adventure, Comedy",Peyton Reed,Prime Video
+Ant-Man and the Wasp: Quantumania,2023,English,6.1,230000,"Action, Adventure, Comedy",Peyton Reed,Netflix
+Black Widow,2021,English,6.7,400000,"Action, Adventure, Sci-Fi",Cate Shortland,Hotstar
+Shang-Chi and the Legend of the Ten Rings,2021,English,7.4,400000,"Action, Adventure, Fantasy",Destin Daniel Cretton,Zee5
+Captain Marvel,2019,English,6.8,550000,"Action, Adventure, Sci-Fi","Anna Boden, Ryan Fleck",Zee5
+The Marvels,2023,English,5.6,120000,"Action, Adventure, Fantasy",Nia DaCosta,SonyLIV
+Man of Steel,2013,English,7.1,780000,"Action, Adventure, Sci-Fi",Zack Snyder,Zee5
+Batman v Superman: Dawn of Justice,2016,English,6.5,700000,"Action, Adventure, Sci-Fi",Zack Snyder,Netflix
+Justice League,2017,English,6.1,450000,"Action, Adventure, Sci-Fi",Zack Snyder,JioCinema
+Zack Snyder's Justice League,2021,English,7.9,420000,"Action, Adventure, Sci-Fi",Zack Snyder,Hotstar
+Wonder Woman,2017,English,7.4,650000,"Action, Adventure, Fantasy",Patty Jenkins,Netflix
+Wonder Woman 1984,2020,English,5.4,280000,"Action, Adventure, Fantasy",Patty Jenkins,JioCinema
+Aquaman,2018,English,6.8,500000,"Action, Adventure, Fantasy",James Wan,Zee5
+Aquaman and the Lost Kingdom,2023,English,5.6,120000,"Action, Adventure, Fantasy",James Wan,JioCinema
+Shazam!,2019,English,7,350000,"Action, Adventure, Comedy",David F. Sandberg,Zee5
+Shazam! Fury of the Gods,2023,English,5.9,110000,"Action, Adventure, Comedy",David F. Sandberg,Prime Video
+Suicide Squad,2016,English,5.9,680000,"Action, Adventure, Fantasy",David Ayer,Hotstar
+The Suicide Squad,2021,English,7.2,380000,"Action, Adventure, Comedy",James Gunn,Netflix
+Birds of Prey,2020,English,6.1,250000,"Action, Adventure, Comedy",Cathy Yan,Netflix
+Black Adam,2022,English,6.2,280000,"Action, Adventure, Fantasy",Jaume Collet-Serra,Netflix
+The Flash,2023,English,6.7,200000,"Action, Adventure, Fantasy",Andy Muschietti,JioCinema
+Blue Beetle,2023,English,5.9,100000,"Action, Adventure, Sci-Fi",Angel Manuel Soto,Netflix
+The Batman,2022,English,7.8,750000,"Action, Crime, Drama",Matt Reeves,JioCinema
+Joker,2019,English,8.4,1400000,"Crime, Drama, Thriller",Todd Phillips,Prime Video
+Joker: Folie a Deux,2024,English,5.2,50000,"Crime, Drama, Musical",Todd Phillips,Hotstar
+Logan,2017,English,8.1,800000,"Action, Drama, Sci-Fi",James Mangold,SonyLIV
+Deadpool,2016,English,8,1000000,"Action, Adventure, Comedy",Tim Miller,Zee5
+Deadpool 2,2018,English,7.7,600000,"Action, Adventure, Comedy",David Leitch,Hotstar
+Deadpool & Wolverine,2024,English,7.9,350000,"Action, Adventure, Comedy",Shawn Levy,SonyLIV
+X-Men,2000,English,7.3,600000,"Action, Adventure, Sci-Fi",Bryan Singer,Prime Video
+X2: X-Men United,2003,English,7.4,550000,"Action, Adventure, Sci-Fi",Bryan Singer,Prime Video
+X-Men: The Last Stand,2006,English,6.6,500000,"Action, Adventure, Sci-Fi",Brett Ratner,Netflix
+X-Men: First Class,2011,English,7.7,700000,"Action, Adventure, Sci-Fi",Matthew Vaughn,Prime Video
+X-Men: Days of Future Past,2014,English,7.9,750000,"Action, Adventure, Sci-Fi",Bryan Singer,Netflix
+X-Men: Apocalypse,2016,English,6.9,450000,"Action, Adventure, Sci-Fi",Bryan Singer,Prime Video
+Dark Phoenix,2019,English,5.7,180000,"Action, Adventure, Sci-Fi",Simon Kinberg,Prime Video
+The Wolverine,2013,English,6.7,450000,"Action, Adventure, Sci-Fi",James Mangold,Netflix
+X-Men Origins: Wolverine,2009,English,6.5,500000,"Action, Adventure, Sci-Fi",Gavin Hood,Netflix
+Mission: Impossible,1996,English,7.1,450000,"Action, Adventure, Thriller",Brian De Palma,Zee5
+Mission: Impossible II,2000,English,6.1,350000,"Action, Adventure, Thriller",John Woo,JioCinema
+Mission: Impossible III,2006,English,6.9,380000,"Action, Adventure, Thriller",J.J. Abrams,JioCinema
+Mission: Impossible - Ghost Protocol,2011,English,7.4,500000,"Action, Adventure, Thriller",Brad Bird,Netflix
+Mission: Impossible - Rogue Nation,2015,English,7.4,400000,"Action, Adventure, Thriller",Christopher McQuarrie,SonyLIV
+Mission: Impossible - Fallout,2018,English,7.7,350000,"Action, Adventure, Thriller",Christopher McQuarrie,Hotstar
+Mission: Impossible - Dead Reckoning Part One,2023,English,7.7,250000,"Action, Adventure, Thriller",Christopher McQuarrie,JioCinema
+Fast & Furious,2009,English,6.6,280000,"Action, Adventure, Crime",Justin Lin,Zee5
+Fast Five,2011,English,7.3,380000,"Action, Adventure, Crime",Justin Lin,JioCinema
+Fast & Furious 6,2013,English,7,400000,"Action, Adventure, Crime",Justin Lin,Hotstar
+Furious 7,2015,English,7.1,400000,"Action, Adventure, Thriller",James Wan,Hotstar
+The Fate of the Furious,2017,English,6.6,250000,"Action, Adventure, Thriller",F. Gary Gray,SonyLIV
+F9: The Fast Saga,2021,English,5.2,150000,"Action, Adventure, Crime",Justin Lin,Netflix
+Fast X,2023,English,5.8,120000,"Action, Adventure, Crime",Louis Leterrier,Netflix
+The Bourne Identity,2002,English,7.9,550000,"Action, Mystery, Thriller",Doug Liman,Prime Video
+The Bourne Supremacy,2004,English,7.7,480000,"Action, Mystery, Thriller",Paul Greengrass,JioCinema
+The Bourne Ultimatum,2007,English,8,650000,"Action, Mystery, Thriller",Paul Greengrass,JioCinema
+The Bourne Legacy,2012,English,6.6,300000,"Action, Adventure, Thriller",Tony Gilroy,Prime Video
+Jason Bourne,2016,English,6.6,250000,"Action, Thriller",Paul Greengrass,Hotstar
+The Godfather Part III,1990,English,7.6,400000,"Crime, Drama",Francis Ford Coppola,Prime Video
+Bram Stoker's Dracula,1992,English,7.4,230000,"Horror, Romance",Francis Ford Coppola,Netflix
+The Cotton Club,1984,English,6.5,20000,"Crime, Drama, Music",Francis Ford Coppola,Hotstar
+The Rainmaker,1997,English,7.2,70000,"Crime, Drama, Thriller",Francis Ford Coppola,JioCinema
+Jack,1996,English,5.8,60000,"Comedy, Drama",Francis Ford Coppola,Hotstar
+Twixt,2011,English,4.7,10000,"Comedy, Horror, Mystery",Francis Ford Coppola,Prime Video
+Megalopolis,2024,English,5.5,50000,"Drama, Sci-Fi",Francis Ford Coppola,SonyLIV
+The Outsiders,1983,English,7.1,95000,"Crime, Drama",Francis Ford Coppola,Netflix
+Rumble Fish,1983,English,7.1,35000,"Crime, Drama",Francis Ford Coppola,JioCinema
+Peggy Sue Got Married,1986,English,6.4,40000,"Comedy, Drama, Fantasy",Francis Ford Coppola,Zee5
+One from the Heart,1981,English,6.7,10000,"Drama, Musical, Romance",Francis Ford Coppola,JioCinema
+The Conversation,1974,English,7.8,120000,"Drama, Mystery, Thriller",Francis Ford Coppola,Prime Video
+Apocalypse Now Redux,2001,English,8.4,50000,"Drama, Mystery, War",Francis Ford Coppola,SonyLIV
+Youth Without Youth,2007,English,6.1,15000,"Drama, Fantasy, Mystery",Francis Ford Coppola,SonyLIV
+Tetro,2009,English,6.8,15000,Drama,Francis Ford Coppola,Prime Video
+"Distant Voices, Still Lives",1988,English,7.4,10000,"Drama, Music",Terence Davies,Hotstar
+The Long Day Closes,1992,English,7.4,5000,Drama,Terence Davies,Prime Video
+The House of Mirth,2000,English,7,15000,"Drama, Romance",Terence Davies,JioCinema
+The Deep Blue Sea,2011,English,6.2,20000,"Drama, Romance",Terence Davies,SonyLIV
+A Quiet Passion,2016,English,6.6,10000,"Biography, Drama",Terence Davies,Netflix
+Benediction,2021,English,6.7,5000,"Biography, Drama, War",Terence Davies,Hotstar
+Sunset Song,2015,English,6.3,5000,Drama,Terence Davies,SonyLIV
+Of Time and the City,2008,English,7.3,2000,Documentary,Terence Davies,SonyLIV
+The Neon Demon,2016,English,6.1,100000,"Horror, Thriller",Nicolas Winding Refn,SonyLIV
+Only God Forgives,2013,English,5.7,120000,"Action, Crime, Drama",Nicolas Winding Refn,Zee5
+Drive,2011,English,7.8,650000,"Action, Crime, Drama",Nicolas Winding Refn,Hotstar
+Valhalla Rising,2009,English,6,65000,"Action, Adventure, Drama",Nicolas Winding Refn,Zee5
+Bronson,2008,English,7,130000,"Action, Biography, Crime",Nicolas Winding Refn,JioCinema
+Pusher,1996,Danish,7.3,45000,"Crime, Drama, Thriller",Nicolas Winding Refn,Hotstar
+Pusher II,2004,Danish,7.4,35000,"Action, Crime, Drama",Nicolas Winding Refn,Zee5
+Pusher III,2005,Danish,7.2,25000,"Action, Crime, Drama",Nicolas Winding Refn,Hotstar
+Fear X,2003,English,5.9,10000,"Drama, Mystery, Thriller",Nicolas Winding Refn,Netflix
+Bleeder,1999,Danish,6.7,10000,"Crime, Drama",,SonyLIV
+The Northman,2022,English,7,250000,"Action, Adventure, Drama",Robert Eggers,Netflix
+The Lighthouse,2019,English,7.4,250000,"Drama, Fantasy, Horror",Robert Eggers,Zee5
+The Witch,2015,English,7,280000,"Drama, Fantasy, Horror",Robert Eggers,Hotstar
+Nosferatu,2024,English,7.5,50000,"Fantasy, Horror",Robert Eggers,SonyLIV
+Blackberry,2023,English,7.4,60000,"Biography, Comedy, Drama",Matt Johnson,Hotstar
+The Iron Claw,2023,English,7.7,120000,"Biography, Drama, Sport",Sean Durkin,Zee5
+Saltburn,2023,English,7,250000,"Comedy, Drama, Thriller",Emerald Fennell,SonyLIV
+Promising Young Woman,2020,English,7.5,200000,"Crime, Drama, Mystery",Emerald Fennell,Zee5
+The Holdovers,2023,English,7.9,150000,"Comedy, Drama",Alexander Payne,SonyLIV
+Sideways,2004,English,7.5,200000,"Comedy, Drama, Romance",Alexander Payne,Zee5
+The Descendants,2011,English,7.3,250000,"Comedy, Drama",,Netflix
+Nebraska,2013,English,7.7,120000,"Comedy, Drama",,SonyLIV
+About Schmidt,2002,English,7.1,130000,"Comedy, Drama",,Netflix
+Election,1999,English,7.3,110000,"Comedy, Drama, Romance",,Netflix
+Citizen Ruth,1996,English,6.8,15000,"Comedy, Drama",,Netflix
+Downsizing,2017,English,5.8,110000,"Comedy, Drama, Sci-Fi",,Prime Video
+The Banshees of Inisherin,2022,English,7.7,250000,"Comedy, Drama",Martin McDonagh,SonyLIV
+"Three Billboards Outside Ebbing, Missouri",2017,English,8.1,550000,"Comedy, Crime, Drama",Martin McDonagh,Prime Video
+In Bruges,2008,English,7.9,450000,"Comedy, Crime, Drama",Martin McDonagh,Netflix
+Seven Psychopaths,2012,English,7.1,280000,"Comedy, Crime",,Hotstar
+Baby Driver,2017,English,7.6,580000,"Action, Crime, Drama",Edgar Wright,JioCinema
+Scott Pilgrim vs. the World,2010,English,7.5,450000,"Action, Comedy, Fantasy",Edgar Wright,Zee5
+Shaun of the Dead,2004,English,7.9,580000,"Comedy, Horror",Edgar Wright,SonyLIV
+Hot Fuzz,2007,English,7.8,550000,"Action, Comedy, Mystery",Edgar Wright,Prime Video
+The World's End,2013,English,6.9,300000,"Action, Comedy, Sci-Fi",Edgar Wright,Netflix
+Last Night in Soho,2021,English,7,150000,"Drama, Horror, Mystery",Edgar Wright,JioCinema
+The Sparks Brothers,2021,English,7.7,10000,"Documentary, Music",Edgar Wright,JioCinema
+A Fistful of Dollars,1964,Italian,7.9,250000,"Action, Drama, Western",Sergio Leone,SonyLIV
+For a Few Dollars More,1965,Italian,8.2,280000,"Action, Drama, Western",Sergio Leone,SonyLIV
+Once Upon a Time in the West,1968,Italian,8.5,350000,Western,Sergio Leone,JioCinema
+"Duck, You Sucker!",1971,Italian,7.6,40000,"Drama, War, Western",Sergio Leone,JioCinema
+The Colossus of Rhodes,1961,Italian,5.8,5000,"Action, Adventure, Drama",Sergio Leone,JioCinema
+My Name Is Nobody,1973,Italian,7.3,30000,"Comedy, Western",Tonino Valerii,Hotstar
+"A Genius, Two Partners and a Dupe",1975,Italian,6.2,5000,"Comedy, Western",Damiano Damiani,JioCinema
+Pat Garrett and Billy the Kid,1973,English,7.2,25000,"Biography, Drama, Western",Sam Peckinpah,Prime Video
+The Wild Bunch,1969,English,7.9,90000,"Action, Adventure, Western",Sam Peckinpah,Netflix
+Straw Dogs,1971,English,7.4,65000,"Crime, Drama, Thriller",Sam Peckinpah,Zee5
+Cross of Iron,1977,English,7.4,35000,"Drama, War",Sam Peckinpah,SonyLIV
+The Getaway,1972,English,7.4,45000,"Action, Crime, Thriller",Sam Peckinpah,SonyLIV
+Bring Me the Head of Alfredo Garcia,1974,English,7,20000,"Action, Crime, Drama",Sam Peckinpah,Netflix
+Junior Bonner,1972,English,7,5000,"Drama, Western",,SonyLIV
+The Killer Elite,1975,English,5.9,10000,"Action, Crime, Thriller",,JioCinema
+Convoy,1978,English,6.4,30000,"Action, Comedy, Drama",,JioCinema
+The Osterman Weekend,1983,English,5.8,10000,"Action, Thriller",,JioCinema
+Unforgiven,1992,English,8.2,450000,"Drama, Western",Clint Eastwood,JioCinema
+Million Dollar Baby,2004,English,8.1,750000,"Drama, Sport",Clint Eastwood,Netflix
+Gran Torino,2008,English,8.1,850000,Drama,Clint Eastwood,Zee5
+Mystic River,2003,English,7.9,480000,"Crime, Drama, Mystery",Clint Eastwood,Netflix
+Letters from Iwo Jima,2006,Japanese,7.8,180000,"Action, Adventure, Drama",Clint Eastwood,Hotstar
+Flags of Our Fathers,2006,English,7.1,130000,"Action, Adventure, Drama",Clint Eastwood,Prime Video
+American Sniper,2014,English,7.3,500000,"Action, Biography, Drama",Clint Eastwood,Netflix
+Sully,2016,English,7.4,280000,"Biography, Drama",,Zee5
+Richard Jewell,2019,English,7.5,95000,"Biography, Crime, Drama",,SonyLIV
+Cry Macho,2021,English,5.7,45000,"Drama, Western",,Netflix
+The Mule,2018,English,7,150000,"Crime, Drama, Mystery",,SonyLIV
+Invictus,2009,English,7.3,230000,"Biography, Drama, History",,Zee5
+Changeling,2008,English,7.8,260000,"Biography, Crime, Drama",,Hotstar
+Space Cowboys,2000,English,6.5,85000,"Action, Adventure, Sci-Fi",,SonyLIV
+True Crime,1999,English,6.6,35000,"Crime, Drama, Mystery",,Netflix
+Absolute Power,1997,English,6.7,55000,"Crime, Drama, Thriller",,SonyLIV
+The Bridges of Madison County,1995,English,7.6,85000,"Drama, Romance",,Zee5
+A Perfect World,1993,English,7.5,85000,"Crime, Drama, Thriller",,Netflix
+White Hunter Black Heart,1990,English,6.6,15000,"Adventure, Drama",,Hotstar
+Pale Rider,1985,English,7.3,65000,Western,,SonyLIV
+Honkytonk Man,1982,English,6.6,10000,"Comedy, Drama, Music",,Zee5
+Firefox,1982,English,6,30000,"Action, Adventure, Thriller",,Prime Video
+The Outlaw Josey Wales,1976,English,7.8,85000,Western,,Zee5
+High Plains Drifter,1973,English,7.5,60000,Western,,Zee5
+Play Misty for Me,1971,English,7,35000,"Drama, Thriller",,Netflix
+Sudden Impact,1983,English,6.6,45000,"Action, Crime, Thriller",Clint Eastwood,Hotstar
+Bronco Billy,1980,English,6.1,15000,"Action, Adventure, Comedy",,SonyLIV
+The Eiger Sanction,1975,English,6.4,25000,"Action, Crime, Thriller",,Prime Video
+The Gauntlet,1977,English,6.4,25000,"Action, Crime, Thriller",,Netflix
+Heartbreak Ridge,1986,English,6.8,45000,"Action, Drama, War",,Zee5
+Bird,1988,English,7.1,15000,"Biography, Drama, Music",,Zee5
+Midnight in the Garden of Good and Evil,1997,English,6.6,45000,"Crime, Drama, Mystery",,Netflix
+Hereafter,2010,English,6.4,100000,"Drama, Fantasy",,Prime Video
+J. Edgar,2011,English,6.5,130000,"Biography, Drama, Romance",,Prime Video
+Jersey Boys,2014,English,6.8,45000,"Biography, Drama, Music",,JioCinema
+The 15:17 to Paris,2018,English,5.3,35000,"Biography, Drama, Thriller",,Hotstar
+Ears on a Postcard,2024,English,6.5,1000,Drama,,JioCinema
+The Searchers,1956,English,7.9,95000,"Adventure, Drama, Western",John Ford,SonyLIV
+The Grapes of Wrath,1940,English,8.1,100000,Drama,John Ford,Hotstar
+Stagecoach,1939,English,7.8,55000,"Adventure, Western",John Ford,Hotstar
+The Quiet Man,1952,English,7.7,45000,"Comedy, Drama, Romance",John Ford,Netflix
+The Man Who Shot Liberty Valance,1962,English,8.1,85000,"Drama, Western",John Ford,Hotstar
+How Green Was My Valley,1941,English,7.7,25000,"Drama, Family",John Ford,Netflix
+The Informer,1935,English,7.5,10000,"Crime, Drama",John Ford,SonyLIV
+My Darling Clementine,1946,English,7.7,25000,"Drama, Western",John Ford,Zee5
+She Wore a Yellow Ribbon,1949,English,7.3,20000,Western,John Ford,Hotstar
+Fort Apache,1948,English,7.5,20000,Western,John Ford,JioCinema
+Rio Grande,1950,English,7.1,15000,Western,John Ford,SonyLIV
+They Were Expendable,1945,English,7.2,10000,"Action, Drama, War",John Ford,SonyLIV
+The Fugitive,1947,English,6.8,2000,Drama,,SonyLIV
+3 Godfathers,1948,English,7.1,10000,Western,,JioCinema
+The Long Gray Line,1955,English,7.1,5000,"Biography, Drama",,JioCinema
+Mister Roberts,1955,English,7.6,25000,"Comedy, Drama, War",,SonyLIV
+The Horse Soldiers,1959,English,7.1,15000,"Action, Adventure, War",,Hotstar
+Sergeant Rutledge,1960,English,7.4,5000,"Crime, Drama, Western",,JioCinema
+Donovan's Reef,1963,English,6.9,10000,"Action, Comedy, Romance",,SonyLIV
+Cheyenne Autumn,1964,English,6.7,5000,"Drama, History, Western",,Netflix
+7 Women,1966,English,6.9,2000,Drama,,SonyLIV
+The Iron Horse,1924,English,7.2,2000,Western,,Hotstar
+3 Bad Men,1926,English,7,1000,Western,,Prime Video
+Four Sons,1928,English,7.3,1000,Drama,,JioCinema
+The Lost Patrol,1934,English,7,5000,"Action, Adventure, War",,Prime Video
+The Prisoner of Shark Island,1936,English,7.3,2000,"Biography, Drama, History",,Hotstar
+Drums Along the Mohawk,1939,English,7.1,10000,"Adventure, Drama, History",,Netflix
+Young Mr. Lincoln,1939,English,7.6,10000,"Biography, Drama",,Hotstar
+The Long Voyage Home,1940,English,7,5000,"Drama, War",,Hotstar
+Tobacco Road,1941,English,6.5,2000,"Comedy, Drama",,Netflix
+The Battle of Midway,1942,English,6.8,5000,"Documentary, Short, War",,JioCinema
+December 7th,1943,English,7,1000,"Documentary, Short, War",,SonyLIV
+The Battle of San Pietro,1945,English,7.6,2000,"Documentary, War",,SonyLIV
+Let There Be Light,1946,English,8.1,2000,"Documentary, War",,Netflix
+The Ox-Bow Incident,1943,English,8,25000,"Drama, Western",William A. Wellman,SonyLIV
+The Public Enemy,1931,English,7.6,20000,"Crime, Drama",William A. Wellman,Prime Video
+Beau Geste,1939,English,7.6,5000,"Action, Adventure, Drama",William A. Wellman,Netflix
+Battleground,1949,English,7.5,10000,"Action, Drama, War",William A. Wellman,Prime Video
+Yellow Sky,1948,English,7.4,5000,Western,William A. Wellman,SonyLIV
+Track of the Cat,1954,English,6.5,2000,"Drama, Western",,SonyLIV
+Blood Alley,1955,English,6.3,2000,"Action, Adventure, War",,JioCinema
+Lafayette Escadrille,1958,English,5.7,1000,"Drama, War",,Hotstar
+Wings,1927,English,7.5,15000,"Drama, Romance, War",William A. Wellman,JioCinema
+The Story of G.I. Joe,1945,English,7.8,5000,"Biography, Drama, War",William A. Wellman,Zee5
+The Call of the Wild,1935,English,6.9,2000,"Adventure, Drama, Romance",,Hotstar
+A Star Is Born,1937,English,7.5,10000,"Drama, Romance",,SonyLIV
+Nothing Sacred,1937,English,7.1,5000,Comedy,,Hotstar
+The Lady Eve,1941,English,7.7,30000,"Comedy, Romance",Preston Sturges,Netflix
+Sullivan's Travels,1941,English,7.9,25000,"Adventure, Comedy, Drama",Preston Sturges,JioCinema
+The Palm Beach Story,1942,English,7.5,10000,"Comedy, Romance",Preston Sturges,Netflix
+The Miracle of Morgan's Creek,1944,English,7.6,10000,"Comedy, Romance",Preston Sturges,SonyLIV
+Hail the Conquering Hero,1944,English,7.7,5000,"Comedy, War",Preston Sturges,Prime Video
+The Great McGinty,1940,English,7.2,2000,"Comedy, Drama",,Zee5
+Christmas in July,1940,English,7.3,2000,"Comedy, Romance",,Zee5
+Unfaithfully Yours,1948,English,7.4,5000,"Comedy, Music, Romance",,Prime Video
+The Beautiful Blonde from Bashful Bend,1949,English,6,1000,"Comedy, Western",,Hotstar
+The French Connection,1971,English,7.7,130000,"Action, Crime, Drama",William Friedkin,Netflix
+The Exorcist,1973,English,8.1,450000,Horror,William Friedkin,SonyLIV
+Sorcerer,1977,English,7.7,35000,"Adventure, Drama, Thriller",William Friedkin,JioCinema
+To Live and Die in L.A.,1985,English,7.3,35000,"Action, Crime, Drama",William Friedkin,JioCinema
+Killer Joe,2011,English,6.7,65000,"Comedy, Crime, Drama",William Friedkin,SonyLIV
+The Caine Mutiny Court-Martial,2023,English,7,10000,"Drama, War",William Friedkin,JioCinema
+Bug,2006,English,6.1,45000,"Drama, Horror, Thriller",William Friedkin,JioCinema
+The Guardian,1990,English,5.3,15000,"Horror, Thriller",William Friedkin,SonyLIV
+Blue Chips,1994,English,6.2,15000,"Drama, Sport",,JioCinema
+Jade,1995,English,5.3,15000,"Crime, Drama, Thriller",,Prime Video
+Rules of Engagement,2000,English,6.4,55000,"Action, Drama, Thriller",,Prime Video
+The Hunted,2003,English,6,50000,"Action, Crime, Drama",,SonyLIV
+Cruising,1980,English,7,30000,"Crime, Drama, Mystery",,Hotstar
+The Night They Raided Minsky's,1968,English,6.7,2000,"Comedy, Musical",,Netflix
+The Birthday Party,1968,English,6.5,1000,Drama,,Hotstar
+The Boys in the Band,1970,English,7.6,5000,Drama,,SonyLIV
+M,1931,German,8.3,160000,"Crime, Mystery, Thriller",Fritz Lang,Prime Video
+The Big Heat,1953,English,7.9,25000,"Crime, Film-Noir, Thriller",Fritz Lang,Prime Video
+Fury,1936,English,7.9,10000,"Crime, Drama, Film-Noir",Fritz Lang,SonyLIV
+You Only Live Once,1937,English,7.2,5000,"Crime, Drama, Film-Noir",Fritz Lang,SonyLIV
+The Woman in the Window,1944,English,7.6,15000,"Crime, Film-Noir, Thriller",Fritz Lang,Zee5
+Scarlet Street,1945,English,7.8,15000,"Crime, Drama, Film-Noir",Fritz Lang,JioCinema
+The Testament of Dr. Mabuse,1933,German,7.8,15000,"Crime, Horror, Mystery",Fritz Lang,Zee5
+"Dr. Mabuse, the Gambler",1922,German,7.8,10000,"Crime, Mystery, Thriller",Fritz Lang,Hotstar
+Die Nibelungen: Siegfried,1924,German,8,10000,"Adventure, Drama, Fantasy",Fritz Lang,Prime Video
+Die Nibelungen: Kriemhild's Revenge,1924,German,7.9,5000,"Adventure, Drama, Fantasy",Fritz Lang,Hotstar
+Spies,1928,German,7.5,5000,Thriller,,Zee5
+Woman in the Moon,1929,German,7.2,5000,Sci-Fi,,Zee5
+Western Union,1941,English,6.9,2000,Western,,SonyLIV
+Man Hunt,1941,English,7.3,5000,"Drama, Thriller",,Prime Video
+Ministry of Fear,1944,English,7,5000,"Film-Noir, Thriller",,Netflix
+Secret Beyond the Door,1947,English,6.7,5000,"Film-Noir, Mystery, Thriller",,Prime Video
+Moonfleet,1955,English,6.6,2000,"Adventure, Drama",,Netflix
+Beyond a Reasonable Doubt,1956,English,6.9,5000,"Crime, Film-Noir, Mystery",,Zee5
+While the City Sleeps,1956,English,6.9,5000,"Crime, Drama, Film-Noir",,Netflix
+The Tiger of Eschnapur,1959,German,6.6,1000,"Adventure, Drama, Romance",,Prime Video
+The Indian Tomb,1959,German,6.6,1000,"Adventure, Drama, Romance",,Zee5
+"The 1,000 Eyes of Dr. Mabuse",1960,German,6.8,2000,"Crime, Horror, Mystery",,Netflix
+Rancho Notorious,1952,English,6.9,5000,Western,,Prime Video
+Clash by Night,1952,English,6.8,5000,"Drama, Film-Noir",,Hotstar
+The Blue Gardenia,1953,English,7,5000,"Crime, Film-Noir, Mystery",,Prime Video
+Human Desire,1954,English,7,5000,"Crime, Film-Noir, Romance",,Zee5
+Anatomy of a Murder,1959,English,8,70000,"Crime, Drama, Mystery",Otto Preminger,Netflix
+Laura,1944,English,8,55000,"Crime, Film-Noir, Mystery",Otto Preminger,Netflix
+Advise & Consent,1962,English,7.7,10000,"Drama, Thriller",Otto Preminger,Netflix
+The Man with the Golden Arm,1955,English,7.3,15000,"Crime, Drama",Otto Preminger,JioCinema
+Bunny Lake Is Missing,1965,English,7.2,10000,"Mystery, Thriller",Otto Preminger,Zee5
+Exodus,1960,English,6.8,10000,"Action, Drama, History",Otto Preminger,Zee5
+Carmen Jones,1954,English,6.7,5000,"Drama, Musical, Romance",Otto Preminger,Zee5
+Where the Sidewalk Ends,1950,English,7.6,10000,"Crime, Film-Noir, Mystery",Otto Preminger,Prime Video
+Angel Face,1953,English,7.1,5000,"Crime, Drama, Film-Noir",,Netflix
+River of No Return,1954,English,6.6,15000,"Adventure, Western",,JioCinema
+The Cardinal,1963,English,6.7,2000,Drama,,JioCinema
+In Harm's Way,1965,English,7.2,10000,"Drama, War",,JioCinema
+Hurry Sundown,1967,English,6,1000,Drama,,Prime Video
+Skidoo,1968,English,4.1,1000,"Comedy, Crime",,Prime Video
+"Tell Me That You Love Me, Junie Moon",1970,English,6.3,1000,"Comedy, Drama",,Zee5
+Such Good Friends,1971,English,6.3,1000,"Comedy, Drama",,Prime Video
+Rosebud,1975,English,4.5,1000,"Action, Drama, Thriller",,Netflix
+The Human Factor,1979,English,6.3,1000,"Drama, Thriller",,Zee5
+The Manchurian Candidate,1962,English,7.9,110000,"Drama, Thriller",John Frankenheimer,Zee5
+Seconds,1966,English,7.6,25000,"Sci-Fi, Thriller",John Frankenheimer,Netflix
+Ronin,1998,English,7.2,190000,"Action, Crime, Thriller",John Frankenheimer,SonyLIV
+Seven Days in May,1964,English,7.8,20000,"Drama, Thriller",John Frankenheimer,Zee5
+The Train,1964,English,7.8,15000,"Action, Thriller, War",John Frankenheimer,Netflix
+Grand Prix,1966,English,7.2,15000,"Drama, Sport",,JioCinema
+The Birdman of Alcatraz,1962,English,7.8,40000,"Biography, Crime, Drama",John Frankenheimer,Hotstar
+The Iceman Cometh,1973,English,7.5,2000,Drama,,JioCinema
+French Connection II,1975,English,6.7,25000,"Action, Crime, Drama",,JioCinema
+Black Sunday,1977,English,6.9,15000,"Action, Thriller",,Zee5
+Prophecy,1979,English,5.5,10000,"Horror, Sci-Fi",,Prime Video
+The Challenge,1982,English,6.5,2000,"Action, Drama",,Zee5
+The Holcroft Covenant,1985,English,5.7,2000,"Action, Thriller",,Prime Video
+52 Pick-Up,1986,English,6.4,5000,"Action, Crime, Thriller",,Prime Video
+Dead Bang,1989,English,6.2,5000,"Action, Crime, Thriller",,Prime Video
+The Fourth War,1990,English,5.8,2000,"Action, Drama, Thriller",,Zee5
+Year of the Gun,1991,English,5.5,2000,"Action, Thriller",,Zee5
+The Island of Dr. Moreau,1996,English,4.6,35000,"Horror, Sci-Fi, Thriller",,Zee5
+George Wallace,1997,English,7.7,5000,"Biography, Drama",,SonyLIV
+Reindeer Games,2000,English,5.8,65000,"Action, Adventure, Crime",,SonyLIV
+Path to War,2002,English,7.3,2000,"Biography, Drama, War",,Prime Video
+The Dirty Dozen,1967,English,7.7,75000,"Action, Adventure, War",Robert Aldrich,Zee5
+What Ever Happened to Baby Jane?,1962,English,8,60000,"Drama, Horror, Thriller",Robert Aldrich,Prime Video
+Kiss Me Deadly,1955,English,7.5,15000,"Crime, Film-Noir, Mystery",Robert Aldrich,SonyLIV
+The Flight of the Phoenix,1965,English,7.5,20000,"Adventure, Drama",,Netflix
+The Longest Yard,1974,English,7,30000,"Comedy, Crime, Drama",,SonyLIV
+The Big Knife,1955,English,7,2000,"Drama, Film-Noir",,Hotstar
+Attack,1956,English,7.4,5000,"Action, Drama, War",,Hotstar
+The Last Sunset,1961,English,6.7,5000,Western,,JioCinema
+"Hush... Hush, Sweet Charlotte",1964,English,7.5,15000,"Crime, Drama, Horror",,Netflix
+The Killing of Sister George,1968,English,7,2000,Drama,,SonyLIV
+Too Late the Hero,1970,English,6.8,2000,"Action, Drama, War",,JioCinema
+The Grissom Gang,1971,English,6.6,1000,"Crime, Drama",,Hotstar
+Ulzana's Raid,1972,English,7,5000,Western,,Prime Video
+Emperor of the North Pole,1973,English,7.2,5000,"Action, Adventure, Drama",,JioCinema
+Hustle,1975,English,6.4,2000,"Crime, Drama, Thriller",,Prime Video
+Twilight's Last Gleaming,1977,English,6.9,2000,"Drama, Thriller",,Netflix
+The Choirboys,1977,English,5.7,1000,"Comedy, Crime, Drama",,Netflix
+The Frisco Kid,1979,English,6.3,10000,"Comedy, Western",,Hotstar
+...All the Marbles,1981,English,6.6,2000,"Comedy, Drama, Sport",,JioCinema
+The Matrix Reloaded,2003,English,7.2,580000,"Action, Sci-Fi",,Prime Video
+The Matrix Revolutions,2003,English,6.7,500000,"Action, Sci-Fi",,SonyLIV
+The Matrix Resurrections,2021,English,5.7,280000,"Action, Sci-Fi",,JioCinema
+Bound,1996,English,7.3,60000,"Crime, Thriller",,Zee5
+Cloud Atlas,2012,English,7.4,380000,"Drama, Mystery, Sci-Fi",,Prime Video
+Jupiter Ascending,2015,English,5.3,190000,"Action, Adventure, Sci-Fi",,Zee5
+Speed Racer,2008,English,6.1,85000,"Action, Adventure, Comedy",,Netflix
+V for Vendetta,2005,English,8.2,1100000,"Action, Drama, Sci-Fi",,Hotstar
+The Lion King,2019,English,6.8,250000,"Animation, Adventure, Drama",,SonyLIV
+The Little Mermaid,2023,English,7.2,160000,"Adventure, Family, Fantasy",,Prime Video
+Beauty and the Beast,2017,English,7.1,320000,"Family, Fantasy, Musical",,Hotstar
+Aladdin,2019,English,6.9,280000,"Adventure, Comedy, Family",,Hotstar
+Mulan,2020,English,5.7,160000,"Action, Adventure, Drama",,Zee5
+The Jungle Book,2016,English,7.4,280000,"Action, Adventure, Drama",,Zee5
+Cruella,2021,English,7.3,250000,"Adventure, Comedy, Crime",,Netflix
+Maleficent,2014,English,6.9,380000,"Action, Adventure, Family",,Netflix
+Maleficent: Mistress of Evil,2019,English,6.6,120000,"Adventure, Family, Fantasy",,Hotstar
+Alice in Wonderland,2010,English,6.4,420000,"Adventure, Family, Fantasy",,Zee5
+Alice Through the Looking Glass,2016,English,6.2,110000,"Adventure, Family, Fantasy",,Netflix
+Dumbo,2019,English,6.3,85000,"Adventure, Family, Fantasy",,JioCinema
+Peter Pan & Wendy,2023,English,4.4,35000,"Action, Adventure, Family",,Zee5
+Christopher Robin,2018,English,7.2,85000,"Adventure, Comedy, Drama",,Prime Video
+Mary Poppins Returns,2018,English,6.7,95000,"Adventure, Comedy, Family",,Zee5
+Saving Mr. Banks,2013,English,7.5,180000,"Biography, Comedy, Drama",,SonyLIV
+Oz the Great and Powerful,2013,English,6.3,230000,"Adventure, Family, Fantasy",,JioCinema
+Cinderella,2015,English,6.9,180000,"Adventure, Family, Fantasy",,Zee5
+Lady and the Tramp,2019,English,6.2,45000,"Adventure, Comedy, Drama",,JioCinema
+The Sorcerer's Apprentice,2010,English,6.1,160000,"Action, Adventure, Family",,Zee5
+Prince of Persia: The Sands of Time,2010,English,6.6,300000,"Action, Adventure, Fantasy",,JioCinema
+Tron: Legacy,2010,English,6.8,350000,"Action, Adventure, Sci-Fi",,Netflix
+John Carter,2012,English,6.6,280000,"Action, Adventure, Sci-Fi",,Zee5
+Tomorrowland,2015,English,6.4,180000,"Action, Adventure, Family",,Netflix
+The Lone Ranger,2013,English,6.4,250000,"Action, Adventure, Western",,Zee5
+A Wrinkle in Time,2018,English,4.3,65000,"Adventure, Family, Fantasy",,JioCinema
+The Nutcracker and the Four Realms,2018,English,5.6,45000,"Adventure, Family, Fantasy",,Hotstar
+Artemis Fowl,2020,English,4.2,35000,"Adventure, Family, Fantasy",,Hotstar
+Jungle Cruise,2021,English,6.6,180000,"Action, Adventure, Comedy",,Prime Video
+Haunted Mansion,2023,English,6.1,45000,"Comedy, Drama, Family",,Zee5
+Disenchanted,2022,English,5.6,35000,"Animation, Adventure, Comedy",,Prime Video
+Hocus Pocus 2,2022,English,6,45000,"Comedy, Family, Fantasy",,Prime Video
+Wish,2023,English,5.6,45000,"Animation, Adventure, Comedy",,SonyLIV
+The Lego Movie,2014,English,7.7,350000,"Animation, Action, Adventure","Phil Lord, Christopher Miller",Zee5
+The Lego Batman Movie,2017,English,7.3,200000,"Animation, Action, Adventure",Chris McKay,JioCinema
+The Lego Movie 2: The Second Part,2019,English,6.6,75000,"Animation, Action, Adventure",Mike Mitchell,Prime Video
+The Lego Ninjago Movie,2017,English,6,45000,"Animation, Action, Adventure",Charlie Bean,Hotstar
+Puss in Boots: The Last Wish,2022,English,7.8,180000,"Animation, Adventure, Comedy",Joel Crawford,Hotstar
+The Bad Guys,2022,English,6.8,65000,"Animation, Adventure, Comedy",Pierre Perifel,JioCinema
+Sing,2016,English,7.1,180000,"Animation, Adventure, Comedy",Garth Jennings,Prime Video
+Sing 2,2021,English,7.4,85000,"Animation, Adventure, Comedy",Garth Jennings,JioCinema
+The Secret Life of Pets,2016,English,6.5,200000,"Animation, Adventure, Comedy",Chris Renaud,Hotstar
+The Secret Life of Pets 2,2019,English,6.4,75000,"Animation, Adventure, Comedy",Chris Renaud,Hotstar
+Despicable Me 4,2024,English,6.2,50000,"Animation, Adventure, Comedy",Chris Renaud,Zee5
+The Super Mario Bros. Movie,2023,English,7,250000,"Animation, Adventure, Comedy","Aaron Horvath, Michael Jelenic",Hotstar
+Migration,2023,English,6.7,45000,"Animation, Adventure, Comedy",Benjamin Renner,JioCinema
+Trolls,2016,English,6.4,85000,"Animation, Adventure, Comedy",Mike Mitchell,Hotstar
+Trolls World Tour,2020,English,6.1,25000,"Animation, Adventure, Comedy",Walt Dohrn,JioCinema
+Trolls Band Together,2023,English,5.9,15000,"Animation, Adventure, Comedy",Walt Dohrn,SonyLIV
+"Ruby Gillman, Teenage Kraken",2023,English,5.7,10000,"Animation, Action, Adventure",Kirk DeMicco,Zee5
+The Sea Beast,2022,English,7,65000,"Animation, Adventure, Comedy",Chris Williams,JioCinema
+Guillermo del Toro's Pinocchio,2022,English,7.6,120000,"Animation, Drama, Family",Guillermo del Toro,Zee5
+Nimona,2023,English,7.5,65000,"Animation, Action, Adventure","Nick Bruno, Troy Quane",Prime Video
+The Mitchells vs. the Machines,2021,English,7.6,120000,"Animation, Adventure, Comedy",Michael Rianda,SonyLIV
+Vivo,2021,English,6.7,25000,"Animation, Adventure, Comedy",Kirk DeMicco,Zee5
+Wish Dragon,2021,English,7.2,25000,"Animation, Adventure, Comedy",Chris Appelhans,Zee5
+Klaus,2019,English,8.2,180000,"Animation, Adventure, Comedy",Sergio Pablos,SonyLIV
+Over the Moon,2020,English,6.3,25000,"Animation, Adventure, Comedy",Glen Keane,Prime Video
+Arlo the Alligator Boy,2021,English,6.5,2000,"Animation, Adventure, Comedy",,Hotstar
+The Willoughbys,2020,English,6.4,25000,"Animation, Adventure, Comedy",,SonyLIV
+The Magician's Elephant,2023,English,6.5,10000,"Animation, Adventure, Comedy",,Zee5
+Orion and the Dark,2024,English,6.4,20000,"Animation, Adventure, Comedy",,JioCinema
+Scrooge: A Christmas Carol,2022,English,6.2,5000,"Animation, Adventure, Comedy",,SonyLIV
+My Father's Dragon,2022,English,6.8,5000,"Animation, Adventure, Comedy",,Prime Video
+The Summit of the Gods,2021,French,7.5,10000,"Animation, Adventure, Drama",,SonyLIV
+Apollo 10 1/2: A Space Age Childhood,2022,English,7.2,20000,"Animation, Adventure, Drama",,SonyLIV
+Entergalactic,2022,English,7.4,15000,"Animation, Comedy, Drama",,Zee5
+The House,2022,English,6.8,15000,"Animation, Comedy, Drama",,SonyLIV
+Wendell & Wild,2022,English,6.4,10000,"Animation, Adventure, Comedy",,Prime Video
+Chicken Run: Dawn of the Nugget,2023,English,6.4,25000,"Animation, Adventure, Comedy",,JioCinema
+Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,English,7.2,95000,"Animation, Action, Adventure",Jeff Rowe,Hotstar
+The Garfield Movie,2024,English,5.7,20000,"Animation, Adventure, Comedy",Mark Dindal,Netflix
+Harold and the Purple Crayon,2024,English,5.6,5000,"Animation, Adventure, Comedy",Carlos Saldanha,Prime Video
+IF,2024,English,6.5,40000,"Animation, Adventure, Comedy",John Krasinski,Hotstar
+The Fall Guy,2024,English,6.9,120000,"Action, Comedy, Drama",David Leitch,JioCinema
+Furiosa: A Mad Max Saga,2024,English,7.6,150000,"Action, Adventure, Sci-Fi",George Miller,Hotstar
+Mad Max: Fury Road,2015,English,8.1,1100000,"Action, Adventure, Sci-Fi",George Miller,Zee5
+Mad Max,1979,English,6.8,230000,"Action, Adventure, Sci-Fi",George Miller,JioCinema
+Mad Max 2: The Road Warrior,1981,English,7.6,190000,"Action, Adventure, Sci-Fi",George Miller,Prime Video
+Mad Max Beyond Thunderdome,1985,English,6.2,150000,"Action, Adventure, Sci-Fi",George Miller,Netflix
+The Witches of Eastwick,1987,English,6.5,85000,"Comedy, Fantasy, Horror",George Miller,Netflix
+Lorenzo's Oil,1992,English,7.3,25000,Drama,,SonyLIV
+Babe: Pig in the City,1998,English,5.8,35000,"Adventure, Comedy, Drama",,JioCinema
+Happy Feet,2006,English,6.4,180000,"Animation, Adventure, Comedy",,Zee5
+Happy Feet Two,2011,English,5.8,55000,"Animation, Adventure, Comedy",,Hotstar
+Three Thousand Years of Longing,2022,English,6.7,75000,"Drama, Fantasy, Romance",George Miller,Prime Video
+A Quiet Place,2018,English,7.5,580000,"Horror, Sci-Fi, Thriller",John Krasinski,Netflix
+A Quiet Place Part II,2020,English,7.2,280000,"Horror, Sci-Fi, Thriller",John Krasinski,JioCinema
+A Quiet Place: Day One,2024,English,6.3,85000,"Horror, Sci-Fi, Thriller",Michael Sarnoski,Prime Video
+Pig,2021,English,6.9,95000,"Drama, Mystery, Thriller",Michael Sarnoski,JioCinema
+Twisters,2024,English,6.6,85000,"Action, Adventure, Thriller",Lee Isaac Chung,SonyLIV
+Minari,2020,English,7.4,110000,Drama,Lee Isaac Chung,Hotstar
+Kingdom of the Planet of the Apes,2024,English,6.9,120000,"Action, Adventure, Sci-Fi",Wes Ball,Netflix
+The Maze Runner,2014,English,6.8,480000,"Action, Mystery, Sci-Fi",Wes Ball,Prime Video
+Maze Runner: The Scorch Trials,2015,English,6.3,280000,"Action, Mystery, Sci-Fi",Wes Ball,Hotstar
+Maze Runner: The Death Cure,2018,English,6.3,190000,"Action, Mystery, Sci-Fi",Wes Ball,Zee5
+Planet of the Apes,1968,English,8,180000,"Adventure, Sci-Fi",Franklin J. Schaffner,Prime Video
+Rise of the Planet of the Apes,2011,English,7.6,550000,"Action, Drama, Sci-Fi",Rupert Wyatt,Zee5
+Dawn of the Planet of the Apes,2014,English,7.6,450000,"Action, Adventure, Drama",Matt Reeves,Zee5
+War for the Planet of the Apes,2017,English,7.4,280000,"Action, Adventure, Drama",Matt Reeves,Hotstar
+Cloverfield,2008,English,7,420000,"Action, Horror, Sci-Fi",Matt Reeves,Prime Video
+Let Me In,2010,English,7.1,120000,"Drama, Horror, Mystery",Matt Reeves,Zee5
+10 Cloverfield Lane,2016,English,7.2,350000,"Drama, Horror, Mystery",Dan Trachtenberg,Prime Video
+The Cloverfield Paradox,2018,English,5.5,110000,"Horror, Mystery, Sci-Fi",Julius Onah,Zee5
+Prey,2022,English,7.1,230000,"Action, Adventure, Sci-Fi",Dan Trachtenberg,Prime Video
+Predator,1987,English,7.8,450000,"Action, Adventure, Horror",John McTiernan,Prime Video
+Predator 2,1990,English,6.3,180000,"Action, Horror, Sci-Fi",Stephen Hopkins,SonyLIV
+Predators,2010,English,6.4,230000,"Action, Adventure, Sci-Fi",Nimrod Antal,Prime Video
+The Predator,2018,English,5.3,130000,"Action, Adventure, Sci-Fi",Shane Black,Zee5
+Alien: Resurrection,1997,English,6.2,250000,"Action, Horror, Sci-Fi",Jean-Pierre Jeunet,Hotstar
+Alien: Romulus,2024,English,7.2,150000,"Horror, Sci-Fi",Fede Alvarez,Prime Video
+Don't Breathe,2016,English,7.1,280000,"Crime, Horror, Thriller",Fede Alvarez,Zee5
+Evil Dead,2013,English,6.5,180000,"Fantasy, Horror",Fede Alvarez,Hotstar
+The Girl in the Spider's Web,2018,English,6.1,45000,"Action, Crime, Drama",Fede Alvarez,JioCinema
+Evil Dead Rise,2023,English,6.5,120000,Horror,Lee Cronin,Netflix
+The Evil Dead,1981,English,7.4,200000,Horror,Sam Raimi,Netflix
+Evil Dead II,1987,English,7.7,180000,"Comedy, Horror",Sam Raimi,JioCinema
+Army of Darkness,1992,English,7.4,180000,"Comedy, Horror",Sam Raimi,Netflix
+Drag Me to Hell,2009,English,6.6,210000,"Comedy, Horror, Thriller",Sam Raimi,Prime Video
+A Simple Plan,1998,English,7.5,75000,"Crime, Drama, Thriller",Sam Raimi,Netflix
+The Gift,2000,English,6.7,75000,"Drama, Fantasy, Horror",Sam Raimi,Hotstar
+For Love of the Game,1999,English,6.6,45000,"Drama, Romance, Sport",,Zee5
+The Quick and the Dead,1995,English,6.5,100000,"Action, Thriller, Western",,Netflix
+Darkman,1990,English,6.4,65000,"Action, Crime, Sci-Fi",,Zee5
+Crimewave,1985,English,5.6,5000,"Comedy, Crime",,SonyLIV
+The Nice Guys,2016,English,7.4,350000,"Action, Comedy, Crime",Shane Black,Prime Video
+Kiss Kiss Bang Bang,2005,English,7.5,230000,"Comedy, Crime, Mystery",Shane Black,SonyLIV
+Lethal Weapon,1987,English,7.6,250000,"Action, Crime, Thriller",Richard Donner,Netflix
+Lethal Weapon 2,1989,English,7.2,180000,"Action, Crime, Thriller",Richard Donner,Zee5
+Lethal Weapon 3,1992,English,6.7,180000,"Action, Crime, Thriller",Richard Donner,Netflix
+Lethal Weapon 4,1998,English,6.6,180000,"Action, Crime, Thriller",Richard Donner,Hotstar
+Superman,1978,English,7.4,180000,"Action, Adventure, Sci-Fi",Richard Donner,JioCinema
+Superman II,1980,English,6.8,110000,"Action, Adventure, Sci-Fi",Richard Donner,Netflix
+The Goonies,1985,English,7.7,280000,"Adventure, Comedy, Family",Richard Donner,Prime Video
+Scrooged,1988,English,6.9,95000,"Comedy, Drama, Fantasy",Richard Donner,Hotstar
+Maverick,1994,English,7,110000,"Action, Adventure, Comedy",,Prime Video
+Assassins,1995,English,6.3,85000,"Action, Crime, Thriller",,Zee5
+Conspiracy Theory,1997,English,6.7,100000,"Action, Mystery, Thriller",,Zee5
+Timeline,2003,English,5.6,65000,"Action, Adventure, Sci-Fi",,Zee5
+16 Blocks,2006,English,6.6,130000,"Action, Crime, Drama",,Hotstar
+Pather Panchali,1955,Bengali,8.2,35000,Drama,Satyajit Ray,SonyLIV
+Mother India,1957,Hindi,7.8,12000,"Drama, Musical, Family",Mehboob Khan,Hotstar
+Mughal-E-Azam,1960,Hindi,8.1,10000,"Drama, History, Romance",K. Asif,Zee5
+Baahubali: The Beginning,2015,Telugu,8,130000,"Action, Drama",S.S. Rajamouli,Prime Video
+Baahubali 2: The Conclusion,2017,Telugu,8.2,110000,"Action, Drama",S.S. Rajamouli,SonyLIV
+Vikram,2022,Tamil,8.3,75000,"Action, Crime, Thriller",Lokesh Kanagaraj,Hotstar
+Manichitrathazhu,1993,Malayalam,8.8,25000,"Comedy, Horror, Music",Fazil,Hotstar
+Sairat,2016,Marathi,8.3,20000,"Drama, Romance",Nagraj Manjule,Zee5
+Natsamrat,2016,Marathi,8.8,10000,"Drama, Family",Mahesh Manjrekar,Prime Video
+Court,2014,Marathi,7.7,5000,Drama,Chaitanya Tamhane,Hotstar
+Talvar,2015,Hindi,8.1,35000,"Crime, Drama, Mystery",Meghna Gulzar,Zee5
+Maanagaram,2017,Tamil,8.1,15000,"Action, Thriller",Lokesh Kanagaraj,Netflix
+Visaranai,2015,Tamil,8.5,12000,"Crime, Drama, Thriller",Vetrimaaran,Prime Video
+Thalapathi,1991,Tamil,8.5,18000,"Action, Crime, Drama",Mani Ratnam,Netflix
+Iruvar,1997,Tamil,8.4,10000,Drama,,Netflix
+Dil Se..,1998,Hindi,7.5,32000,"Drama, Romance",Mani Ratnam,Zee5
+Bombay,1995,Tamil,8.1,15000,"Drama, Romance",Mani Ratnam,Hotstar
+Roja,1992,Tamil,8.1,12000,"Drama, Romance, Thriller",Mani Ratnam,JioCinema
+O Kadhal Kanmani,2015,Tamil,7.4,18000,"Drama, Romance",Mani Ratnam,Hotstar
+Maheshinte Prathikaaram,2016,Malayalam,8.3,18000,"Comedy, Drama",Dileesh Pothan,JioCinema
+Thondimuthalum Driksakshiyum,2017,Malayalam,8.2,12000,"Comedy, Drama, Thriller",Dileesh Pothan,Hotstar
+Joji,2021,Malayalam,7.8,15000,"Crime, Drama",,JioCinema
+Angamaly Diaries,2017,Malayalam,7.9,12000,"Action, Comedy, Crime",Lijo Jose Pellissery,Netflix
+Ee.Ma.Yau.,2018,Malayalam,8.2,5000,"Comedy, Drama",Lijo Jose Pellissery,Netflix
+Jallikattu,2019,Malayalam,7.4,8000,"Action, Crime, Drama",Lijo Jose Pellissery,JioCinema
+Ustad Hotel,2012,Malayalam,8.2,18000,Drama,Anwar Rasheed,Netflix
+Charlie,2015,Malayalam,8,22000,"Adventure, Drama, Musical",Martin Prakkat,Zee5
+Great Indian Kitchen,2021,Malayalam,8.1,15000,Drama,,SonyLIV
+Minnal Murali,2021,Malayalam,7.8,32000,"Action, Adventure, Comedy",Basil Joseph,Prime Video
+Ulidavaru Kandanthe,2014,Kannada,8.4,12000,"Action, Crime, Drama",Rakshit Shetty,SonyLIV
+Kirik Party,2016,Kannada,8.2,15000,"Comedy, Drama",Rishab Shetty,JioCinema
+Lucia,2013,Kannada,8,10000,"Drama, Sci-Fi, Thriller",Pawan Kumar,JioCinema
+U-Turn,2016,Kannada,7.4,5000,"Mystery, Thriller",Pawan Kumar,Zee5
+Thithi,2015,Kannada,8.1,2000,Drama,,Zee5
+Rama Rama Re...,2016,Kannada,8.2,1000,Drama,,JioCinema
+Kavaludaari,2019,Kannada,8,2000,"Crime, Drama, Thriller",Hemanth Rao,Hotstar
+Sapta Sagaradaache Ello - Side A,2023,Kannada,8.5,5000,"Drama, Romance",Hemanth Rao,Prime Video
+"Sarkari Hi. Pra. Shaale, Kasaragodu, Koduge: Ramanna Rai",2018,Kannada,8.3,5000,"Comedy, Drama",,Zee5
+The Disciple,2020,Marathi,6.8,3000,"Drama, Music",Chaitanya Tamhane,JioCinema
+Fandry,2013,Marathi,8.3,2000,Drama,,Prime Video
+Killa,2014,Marathi,8,3000,Drama,,Netflix
+Elizabeth Ekadashi,2014,Marathi,8.2,1000,Drama,,Netflix
+Ventilator,2016,Marathi,7.9,2000,"Comedy, Drama",,JioCinema
+Anandi Gopal,2019,Marathi,8.8,1000,"Biography, Drama",,SonyLIV
+Muramba,2017,Marathi,7.5,1000,"Comedy, Drama, Romance",,Zee5
+Aparajito,1956,Bengali,8.3,18000,Drama,Satyajit Ray,JioCinema
+The World of Apu,1959,Bengali,8.5,22000,Drama,Satyajit Ray,SonyLIV
+Charulata,1964,Bengali,8.1,8000,"Drama, Romance",Satyajit Ray,Prime Video
+Nayak,1966,Bengali,8.1,5000,Drama,,Hotstar
+Aranyer Din Ratri,1970,Bengali,8,3000,"Adventure, Drama",,Hotstar
+Sonar Kella,1974,Bengali,8.3,5000,"Adventure, Mystery, Thriller",Satyajit Ray,SonyLIV
+Joy Baba Felunath,1979,Bengali,8,3000,"Adventure, Mystery, Thriller",Satyajit Ray,Prime Video
+Hirak Rajar Deshe,1980,Bengali,8.7,5000,"Adventure, Comedy, Family",Satyajit Ray,SonyLIV
+Meghe Dhaka Tara,1960,Bengali,8,3000,Drama,Ritwik Ghatak,SonyLIV
+Subarnarekha,1965,Bengali,8.1,1000,Drama,,Prime Video
+Ajantrik,1958,Bengali,7.7,1000,"Comedy, Drama",,Netflix
+Bhuvan Shome,1969,Hindi,7.4,1000,Drama,Mrinal Sen,Zee5
+Khandhar,1984,Hindi,7.7,500,Drama,,Netflix
+Ek Din Pratidin,1979,Bengali,7.6,500,Drama,,Zee5
+Belaseshe,2015,Bengali,8,2000,"Drama, Family",,Hotstar
+Prajapati,2022,Bengali,8.1,3000,"Drama, Family",,JioCinema
+Ballabhpurer Roopkotha,2022,Bengali,8.2,2000,"Comedy, Horror",,Prime Video
+Hazaaron Khwaishein Aisi,2003,Hindi,7.9,5000,Drama,Sudhir Mishra,Prime Video
+Omkara,2006,Hindi,8.1,22000,"Action, Crime, Drama",Vishal Bhardwaj,JioCinema
+Maqbool,2003,Hindi,8.1,15000,"Crime, Drama, Thriller",Vishal Bhardwaj,JioCinema
+Kaminey,2009,Hindi,7.4,25000,"Action, Comedy, Crime",Vishal Bhardwaj,Prime Video
+Ship of Theseus,2012,Hindi,8,8000,Drama,Anand Gandhi,JioCinema
+Masaan,2015,Hindi,8.1,32000,Drama,Neeraj Ghaywan,SonyLIV
+Newton,2017,Hindi,7.7,32000,"Comedy, Drama",Amit Masurkar,Netflix
+Badhaai Ho,2018,Hindi,7.9,42000,"Comedy, Drama",,JioCinema
+Stree,2018,Hindi,7.5,45000,"Comedy, Horror",,Zee5
+Raazi,2018,Hindi,7.7,38000,"Action, Drama, Thriller",,Zee5
+Gully Boy,2019,Hindi,7.9,45000,"Drama, Music",,Hotstar
+Shershaah,2021,Hindi,8.4,125000,"Action, Biography, Drama",Vishnuvardhan,Netflix
+Andaz Apna Apna,1994,Hindi,8,58000,"Comedy, Family, Romance",Rajkumar Santoshi,JioCinema
+The Legend of Bhagat Singh,2002,Hindi,8.1,18000,"Action, Biography, Drama",,SonyLIV
+Lage Raho Munna Bhai,2006,Hindi,8,52000,"Comedy, Drama, Fantasy",,Netflix
+Sanju,2018,Hindi,7.6,58000,"Biography, Drama",,Hotstar
+Manjummel Boys,2024,Malayalam,8.3,25000,"Adventure, Thriller",,Prime Video
+Aavesham,2024,Malayalam,8,15000,"Action, Comedy",,Zee5
+Bramayugam,2024,Malayalam,7.9,10000,"Horror, Mystery, Thriller",,Zee5
+The Goat Life,2024,Malayalam,8.1,12000,"Adventure, Drama",,Prime Video
+Maharaja,2024,Tamil,8.5,35000,"Action, Crime, Drama",,Prime Video
+Raayan,2024,Tamil,6.9,10000,"Action, Crime, Drama",,JioCinema
+Amar Singh Chamkila,2024,Hindi,8,32000,"Biography, Drama, Music",Imtiaz Ali,SonyLIV
+Laila Majnu,2018,Hindi,7.7,15000,"Drama, Romance",,Prime Video
+The Lunchbox,2013,Hindi,7.8,65000,"Drama, Romance",Ritesh Batra,JioCinema
+Photograph,2019,Hindi,6.9,5000,"Drama, Romance",,Netflix
+Ankhon Dekhi,2013,Hindi,7.9,12000,"Comedy, Drama",,JioCinema
+Kaamyaab,2018,Hindi,7.9,3000,Drama,,Prime Video
+Sherni,2021,Hindi,6.7,15000,"Adventure, Drama",,Hotstar
+Lapata Ladies,2024,Hindi,8.5,25000,"Comedy, Drama",,SonyLIV
+Do Dooni Chaar,2010,Hindi,7.5,5000,"Comedy, Drama, Family",,Netflix
+Kapoor & Sons,2016,Hindi,7.7,32000,"Comedy, Drama, Family",,Prime Video
+Dear Zindagi,2016,Hindi,7.4,45000,"Drama, Romance",,Hotstar
+English Vinglish,2012,Hindi,7.8,38000,"Comedy, Drama, Family",,Zee5
+Panga,2020,Hindi,6.8,8000,"Drama, Sport",,JioCinema
+Bareilly Ki Barfi,2017,Hindi,7.5,32000,"Comedy, Romance",,Netflix
+Nil Battey Sannata,2015,Hindi,8.2,10000,"Comedy, Drama, Family",,Netflix
+Hichki,2018,Hindi,7.5,18000,"Comedy, Drama",,Prime Video
+Secret Superstar,2017,Hindi,7.7,32000,"Drama, Music, Musical",,SonyLIV
+Thappad,2020,Hindi,6.8,25000,Drama,,SonyLIV
+Mulak,2018,Hindi,7.6,5000,"Crime, Drama",,SonyLIV
+Manmarziyaan,2018,Hindi,6.9,12000,"Comedy, Drama, Romance",,SonyLIV
+Gulaal,2009,Hindi,8,10000,"Crime, Drama, Thriller",,JioCinema
+Ugly,2013,Hindi,8,18000,"Crime, Drama, Mystery",,Zee5
+Raman Raghav 2.0,2016,Hindi,7.3,15000,"Crime, Drama, Thriller",,SonyLIV
+Kennedy,2023,Hindi,6.8,2000,"Crime, Drama, Thriller",,Prime Video
+Sarfarosh,1999,Hindi,8.1,25000,"Action, Drama, Thriller",,SonyLIV
+Vaastav: The Reality,1999,Hindi,8,15000,"Action, Crime, Drama",,Hotstar
+Parinda,1989,Hindi,7.8,5000,"Action, Crime, Drama",,Netflix
+Khalnayak,1993,Hindi,7.1,8000,"Action, Adventure, Crime",,JioCinema
+Agneepath,1990,Hindi,7.6,8000,"Action, Crime, Drama",,JioCinema
+Don,1978,Hindi,7.7,10000,"Action, Adventure, Crime",,Netflix
+Kaala Patthar,1979,Hindi,7.6,5000,"Action, Drama",,Netflix
+Trishul,1978,Hindi,7.7,5000,"Action, Drama",,Netflix
+Bawarchi,1972,Hindi,8,5000,"Comedy, Drama, Family",,Prime Video
+Angoor,1982,Hindi,8.3,8000,"Comedy, Family",,Netflix
+Jaane Bhi Do Yaaro,1983,Hindi,8.3,18000,"Comedy, Crime, Drama",,SonyLIV
+Pushpak,1987,Silent,8.6,10000,"Comedy, Drama, Romance",,Prime Video
+Sadma,1983,Hindi,8.4,12000,"Drama, Romance",,Prime Video
+Masoom,1983,Hindi,8.4,12000,"Drama, Family",,Netflix
+Arth,1982,Hindi,7.8,3000,Drama,,SonyLIV
+Saaransh,1984,Hindi,8.2,5000,Drama,,Hotstar
+Mirch Masala,1987,Hindi,7.8,1000,Drama,,Netflix
+Ardh Satya,1983,Hindi,8.2,3000,"Crime, Drama",,Hotstar
+Sparsh,1980,Hindi,8,1000,Drama,,Zee5
+Ijaazat,1987,Hindi,8.3,3000,"Drama, Musical, Romance",,SonyLIV
+Maya Memsaab,1993,Hindi,6.3,2000,"Drama, Mystery, Romance",,Hotstar
+Om Dar-B-Dar,1988,Hindi,7.4,500,"Comedy, Drama",,Zee5
+Ghatashraddha,1977,Kannada,8.1,500,Drama,,Netflix
+Chidambaram,1985,Malayalam,7.8,500,Drama,,Netflix
+Piravi,1989,Malayalam,8.1,500,Drama,,Prime Video
+Mathilukal,1990,Malayalam,8.4,1000,"Biography, Drama, Romance",,Netflix
+Vidheyan,1994,Malayalam,8.3,1000,"Crime, Drama",,Zee5
+Elippathayam,1981,Malayalam,8.1,500,Drama,,Prime Video
+Vanaprastham,1999,Malayalam,8.1,1000,"Drama, Music",,Netflix
+Kodiyettam,1978,Malayalam,8.2,500,Drama,,Netflix
+Perumthachan,1991,Malayalam,8.3,1000,Drama,,Netflix
+Darbar,2020,Tamil,6,22000,"Action, Crime, Thriller",,Netflix
+Annaatthe,2021,Tamil,3.9,15000,"Action, Drama",,Netflix
+Jailer,2023,Tamil,7.1,55000,"Action, Comedy, Crime",,Hotstar
+Beast,2022,Tamil,5.2,38000,"Action, Comedy, Thriller",,Netflix
+Varisu,2023,Tamil,6,25000,"Action, Drama",,Netflix
+Thunivu,2023,Tamil,6.1,22000,"Action, Adventure, Crime",,Zee5
+Valimai,2022,Tamil,5.8,28000,"Action, Crime, Thriller",,Zee5
+Viswasam,2019,Tamil,6.7,18000,"Action, Drama",,SonyLIV
+Vedalam,2015,Tamil,6.1,12000,"Action, Drama",,SonyLIV
+Mankatha,2011,Tamil,7.7,18000,"Action, Crime, Thriller",,Netflix
+Kaththi,2014,Tamil,8.1,25000,"Action, Drama",,Zee5
+Thuppakki,2012,Tamil,8.1,32000,"Action, Thriller",,Netflix
+Ghajini,2005,Tamil,7.5,12000,"Action, Mystery, Thriller",,Hotstar
+Ghajini,2008,Hindi,7.3,65000,"Action, Mystery, Thriller",,SonyLIV
+Dhoom,2004,Hindi,6.7,25000,"Action, Crime, Thriller",,Hotstar
+Dhoom 3,2013,Hindi,5.4,48000,"Action, Adventure, Crime",,Prime Video
+Bang Bang!,2014,Hindi,5.6,25000,"Action, Adventure, Comedy",,SonyLIV
+Tiger Zinda Hai,2017,Hindi,5.9,32000,"Action, Adventure, Thriller",,Netflix
+Ek Tha Tiger,2012,Hindi,5.6,32000,"Action, Adventure, Thriller",,Hotstar
+Adipurush,2023,Hindi,3.1,125000,"Action, Adventure, Fantasy",,Netflix
+Salaar: Part 1 - Ceasefire,2023,Telugu,6.5,62000,"Action, Crime, Drama",,Netflix
+Saaho,2019,Telugu,5.1,42000,"Action, Sci-Fi, Thriller",,Prime Video
+Radhe Shyam,2022,Telugu,5.3,35000,"Drama, Romance",,JioCinema
+Mirchi,2013,Telugu,7.2,18000,"Action, Drama",,JioCinema
+Chatrapathi,2005,Telugu,7.7,12000,"Action, Drama",,SonyLIV
+Vikram,1986,Tamil,7.1,2000,"Action, Adventure, Sci-Fi",,JioCinema
+Sarkar,2018,Tamil,6.8,15000,"Action, Drama",,Prime Video
+The Great Indian Kitchen,2021,Malayalam,8.1,15000,Drama,,Zee5
+Nayattu,2021,Malayalam,8.1,12000,"Crime, Drama, Thriller",,Zee5
+Malik,2021,Malayalam,8,10000,"Action, Crime, Drama",,Prime Video
+Kuruthi,2021,Malayalam,7.5,8000,"Action, Drama, Thriller",,Hotstar
+Home,2021,Malayalam,8.8,15000,"Comedy, Drama",,SonyLIV
+Hridayam,2022,Malayalam,8.1,22000,"Drama, Musical, Romance",,Prime Video
+Bheeshma Parvam,2022,Malayalam,7.7,15000,"Action, Crime, Drama",,JioCinema
+Jana Gana Mana,2022,Malayalam,8.3,18000,"Crime, Drama, Thriller",,SonyLIV
+Thallumaala,2022,Malayalam,7.1,10000,"Action, Comedy",,Zee5
+Nna Thaan Case Kodu,2022,Malayalam,8,5000,"Comedy, Crime, Drama",,Hotstar
+Rorschach,2022,Malayalam,7.1,8000,"Mystery, Psychological, Thriller",,Prime Video
+Nanpakal Nerathu Mayakkam,2023,Malayalam,7.8,8000,"Comedy, Drama",,JioCinema
+Romancham,2023,Malayalam,7.6,12000,"Comedy, Horror",,Prime Video
+2018,2023,Malayalam,8.4,32000,"Action, Drama, Thriller",,Zee5
+Kannur Squad,2023,Malayalam,7.7,12000,"Action, Crime, Drama",,JioCinema
+Kaathal - The Core,2023,Malayalam,8.1,10000,Drama,,Zee5
+Premalu,2024,Malayalam,8.2,12000,"Comedy, Romance",,Prime Video
+Varshangalkku Shesham,2024,Malayalam,6.8,5000,"Comedy, Drama",,Netflix
+Aattam,2023,Malayalam,8.2,2000,Drama,,Prime Video
+Iratta,2023,Malayalam,8.2,10000,"Crime, Drama, Mystery",,SonyLIV
+Purusha Pretham,2023,Malayalam,7.4,2000,"Comedy, Crime, Mystery",,Netflix
+Falimy,2023,Malayalam,7.7,3000,"Comedy, Drama, Family",,Prime Video
+Chaveezhu,2023,Malayalam,5.6,1000,"Crime, Drama",,Zee5
+Guruvayoor Ambalanadayil,2024,Malayalam,6.9,5000,"Comedy, Drama",,Hotstar
+Turbo,2024,Malayalam,6.1,8000,"Action, Comedy",,Netflix
+Malayalee From India,2024,Malayalam,5.2,3000,"Comedy, Drama",,JioCinema
+Pavi Caretaker,2024,Malayalam,5.1,1000,"Comedy, Drama",,Prime Video
+Jai Ganesh,2024,Malayalam,6.2,1000,"Drama, Mystery, Thriller",,Prime Video
+Nadikar,2024,Malayalam,5,1000,"Comedy, Drama",,JioCinema
+Anchakkallakokkan,2024,Malayalam,6.5,500,"Action, Crime",,Hotstar
+Thundu,2024,Malayalam,5.1,500,"Comedy, Drama",,Prime Video
+Anweshippin Kandethum,2024,Malayalam,7.2,5000,"Crime, Drama, Mystery",,Prime Video
+Abraham Ozler,2024,Malayalam,6.5,8000,"Crime, Drama, Mystery",,Prime Video
+Ozler,2024,Malayalam,6.5,8000,"Crime, Drama, Mystery",,SonyLIV
+Sabaash Chandrabose,2022,Malayalam,7.8,1000,"Comedy, Drama",,Zee5
+Njan Prakashan,2018,Malayalam,7.6,10000,"Comedy, Drama",,Netflix
+Carbon,2018,Malayalam,7.2,2000,"Adventure, Drama, Mystery",,Zee5
+Aadu 2,2017,Malayalam,7.3,5000,"Action, Comedy",,JioCinema
+Mayanadhi,2017,Malayalam,7.9,5000,"Drama, Romance",,Hotstar
+Kammatipaadam,2016,Malayalam,8,8000,"Action, Crime, Drama",,Prime Video
+Guppy,2016,Malayalam,8.1,5000,Drama,,Prime Video
+Annayum Rasoolum,2013,Malayalam,7.5,3000,"Drama, Romance",,Zee5
+North 24 Kaatham,2013,Malayalam,7.6,3000,"Adventure, Comedy, Drama",,Hotstar
+Amen,2013,Malayalam,8,5000,"Comedy, Drama, Musical",,Hotstar
+Celluloid,2013,Malayalam,7.8,1000,"Biography, Drama",,Hotstar
+Pranchiyettan & the Saint,2010,Malayalam,8.1,5000,"Comedy, Drama",,Prime Video
+Kerala Cafe,2009,Malayalam,7.5,1000,"Drama, Thriller",,Netflix
+Paleri Manikyam,2009,Malayalam,8,2000,"Crime, Drama, Mystery",,JioCinema
+Passenger,2009,Malayalam,7.7,1000,"Crime, Drama, Thriller",,Zee5
+Kadha Parayumbol,2007,Malayalam,8.3,5000,"Comedy, Drama",,Prime Video
+Big B,2007,Malayalam,7.4,5000,"Action, Crime, Thriller",,Hotstar
+Classmates,2006,Malayalam,8.2,5000,"Comedy, Drama, Romance",,JioCinema
+Thanmathra,2005,Malayalam,8.2,5000,Drama,,SonyLIV
+Kazhcha,2004,Malayalam,8.3,3000,Drama,,Prime Video
+Nandanam,2002,Malayalam,7.8,2000,"Drama, Fantasy, Romance",,Zee5
+Meesa Madhavan,2002,Malayalam,7.9,5000,"Action, Comedy, Romance",,Netflix
+Valliettan,2000,Malayalam,6.8,2000,"Action, Drama",,Zee5
+Narasimham,2000,Malayalam,7.3,5000,"Action, Drama",,Hotstar
+Devadoothan,2000,Malayalam,7.4,2000,"Horror, Musical, Mystery",,SonyLIV
+Harikrishnans,1998,Malayalam,6.5,2000,"Comedy, Mystery, Romance",,Zee5
+Chinthavishtayaya Shyamala,1998,Malayalam,8.4,2000,"Comedy, Drama",,SonyLIV
+Chandralekha,1997,Malayalam,7.9,3000,"Comedy, Drama",,Zee5
+Aaraam Thampuran,1997,Malayalam,8.2,5000,"Action, Drama",,SonyLIV
+Deshadanam,1996,Malayalam,8,500,Drama,,Zee5
+The King,1995,Malayalam,7.4,2000,"Action, Drama",,Hotstar
+Spadikam,1995,Malayalam,8.5,8000,"Action, Drama",,Netflix
+Commissionner,1994,Malayalam,7.9,2000,"Action, Crime, Drama",,Prime Video
+Thenmavin Kombath,1994,Malayalam,8.4,5000,"Comedy, Musical, Romance",,Hotstar
+Pavithram,1994,Malayalam,8.3,2000,Drama,,Prime Video
+Devasuram,1993,Malayalam,8.6,5000,"Action, Drama",,JioCinema
+Vietnam Colony,1992,Malayalam,8.1,2000,"Comedy, Drama",,Prime Video
+Pappayude Swantham Appoos,1992,Malayalam,7.8,1000,"Drama, Family",,Hotstar
+Kauravar,1992,Malayalam,8.1,1000,"Action, Crime, Drama",,SonyLIV
+Kilukkam,1991,Malayalam,8.7,8000,"Comedy, Musical, Romance",,Netflix
+Amaram,1991,Malayalam,8.3,2000,Drama,,JioCinema
+Njan Gandharvan,1991,Malayalam,8.1,1000,"Drama, Fantasy, Romance",,Netflix
+In Harihar Nagar,1990,Malayalam,8.4,5000,"Comedy, Crime, Mystery",,Hotstar
+No.20 Madras Mail,1990,Malayalam,8,3000,"Action, Comedy, Mystery",,SonyLIV
+Kireedam,1989,Malayalam,8.9,5000,"Action, Drama",,JioCinema
+Oru Vadakkan Veeragatha,1989,Malayalam,8.8,5000,"Action, Biography, Drama",,JioCinema
+Ramji Rao Speaking,1989,Malayalam,8.6,5000,"Comedy, Drama",,SonyLIV
+Chitram,1988,Malayalam,8.6,5000,"Comedy, Musical, Romance",,Zee5
+Oru CBI Diary Kurippu,1988,Malayalam,8.4,3000,"Crime, Mystery, Thriller",,Prime Video
+Vaishali,1988,Malayalam,8.1,1000,"Drama, Fantasy, History",,Hotstar
+Thoovanathumbikal,1987,Malayalam,8.6,5000,"Drama, Romance",,Prime Video
+New Delhi,1987,Malayalam,8.1,2000,"Action, Crime, Drama",,Hotstar
+Irupatham Noottandu,1987,Malayalam,8.2,2000,"Action, Crime, Drama",,JioCinema
+Namukku Parkkan Munthirithoppukal,1986,Malayalam,8.6,3000,"Drama, Romance",,Hotstar
+Sukhamo Devi,1986,Malayalam,8,1000,"Drama, Romance",,SonyLIV
+Panchavadi Palam,1984,Malayalam,8.5,2000,"Comedy, Satire",,Prime Video
+Sandesham,1991,Malayalam,9,5000,"Comedy, Drama",,JioCinema
+Nadodikkattu,1987,Malayalam,8.8,5000,"Comedy, Crime, Drama",,JioCinema
+Pattanapravesham,1988,Malayalam,8.4,3000,"Comedy, Crime, Drama",,Prime Video
+Akkare Akkare Akkare,1990,Malayalam,8.3,3000,"Comedy, Crime, Drama",,Netflix
+Yavanika,1982,Malayalam,8.3,1000,"Crime, Drama, Mystery",,SonyLIV
+Adaminte Makan Abu,2011,Malayalam,8.2,1000,Drama,,Zee5
+Shutter,2012,Malayalam,7.8,1000,"Drama, Thriller",,Netflix
+Munnariyippu,2014,Malayalam,8.1,3000,"Crime, Drama, Mystery",,Netflix
+Iyobinte Pusthakam,2014,Malayalam,7.7,3000,"Action, Drama, Thriller",,Hotstar
+Pathemari,2015,Malayalam,8.3,2000,Drama,,SonyLIV
+Ennu Ninte Moideen,2015,Malayalam,8.1,8000,"Biography, Drama, Romance",,SonyLIV
+Moothon,2019,Malayalam,7.5,3000,"Action, Crime, Drama",,Zee5
+Trance,2020,Malayalam,7.3,10000,Drama,,Zee5
+Ayyappanum Koshiyum,2020,Malayalam,8,22000,"Action, Drama, Thriller",,Zee5
+The Priest,2021,Malayalam,6,10000,"Horror, Mystery, Thriller",,JioCinema
+Bheesmaparvam,2022,Malayalam,7.7,15000,"Action, Crime, Drama",,Hotstar
+Brahmayugam,2024,Malayalam,7.9,10000,"Horror, Mystery, Thriller",,JioCinema
+Guntur Kaaram,2024,Telugu,5.3,15000,"Action, Drama",,Netflix
+Saindhav,2024,Telugu,5.2,5000,"Action, Crime, Drama",,JioCinema
+Eagle,2024,Telugu,5.1,5000,"Action, Thriller",,SonyLIV
+Tillu Square,2024,Telugu,7.1,8000,"Comedy, Crime, Drama",,SonyLIV
+The Family Star,2024,Telugu,5.1,8000,"Action, Comedy, Drama",,Zee5
+Gaami,2024,Telugu,6.8,5000,"Adventure, Drama, Fantasy",,JioCinema
+Om Bheem Bush,2024,Telugu,5.8,2000,"Comedy, Horror",,Prime Video
+Manamey,2024,Telugu,6.2,1000,"Comedy, Drama, Romance",,SonyLIV
+Harom Hara,2024,Telugu,6.7,1000,"Action, Drama",,JioCinema
+Salaar,2023,Telugu,6.5,62000,"Action, Crime, Drama",,Netflix
+Sam Bahadur,2023,Hindi,7.8,35000,"Action, Biography, Drama",,SonyLIV
+12th Fail,2023,Hindi,8.9,115000,"Biography, Drama",,JioCinema
+OMG 2,2023,Hindi,7.5,38000,"Comedy, Drama",,Zee5
+Gadar 2,2023,Hindi,5.2,115000,"Action, Adventure, Drama",,Hotstar
+Dream Girl 2,2023,Hindi,5.4,22000,"Comedy, Romance",,Netflix
+The Kerala Story,2023,Hindi,7.1,85000,Drama,,JioCinema
+Zara Hatke Zara Bachke,2023,Hindi,6.5,15000,"Comedy, Drama, Romance",,SonyLIV
+Satyaprem Ki Katha,2023,Hindi,6.9,18000,"Comedy, Drama, Romance",,JioCinema
+Tu Jhoothi Main Makkaar,2023,Hindi,6,32000,"Comedy, Romance",,Zee5
+Kisi Ka Bhai Kisi Ki Jaan,2023,Hindi,4.3,48000,"Action, Comedy, Drama",,Prime Video
+Vikram Vedha,2022,Hindi,7.1,45000,"Action, Crime, Drama",,Zee5
+Drishyam 2,2022,Hindi,8.2,48000,"Crime, Drama, Mystery",,Netflix
+Bhediya,2022,Hindi,6.7,25000,"Comedy, Horror",,JioCinema
+Bhool Bhulaiyaa 2,2022,Hindi,5.7,38000,"Comedy, Horror",,JioCinema
+Gangubai Kathiawadi,2022,Hindi,7,68000,"Biography, Crime, Drama",,SonyLIV
+The Kashmir Files,2022,Hindi,8.2,580000,Drama,,Zee5
+"Monica, O My Darling",2022,Hindi,7.4,25000,"Comedy, Crime, Drama",,Hotstar
+Qala,2022,Hindi,7.1,15000,"Drama, Music, Psychological",,SonyLIV
+Darlings,2022,Hindi,6.6,32000,"Comedy, Crime, Drama",,SonyLIV
+Jalsa,2022,Hindi,6.6,12000,"Drama, Thriller",,Netflix
+Thar,2022,Hindi,6,15000,"Action, Crime, Drama",,Netflix
+Rocketry: The Nambi Effect,2022,Hindi,8.7,55000,"Biography, Drama",,Hotstar
+Ponniyin Selvan: Part I,2022,Tamil,7.6,35000,"Action, Adventure, Drama",,JioCinema
+Ponniyin Selvan: Part II,2023,Tamil,7.3,22000,"Action, Adventure, Drama",,Prime Video
+Vaathi,2023,Tamil,7.3,15000,"Action, Drama",,Prime Video
+Viduthalai Part 1,2023,Tamil,8.3,10000,"Action, Crime, Drama",,Hotstar
+Maamannan,2023,Tamil,6.9,12000,"Action, Drama",,SonyLIV
+Por Thozhil,2023,Tamil,8,15000,"Action, Crime, Mystery",,SonyLIV
+Good Night,2023,Tamil,7.7,5000,"Comedy, Drama, Romance",,Prime Video
+Dada,2023,Tamil,8.2,8000,"Drama, Family",,Netflix
+Mark Antony,2023,Tamil,6.8,5000,"Action, Comedy, Sci-Fi",,SonyLIV
+Jigarthanda DoubleX,2023,Tamil,8.2,12000,"Action, Comedy, Drama",,Netflix
+Chithha,2023,Tamil,8.2,10000,"Drama, Thriller",,Prime Video
+Lover,2024,Tamil,7.6,3000,"Drama, Romance",,Hotstar
+Star,2024,Tamil,7,2000,Drama,,SonyLIV
+Karu,2024,Tamil,7.1,1000,"Action, Drama",,Zee5
+Captain Miller,2024,Tamil,6.6,10000,"Action, Adventure, Drama",,Netflix
+Ayalaan,2024,Tamil,6.1,5000,"Action, Adventure, Sci-Fi",,Prime Video
+Lal Salaam,2024,Tamil,4.9,3000,"Action, Drama, Sport",,Prime Video
+Blue Star,2024,Tamil,7.1,2000,"Drama, Sport",,JioCinema
+Siren,2024,Tamil,6.8,2000,"Action, Crime, Thriller",,Hotstar
+Joshua: Imai Pol Kaakha,2024,Tamil,4.2,1000,"Action, Thriller",,JioCinema
+Kalvan,2024,Tamil,5.6,500,"Action, Comedy, Drama",,Netflix
+Aranmanai 4,2024,Tamil,5.4,5000,"Comedy, Horror",,SonyLIV
+Garudan,2024,Tamil,7.2,3000,"Action, Drama",,Prime Video
+Indian 2,2024,Tamil,4.2,15000,"Action, Crime, Drama",,JioCinema
+Iraivan,2023,Tamil,5.6,5000,"Crime, Mystery, Thriller",,Netflix
+Bagheera,2023,Tamil,4.3,1000,"Crime, Mystery, Thriller",,Netflix
+Agilan,2023,Tamil,5.1,1000,"Action, Drama",,SonyLIV
+Pathu Thala,2023,Tamil,6.5,5000,"Action, Crime, Drama",,JioCinema
+Rudhran,2023,Tamil,4.1,1000,"Action, Drama",,Netflix
+Custody,2023,Telugu,5.4,5000,"Action, Thriller",,SonyLIV
+Agent,2023,Telugu,3.9,5000,"Action, Thriller",,Netflix
+Virupaksha,2023,Telugu,7.2,12000,"Action, Mystery, Thriller",,Prime Video
+Dasara,2023,Telugu,6.7,15000,"Action, Adventure, Drama",,JioCinema
+Ravanasura,2023,Telugu,5.7,5000,"Action, Crime, Drama",,Netflix
+Balagam,2023,Telugu,8.1,3000,"Drama, Family",,Zee5
+Writer Padmabhushan,2023,Telugu,7.2,2000,"Comedy, Drama",,Netflix
+Amigos,2023,Telugu,5.6,1000,"Action, Thriller",,Netflix
+Sir,2023,Telugu,7.3,15000,"Action, Drama",,Prime Video
+Waltair Veerayya,2023,Telugu,6.3,15000,"Action, Comedy, Drama",,JioCinema
+Veera Simha Reddy,2023,Telugu,5.1,10000,"Action, Drama",,JioCinema
+Hi Nanna,2023,Telugu,8.2,18000,"Drama, Family",,Zee5
+Naa Saami Ranga,2024,Telugu,6,2000,"Action, Drama",,JioCinema
+Ambajipeta Marriage Band,2024,Telugu,7.1,1000,Drama,,Netflix
+Yatra 2,2024,Telugu,7.5,3000,"Biography, Drama",,Netflix
+Operation Valentine,2024,Telugu,6.5,2000,"Action, Drama, Thriller",,Prime Video
+Family Star,2024,Telugu,5.1,8000,"Action, Comedy, Drama",,Hotstar
+Bharateeyudu 2,2024,Telugu,4.2,15000,"Action, Crime, Drama",,Hotstar
+Mangalavaaram,2023,Telugu,6.8,3000,"Action, Mystery, Thriller",,SonyLIV
+Keedaa Cola,2023,Telugu,6.9,2000,"Comedy, Crime",,Prime Video
+Miss Shetty Mr Polishetty,2023,Telugu,7,5000,"Comedy, Drama, Romance",,Zee5
+Kushi,2023,Telugu,4.9,8000,"Comedy, Drama, Romance",,SonyLIV
+Bedurulanka 2012,2023,Telugu,6.5,1000,"Comedy, Drama",,Netflix
+Gandeevadhari Arjuna,2023,Telugu,5.1,1000,"Action, Thriller",,Prime Video
+Bhola Shankar,2023,Telugu,2.6,12000,"Action, Drama",,Zee5
+Baby,2023,Telugu,7.3,8000,"Drama, Romance",,Netflix
+Spy,2023,Telugu,5,2000,"Action, Thriller",,Netflix
+Bro,2023,Telugu,6,10000,"Comedy, Drama, Fantasy",,Hotstar
+Anni Manchi Sakunamule,2023,Telugu,6.1,1000,"Comedy, Drama, Family",,Netflix
+Mem Famous,2023,Telugu,6.2,500,"Comedy, Drama",,JioCinema
+Ramabanam,2023,Telugu,4.5,500,"Action, Drama",,JioCinema
+Ugram,2023,Telugu,6.8,1000,"Action, Crime, Thriller",,JioCinema
+Shaakuntalam,2023,Telugu,4.2,8000,"Drama, Fantasy, History",,SonyLIV
+Michael,2023,Telugu,5.1,2000,"Action, Crime, Drama",,SonyLIV
+Butta Bomma,2023,Telugu,5.8,500,"Drama, Romance",,Netflix
+Hunt,2023,Telugu,5.5,500,"Action, Crime, Thriller",,Zee5
+Ariyavan,2023,Tamil,7.1,100,Drama,,Netflix
+Ghosty,2023,Tamil,3.2,500,"Comedy, Horror",,Netflix
+Tamilarasan,2023,Tamil,4.8,500,"Action, Drama",,Zee5
+Karumegangal Kalaigindrana,2023,Tamil,6.8,200,Drama,,Zee5
+Baba Black Sheep,2023,Tamil,4.5,100,"Comedy, Drama",,Hotstar
+Maaveeran,2023,Tamil,7.4,15000,"Action, Comedy, Drama",,JioCinema
+DD Returns,2023,Tamil,6.5,1000,"Comedy, Horror",,Netflix
+LGM: Let's Get Married,2023,Tamil,4.2,500,"Comedy, Drama, Family",,Zee5
+Aneethi,2023,Tamil,7.3,1000,"Action, Drama, Thriller",,Hotstar
+King of Kotha,2023,Malayalam,6.2,8000,"Action, Crime, Drama",,Zee5
+RDX,2023,Malayalam,7,8000,"Action, Crime, Drama",,JioCinema
+Chandramukhi 2,2023,Tamil,3.4,5000,"Comedy, Horror",,Netflix
+Japan,2023,Tamil,3.8,5000,"Action, Comedy, Crime",,JioCinema
+Dhruva Natchathiram: Chapter One - Yuddha Kaandam,2024,Tamil,7,1000,"Action, Thriller",,Netflix
+Annapoorani,2023,Tamil,4.1,5000,Drama,,Prime Video
+Joe,2023,Tamil,7.9,2000,"Drama, Romance",,Zee5
+Fight Club,2023,Tamil,6.2,1000,"Action, Drama",,SonyLIV
+Mission: Chapter 1,2024,Tamil,5.8,500,"Action, Thriller",,Netflix
+The Boys,2024,Tamil,4.5,500,"Comedy, Drama",,JioCinema
+Teenz,2024,Tamil,7,200,"Adventure, Thriller",,SonyLIV
+Buddy,2024,Telugu,5.4,500,"Action, Adventure, Fantasy",,Zee5
+Committee Kurrollu,2024,Telugu,8.2,500,Drama,,Hotstar
+Double iSmart,2024,Telugu,4.1,2000,"Action, Sci-Fi",,Hotstar
+Mr Bachchan,2024,Telugu,3.8,2000,"Action, Comedy, Crime",,JioCinema
+Aay,2024,Telugu,7.5,200,"Comedy, Drama, Romance",,SonyLIV
+Saripodhaa Sanivaaram,2024,Telugu,7.5,3000,"Action, Thriller",,Hotstar
+35 Chinna Katha Kaadu,2024,Telugu,8.4,100,Drama,,Hotstar
+GOAT - Greatest of All Time,2024,Tamil,6.8,15000,"Action, Sci-Fi, Thriller",,Zee5
+Stree 2,2024,Hindi,7.8,35000,"Comedy, Horror",,Netflix
+Khel Khel Mein,2024,Hindi,7.1,5000,"Comedy, Drama",,Hotstar
+Vedaa,2024,Hindi,6.5,3000,"Action, Drama",,Zee5
+Thangalaan,2024,Tamil,7.4,8000,"Action, Adventure, Drama",,Prime Video
+Demonte Colony 2,2024,Tamil,7.2,2000,"Horror, Thriller",,Prime Video
+Vaazhai,2024,Tamil,8.5,2000,Drama,,Hotstar
+Kottukkaali,2024,Tamil,7.5,500,Drama,,Zee5
+Aazam,2023,Hindi,6.8,2000,"Crime, Thriller",,JioCinema
+Sirf Ek Bandaa Kaafi Hai,2023,Hindi,7.9,45000,"Crime, Drama",,Zee5
+Kathal - A Jackfruit Mystery,2023,Hindi,6.7,10000,"Comedy, Crime, Drama",,JioCinema
+Bloody Daddy,2023,Hindi,6.5,12000,"Action, Crime, Thriller",,Hotstar
+Lust Stories 2,2023,Hindi,5.2,10000,"Drama, Romance",,Prime Video
+Blind,2023,Hindi,4.1,5000,"Crime, Drama, Thriller",,Hotstar
+Bawaal,2023,Hindi,6.6,32000,"Drama, Romance, War",,JioCinema
+Haddi,2023,Hindi,6.8,8000,"Action, Crime, Drama",,Hotstar
+Jaane Jaan,2023,Hindi,7,32000,"Crime, Drama, Mystery",,Hotstar
+Khufiya,2023,Hindi,6.9,12000,"Action, Drama, Thriller",,JioCinema
+Mastaney,2023,Punjabi,8.1,5000,"Action, Drama, History",,Netflix
+Carry on Jatta 3,2023,Punjabi,6.5,5000,"Comedy, Romance",,SonyLIV
+Godday Godday Chaa,2023,Punjabi,7.5,1000,"Comedy, Drama",,Hotstar
+Maurh,2023,Punjabi,7.2,1000,"Action, Biography, Drama",,Hotstar
+Jodi,2023,Punjabi,7.8,2000,"Comedy, Drama, Musical",,Hotstar
+Annhi Dea Mazaak Ae,2023,Punjabi,6.4,500,Comedy,,Prime Video
+Es Jahano Door Kitte Chal Jindiye,2023,Punjabi,8.1,1000,Drama,,Prime Video
+Mitran Da Naa Chalda,2023,Punjabi,6.1,500,"Comedy, Drama",,Prime Video
+Kali Jotta,2023,Punjabi,8.3,3000,Drama,,SonyLIV
+Ved,2022,Marathi,6.7,12000,"Drama, Romance",,Netflix
+Har Har Mahadev,2022,Marathi,7.4,5000,"Action, Biography, History",,Netflix
+Sher Shivraj,2022,Marathi,8.1,5000,"Action, Biography, History",,Netflix
+Dharmaveer,2022,Marathi,8.4,3000,"Biography, Drama",,Zee5
+Pawankhind,2022,Marathi,8.6,12000,"Action, Biography, History",,Hotstar
+Chandramukhi,2022,Marathi,7.3,2000,"Drama, Musical, Romance",,Hotstar
+Baipan Bhaari Deva,2023,Marathi,7.8,5000,"Comedy, Drama",,JioCinema
+Jhimma 2,2023,Marathi,7.5,1000,"Comedy, Drama",,Netflix
+Ole Aale,2024,Marathi,8.2,1000,"Comedy, Drama",,Netflix
+Naal 2,2023,Marathi,7.6,500,Drama,,JioCinema
+Unaad,2023,Marathi,7.8,500,Drama,,Zee5
+Aatmapamphlet,2023,Marathi,8.1,1000,"Comedy, Drama",,Prime Video
+Gharat Ganpati,2024,Marathi,7.6,200,"Comedy, Drama, Family",,Hotstar
+Mumbaikar,2023,Hindi,4.5,3000,"Action, Comedy, Crime",,Hotstar
+IB71,2023,Hindi,7.1,12000,"Action, Drama, Thriller",,Netflix
+Afwaah,2023,Hindi,6.2,2000,"Crime, Drama, Mystery",,JioCinema
+Gumraah,2023,Hindi,6.4,8000,"Crime, Drama, Mystery",,Zee5
+Mrs. Chatterjee vs Norway,2023,Hindi,7.3,25000,"Biography, Drama",,SonyLIV
+Zwigato,2023,Hindi,6.9,5000,Drama,,JioCinema
+Bheed,2023,Hindi,6.8,5000,Drama,,Netflix
+Shehzada,2023,Hindi,4.5,18000,"Action, Comedy, Drama",,Hotstar
+Lost,2023,Hindi,6.1,3000,"Crime, Drama, Thriller",,SonyLIV
+Faraaz,2023,Hindi,7,3000,"Action, Drama, Thriller",,Hotstar
+Kuttey,2023,Hindi,5.2,5000,"Action, Comedy, Crime",,JioCinema
+Mission Majnu,2023,Hindi,7.1,32000,"Action, Drama, Thriller",,Zee5
+Chhatriwali,2023,Hindi,6.4,5000,"Comedy, Drama",,Netflix
+Govinda Naam Mera,2022,Hindi,6.3,15000,"Comedy, Crime, Drama",,Prime Video
+An Action Hero,2022,Hindi,7,15000,"Action, Comedy, Crime",,Hotstar
+Freddy,2022,Hindi,7.3,15000,"Crime, Drama, Mystery",,SonyLIV
+Mili,2022,Hindi,6.6,10000,"Drama, Thriller",,SonyLIV
+Ram Setu,2022,Hindi,5.1,28000,"Action, Adventure, Fantasy",,Zee5
+Thank God,2022,Hindi,5.6,12000,"Comedy, Fantasy",,Prime Video
+Doctor G,2022,Hindi,6.7,12000,"Comedy, Drama",,JioCinema
+Goodbye,2022,Hindi,6.9,10000,"Comedy, Drama, Family",,SonyLIV
+Chup: Revenge of the Artist,2022,Hindi,7.7,18000,"Crime, Drama, Mystery",,Zee5
+Brahmastra,2022,Hindi,5.6,75000,"Action, Adventure, Fantasy",,Hotstar
+Cuttputlli,2022,Hindi,5.7,28000,"Crime, Drama, Mystery",,Netflix
+Liger,2022,Hindi,2.7,55000,"Action, Drama",,JioCinema
+Laal Singh Chaddha,2022,Hindi,5.5,165000,"Comedy, Drama, Romance",,Netflix
+Raksha Bandhan,2022,Hindi,4.6,35000,"Comedy, Drama, Family",,Hotstar
+Ek Villain Returns,2022,Hindi,4.1,15000,"Action, Crime, Romance",,Hotstar
+Shamshera,2022,Hindi,4.8,38000,"Action, Adventure, Drama",,SonyLIV
+Khuda Haafiz Chapter 2: Agni Pariksha,2022,Hindi,7.1,15000,"Action, Drama, Thriller",,SonyLIV
+Jugjugg Jeeyo,2022,Hindi,6.1,22000,"Comedy, Drama, Family",,JioCinema
+Nikamma,2022,Hindi,1.8,12000,"Action, Comedy",,Hotstar
+Janhit Mein Jaari,2022,Hindi,6.8,5000,"Comedy, Drama",,Hotstar
+Samrat Prithviraj,2022,Hindi,5.5,65000,"Action, Drama, History",,Zee5
+Anek,2022,Hindi,6.6,8000,"Action, Crime, Drama",,Netflix
+Jayeshbhai Jordaar,2022,Hindi,6,15000,"Comedy, Drama",,Zee5
+Runway 34,2022,Hindi,7,25000,"Drama, Mystery, Thriller",,SonyLIV
+Heropanti 2,2022,Hindi,2.5,25000,"Action, Comedy, Crime",,JioCinema
+Jersey,2022,Hindi,7.3,18000,"Drama, Sport",,Netflix
+Attack: Part 1,2022,Hindi,6.9,12000,"Action, Sci-Fi, Thriller",,Hotstar
+Jhund,2022,Hindi,7.3,10000,"Biography, Drama, Sport",,SonyLIV
+A Thursday,2022,Hindi,7.7,25000,"Crime, Drama, Thriller",,Netflix
+Gehraiyaan,2022,Hindi,5.9,32000,"Drama, Romance",,JioCinema
+Badhaai Do,2022,Hindi,7,15000,"Comedy, Drama",,Netflix
+Looop Lapeta,2022,Hindi,5,5000,"Action, Comedy, Crime",,SonyLIV
+83,2021,Hindi,7.5,42000,"Biography, Drama, Sport",,SonyLIV
+Atrangi Re,2021,Hindi,6.6,22000,"Comedy, Drama, Romance",,Zee5
+Chandigarh Kare Aashiqui,2021,Hindi,6.8,12000,"Comedy, Drama, Romance",,SonyLIV
+Tadap,2021,Hindi,5.1,8000,"Action, Drama, Romance",,Netflix
+Antim: The Final Truth,2021,Hindi,6.7,32000,"Action, Crime, Drama",,Hotstar
+Satyameva Jayate 2,2021,Hindi,2.2,10000,"Action, Crime, Drama",,Hotstar
+Dhamaka,2021,Hindi,7.1,15000,"Action, Crime, Drama",,Zee5
+Bunty Aur Babli 2,2021,Hindi,3.6,5000,"Comedy, Crime",,Hotstar
+Sooryavanshi,2021,Hindi,6.1,55000,"Action, Crime, Thriller",,Hotstar
+Meenakshi Sundareshwar,2021,Hindi,7.1,8000,"Comedy, Romance",,Netflix
+Hum Do Hamare Do,2021,Hindi,6,5000,"Comedy, Drama",,SonyLIV
+Rashmi Rocket,2021,Hindi,7.6,5000,"Drama, Sport",,SonyLIV
+Shiddat,2021,Hindi,7.6,12000,"Drama, Romance",,Netflix
+Bhoot Police,2021,Hindi,5.1,10000,"Comedy, Horror",,JioCinema
+Thalaivii,2021,Hindi,5.9,10000,"Biography, Drama",,SonyLIV
+Chehre,2021,Hindi,6.5,12000,"Mystery, Thriller",,JioCinema
+Bell Bottom,2021,Hindi,6.1,28000,"Action, Crime, Thriller",,SonyLIV
+Dial 100,2021,Hindi,6,2000,"Crime, Drama, Thriller",,Zee5
+Toofaan,2021,Hindi,6.8,18000,"Action, Drama, Sport",,Prime Video
+State of Siege: Temple Attack,2021,Hindi,7.6,5000,"Action, Drama, Thriller",,Prime Video
+Haseen Dillruba,2021,Hindi,6.9,22000,"Crime, Drama, Mystery",,Prime Video
+Sandeep Aur Pinky Faraar,2021,Hindi,6.3,10000,"Action, Comedy, Crime",,JioCinema
+Radhe,2021,Hindi,1.9,185000,"Action, Crime, Thriller",,Prime Video
+Pagglait,2021,Hindi,6.9,10000,"Comedy, Drama",,SonyLIV
+Saina,2021,Hindi,4.3,5000,"Biography, Drama, Sport",,Prime Video
+Mumbai Saga,2021,Hindi,6,8000,"Action, Crime, Drama",,Netflix
+Roohi,2021,Hindi,4.3,10000,"Comedy, Horror",,Prime Video
+The Girl on the Train,2021,Hindi,4.4,8000,"Crime, Drama, Mystery",,Zee5
+Tribhanga,2021,Hindi,6.1,2000,Drama,,Zee5
+AK vs AK,2020,Hindi,6.9,12000,"Action, Comedy, Crime",,JioCinema
+Ludo,2020,Hindi,7.6,32000,"Action, Comedy, Crime",,Prime Video
+Chhalaang,2020,Hindi,6.7,8000,"Comedy, Drama, Sport",,JioCinema
+Laxmii,2020,Hindi,2.5,65000,"Action, Comedy, Horror",,Zee5
+Khaali Peeli,2020,Hindi,2.1,42000,"Action, Comedy, Romance",,JioCinema
+Serious Men,2020,Hindi,6.7,5000,"Comedy, Drama",,Zee5
+Dolly Kitty Aur Woh Chamakte Sitare,2020,Hindi,5.4,2000,"Comedy, Drama",,SonyLIV
+Raat Akeli Hai,2020,Hindi,7.3,12000,"Crime, Drama, Mystery",,Prime Video
+Lootcase,2020,Hindi,7.6,8000,"Comedy, Crime",,Zee5
+Shakuntala Devi,2020,Hindi,6.1,10000,"Biography, Drama",,SonyLIV
+Dil Bechara,2020,Hindi,7.9,125000,"Comedy, Drama, Romance",,SonyLIV
+Bulbbul,2020,Hindi,7,10000,"Drama, Horror, Mystery",,JioCinema
+Gulabo Sitabo,2020,Hindi,6.3,10000,"Comedy, Drama",,SonyLIV
+Chintu Ka Birthday,2020,Hindi,7.7,2000,"Comedy, Drama, Family",,JioCinema
+Ghoomketu,2020,Hindi,4.9,2000,"Comedy, Drama",,JioCinema
+Angrezi Medium,2020,Hindi,7.2,12000,"Comedy, Drama",,Netflix
+Baaghi 3,2020,Hindi,2.1,12000,"Action, Adventure, Thriller",,Prime Video
+Shubh Mangal Zyada Saavdhan,2020,Hindi,7,10000,"Comedy, Romance",,Netflix
+Bhoot: Part One - The Haunted Ship,2020,Hindi,5.4,8000,"Horror, Mystery, Thriller",,Prime Video
+Love Aaj Kal,2020,Hindi,4.7,8000,"Drama, Romance",,JioCinema
+Malang,2020,Hindi,6.5,12000,"Action, Crime, Drama",,Netflix
+Shikara,2020,Hindi,5.3,8000,"Drama, History, Romance",,JioCinema
+Jawaani Jaaneman,2020,Hindi,6.6,8000,"Comedy, Drama",,SonyLIV
+Street Dancer 3D,2020,Hindi,3.6,8000,"Drama, Music",,SonyLIV
+Chhapaak,2020,Hindi,5.1,35000,"Biography, Drama",,Netflix
+Tanhaji: The Unsung Warrior,2020,Hindi,7.5,38000,"Action, Biography, Drama",,Netflix
+Good Newwz,2019,Hindi,6.9,18000,"Comedy, Drama",,Zee5
+Dabangg 3,2019,Hindi,3,18000,"Action, Comedy, Crime",,SonyLIV
+Mardaani 2,2019,Hindi,7.3,10000,"Action, Crime, Drama",,Hotstar
+The Body,2019,Hindi,5.4,2000,"Mystery, Thriller",,Prime Video
+Pati Patni Aur Woh,2019,Hindi,5.8,8000,"Comedy, Romance",,Zee5
+Panipat,2019,Hindi,5.3,8000,"Action, Drama, History",,Hotstar
+Commando 3,2019,Hindi,5.7,2000,"Action, Thriller",,Zee5
+Pagalpanti,2019,Hindi,1.9,5000,"Action, Comedy",,Hotstar
+Marjaavaan,2019,Hindi,3.4,2000,"Action, Drama, Romance",,Zee5
+Motichoor Chaknachoor,2019,Hindi,5.8,2000,"Comedy, Drama, Romance",,Hotstar
+Bala,2019,Hindi,7.3,15000,"Comedy, Drama",,SonyLIV
+Ujda Chaman,2019,Hindi,6,2000,Comedy,,SonyLIV
+Housefull 4,2019,Hindi,3.4,12000,"Action, Comedy, Fantasy",,Hotstar
+Saand Ki Aankh,2019,Hindi,7.7,2000,"Biography, Drama, Sport",,Zee5
+Made in China,2019,Hindi,6.2,2000,"Comedy, Drama",,Prime Video
+Laal Kaptaan,2019,Hindi,7.1,2000,"Action, Drama",,Netflix
+The Sky Is Pink,2019,Hindi,7.6,8000,"Biography, Drama, Family",,Zee5
+Pal Pal Dil Ke Paas,2019,Hindi,4.5,2000,"Action, Drama, Romance",,Prime Video
+Prassthanam,2019,Hindi,5.7,1000,"Action, Drama",,Zee5
+Dream Girl,2019,Hindi,7,15000,"Comedy, Romance",,Zee5
+Section 375,2019,Hindi,8.1,10000,"Crime, Drama, Mystery",,SonyLIV
+Chhichhore,2019,Hindi,8.3,65000,"Comedy, Drama",,Hotstar
+Batla House,2019,Hindi,7.2,8000,"Action, Drama, Thriller",,Zee5
+Mission Mangal,2019,Hindi,6.7,22000,"Drama, History, Sci-Fi",,JioCinema
+Jabariya Jodi,2019,Hindi,4.5,1000,"Comedy, Romance",,Prime Video
+Khandaani Shafakhana,2019,Hindi,4,1000,"Comedy, Drama",,Hotstar
+Judgementall Hai Kya,2019,Hindi,6,5000,"Comedy, Drama, Mystery",,JioCinema
+Arjun Patiala,2019,Hindi,4,1000,"Action, Comedy",,Hotstar
+Super 30,2019,Hindi,8,32000,"Biography, Drama",,Hotstar
+Bharat,2019,Hindi,4.8,32000,"Action, Comedy, Drama",,SonyLIV
+India's Most Wanted,2019,Hindi,5.6,2000,"Action, Thriller",,JioCinema
+De De Pyaar De,2019,Hindi,6.6,12000,"Comedy, Romance",,JioCinema
+Student of the Year 2,2019,Hindi,2.4,25000,"Comedy, Drama, Romance",,JioCinema
+Blank,2019,Hindi,6.1,1000,"Action, Thriller",,Netflix
+Kalank,2019,Hindi,3.6,18000,"Drama, Romance",,JioCinema
+Romeo Akbar Walter,2019,Hindi,6.6,5000,"Action, Drama, Thriller",,JioCinema
+Junglee,2019,Hindi,5.5,2000,"Action, Adventure",,Zee5
+Kesari,2019,Hindi,7.4,32000,"Action, Drama, History",,Netflix
+Mard Ko Dard Nahi Hota,2018,Hindi,7.3,10000,"Action, Comedy",,SonyLIV
+Luka Chuppi,2019,Hindi,7,10000,"Comedy, Romance",,Hotstar
+Sonchiriya,2019,Hindi,7.9,10000,"Action, Crime, Drama",,Netflix
+Total Dhamaal,2019,Hindi,4.2,8000,"Action, Adventure, Comedy",,Hotstar
+Ek Ladki Ko Dekha Toh Aisa Laga,2019,Hindi,5.5,3000,"Comedy, Drama, Romance",,Netflix
+Manikarnika: The Queen of Jhansi,2019,Hindi,6.4,15000,"Action, Biography, Drama",,Netflix
+Why Cheat India,2019,Hindi,6.1,2000,"Crime, Drama",,JioCinema
+The Accidental Prime Minister,2019,Hindi,6,8000,"Biography, Drama",,Zee5
+Simmba,2018,Hindi,5.8,25000,"Action, Comedy, Crime",,Zee5
+Zero,2018,Hindi,4.3,35000,"Comedy, Drama, Romance",,Netflix
+Kedarnath,2018,Hindi,6.7,10000,"Drama, Romance",,SonyLIV
+2,2018,Hindi,6.1,32000,"Action, Sci-Fi, Thriller",,Netflix
+Thugs of Hindostan,2018,Hindi,4.1,38000,"Action, Adventure",,Netflix
+Namaste England,2018,Hindi,2.1,5000,"Comedy, Drama, Romance",,Netflix
+Sui Dhaaga,2018,Hindi,6.8,12000,"Comedy, Drama",,Zee5
+Batti Gul Meter Chalu,2018,Hindi,6.2,5000,"Comedy, Drama",,JioCinema
+Happy Phirr Bhag Jayegi,2018,Hindi,5.2,1000,Comedy,,SonyLIV
+Gold,2018,Hindi,7.3,12000,"Biography, Drama, Sport",,JioCinema
+Satyameva Jayate,2018,Hindi,5.3,5000,"Action, Crime, Drama",,JioCinema
+Karwaan,2018,Hindi,7.6,12000,"Comedy, Drama",,Zee5
+Mulk,2018,Hindi,7.6,5000,"Crime, Drama",,JioCinema
+Dhadak,2018,Hindi,4.1,15000,"Drama, Romance",,Prime Video
+Soorma,2018,Hindi,7.4,5000,"Biography, Drama, Sport",,Hotstar
+Race 3,2018,Hindi,1.9,45000,"Action, Crime, Thriller",,Zee5
+Veere Di Wedding,2018,Hindi,3.2,15000,"Comedy, Drama",,Zee5
+Parmanu: The Story of Pokhran,2018,Hindi,7.6,22000,"Action, Drama, History",,Netflix
+102 Not Out,2018,Hindi,7.4,8000,"Comedy, Drama",,Zee5
+OmertÃ ,2017,Hindi,7.1,2000,"Action, Biography, Crime",,SonyLIV
+Blackmail,2018,Hindi,7,5000,"Comedy, Crime",,SonyLIV
+Raid,2018,Hindi,7.4,15000,"Action, Crime, Drama",,Prime Video
+Hate Story 4,2018,Hindi,3.4,2000,"Crime, Drama, Thriller",,Hotstar
+Pari,2018,Hindi,6.6,5000,"Horror, Mystery, Thriller",,Zee5
+Sonu Ke Titu Ki Sweety,2018,Hindi,7,18000,"Comedy, Romance",,Hotstar
+Padman,2018,Hindi,7.9,32000,"Biography, Comedy, Drama",,Zee5
+Fukrey Returns,2017,Hindi,6.5,5000,"Comedy, Crime",,JioCinema
+Tumhari Sulu,2017,Hindi,7,5000,"Comedy, Drama",,Prime Video
+Qarib Qarib Singlle,2017,Hindi,7,5000,"Comedy, Romance",,SonyLIV
+Ittefaq,2017,Hindi,7.2,12000,"Crime, Mystery, Thriller",,JioCinema
+Golmaal Again,2017,Hindi,4.9,12000,"Action, Comedy, Fantasy",,Hotstar
+Chef,2017,Hindi,6.2,2000,"Comedy, Drama",,Hotstar
+Judwaa 2,2017,Hindi,3.6,12000,"Action, Comedy",,Prime Video
+Simran,2017,Hindi,5.4,1000,"Comedy, Crime, Drama",,Netflix
+Lucknow Central,2017,Hindi,6.2,1000,"Crime, Drama, Music",,Netflix
+Shubh Mangal Saavdhan,2017,Hindi,6.9,8000,"Comedy, Romance",,Hotstar
+Baadshaho,2017,Hindi,4.9,5000,"Action, Adventure, Crime",,Zee5
+A Gentleman,2017,Hindi,6.3,5000,"Action, Comedy, Romance",,Prime Video
+Toilet: A Love Story,2017,Hindi,7.2,18000,"Comedy, Drama",,JioCinema
+Jab Harry Met Sejal,2017,Hindi,5.2,15000,"Comedy, Drama, Romance",,Hotstar
+Mubarakan,2017,Hindi,5.5,5000,"Comedy, Romance",,Netflix
+Jagga Jasoos,2017,Hindi,6.3,10000,"Action, Adventure, Comedy",,Hotstar
+Mom,2017,Hindi,7.3,10000,"Crime, Drama, Thriller",,Hotstar
+Tubelight,2017,Hindi,3.9,18000,"Action, Drama, War",,Netflix
+Hindi Medium,2017,Hindi,7.8,22000,"Comedy, Drama",,Hotstar
+Meri Pyaari Bindu,2017,Hindi,5.9,2000,"Comedy, Drama, Romance",,Netflix
+Noor,2017,Hindi,3.7,1000,"Comedy, Drama",,Zee5
+Begum Jaan,2017,Hindi,5.4,2000,"Action, Drama",,Hotstar
+Naam Shabana,2017,Hindi,6.3,5000,"Action, Crime, Thriller",,Prime Video
+Phillauri,2017,Hindi,6.1,2000,"Comedy, Drama, Fantasy",,Prime Video
+Machine,2017,Hindi,2.6,1000,"Action, Mystery, Romance",,SonyLIV
+Badrinath Ki Dulhania,2017,Hindi,6.1,15000,"Comedy, Drama, Romance",,Zee5
+Commando 2,2017,Hindi,5.2,2000,"Action, Thriller",,JioCinema
+Rangoon,2017,Hindi,5.6,5000,"Action, Drama, History",,JioCinema
+The Ghazi Attack,2017,Hindi,7.5,18000,"Action, Drama, Thriller",,Hotstar
+Jolly LLB 2,2017,Hindi,7.2,25000,"Comedy, Crime, Drama",,Hotstar
+Kaabil,2017,Hindi,7.1,25000,"Action, Crime, Drama",,Hotstar
+Raees,2017,Hindi,6.8,48000,"Action, Crime, Drama",,SonyLIV
+Ok Jaanu,2017,Hindi,4.9,5000,"Drama, Romance",,Zee5
+Befikre,2016,Hindi,3.9,8000,"Comedy, Drama, Romance",,JioCinema
+Kahaani 2,2016,Hindi,6.6,5000,"Crime, Drama, Mystery",,Prime Video
+Force 2,2016,Hindi,6.1,5000,"Action, Adventure, Crime",,SonyLIV
+Rock On 2,2016,Hindi,4.8,2000,"Drama, Music",,Netflix
+Ae Dil Hai Mushkil,2016,Hindi,5.8,32000,"Drama, Musical, Romance",,Hotstar
+Shivaay,2016,Hindi,6.1,12000,"Action, Adventure, Drama",,Zee5
+Banjo,2016,Hindi,4.8,1000,"Action, Drama, Music",,Prime Video
+Baar Baar Dekho,2016,Hindi,5.3,5000,"Comedy, Drama, Fantasy",,SonyLIV
+Akira,2016,Hindi,5.8,2000,"Action, Crime, Drama",,Netflix
+A Flying Jatt,2016,Hindi,3.1,5000,"Action, Adventure, Comedy",,Hotstar
+Happy Bhag Jayegi,2016,Hindi,6.3,2000,Comedy,,JioCinema
+Rustom,2016,Hindi,7.1,32000,"Crime, Drama, Thriller",,Hotstar
+Mohenjo Daro,2016,Hindi,5.6,12000,"Action, Adventure, Drama",,SonyLIV
+Dishoom,2016,Hindi,5.1,8000,"Action, Adventure, Comedy",,Zee5
+Madaari,2016,Hindi,7.5,5000,"Adventure, Crime, Drama",,Hotstar
+Sultan,2016,Hindi,7,48000,"Action, Drama, Sport",,Zee5
+Udta Punjab,2016,Hindi,7.8,32000,"Action, Crime, Drama",,SonyLIV
+Te3n,2016,Hindi,7.2,10000,"Crime, Drama, Mystery",,JioCinema
+Housefull 3,2016,Hindi,5,10000,"Action, Comedy",,Zee5
+Phobia,2016,Hindi,6.9,5000,"Horror, Mystery, Thriller",,Zee5
+Sarbjit,2016,Hindi,7.3,10000,"Biography, Drama",,JioCinema
+Azhar,2016,Hindi,5.8,5000,"Biography, Drama, Sport",,Netflix
+1920: London,2016,Hindi,4.1,1000,"Horror, Mystery",,JioCinema
+Baaghi,2016,Hindi,5.2,10000,"Action, Thriller",,SonyLIV
+Fan,2016,Hindi,7,32000,"Action, Crime, Drama",,SonyLIV
+Ki & Ka,2016,Hindi,5.7,8000,"Comedy, Romance",,Prime Video
+Rocky Handsome,2016,Hindi,6.8,5000,"Action, Crime, Thriller",,JioCinema
+Jai Gangaajal,2016,Hindi,5.4,2000,"Action, Crime, Drama",,SonyLIV
+Aligarh,2015,Hindi,7.8,5000,"Biography, Drama",,Netflix
+Tere Bin Laden: Dead or Alive,2016,Hindi,4.6,500,Comedy,,Netflix
+Neerja,2016,Hindi,7.7,32000,"Biography, Drama, Thriller",,Netflix
+Fitoor,2016,Hindi,5.4,3000,"Drama, Romance",,Zee5
+Sanam Re,2016,Hindi,3.2,2000,"Drama, Romance",,Hotstar
+Ghayal Once Again,2016,Hindi,6.3,2000,"Action, Drama",,Zee5
+Airlift,2016,Hindi,8,55000,"Action, Drama, History",,Hotstar
+Wazir,2016,Hindi,7.1,18000,"Action, Crime, Drama",,Netflix
+Dilwale,2015,Hindi,5.1,35000,"Action, Comedy, Crime",,JioCinema
+Prem Ratan Dhan Payo,2015,Hindi,4.4,18000,"Action, Drama, Romance",,Zee5
+Shaandaar,2015,Hindi,3.6,5000,"Comedy, Romance",,Hotstar
+Pyaar Ka Punchnama 2,2015,Hindi,7.3,10000,"Comedy, Romance",,Netflix
+Jazbaa,2015,Hindi,5.1,5000,"Action, Crime, Drama",,Prime Video
+Singh Is Bliing,2015,Hindi,4.6,8000,"Action, Comedy",,Netflix
+Kis Kisko Pyaar Karoon,2015,Hindi,5.8,5000,"Comedy, Romance",,Hotstar
+Katti Batti,2015,Hindi,4.4,1000,"Comedy, Drama, Romance",,Netflix
+Hero,2015,Hindi,3.3,2000,"Action, Romance",,Zee5
+Welcome Back,2015,Hindi,4.2,5000,"Action, Comedy, Crime",,Zee5
+Phantom,2015,Hindi,5.8,8000,"Action, Drama, Thriller",,JioCinema
+Manjhi: The Mountain Man,2015,Hindi,8,15000,"Biography, Drama",,Zee5
+Brothers,2015,Hindi,6.5,12000,"Action, Drama, Sport",,Zee5
+ABCD 2,2015,Hindi,5.4,5000,"Drama, Music",,SonyLIV
+Hamari Adhuri Kahani,2015,Hindi,6.6,5000,"Drama, Romance",,Hotstar
+Dil Dhadakne Do,2015,Hindi,7,25000,"Comedy, Drama, Romance",,Zee5
+Tanu Weds Manu Returns,2015,Hindi,7.6,25000,"Comedy, Romance",,Hotstar
+Bombay Velvet,2015,Hindi,5.7,5000,"Action, Crime, Drama",,SonyLIV
+Gabbar Is Back,2015,Hindi,7.1,15000,"Action, Crime, Drama",,Prime Video
+Mr. X,2015,Hindi,2.9,1000,"Action, Sci-Fi, Thriller",,Prime Video
+Ek Paheli Leela,2015,Hindi,3.9,1000,"Drama, Mystery, Romance",,Netflix
+Detective Byomkesh Bakshy!,2015,Hindi,7.6,18000,"Action, Mystery, Thriller",,Hotstar
+NH10,2015,Hindi,7.2,12000,"Action, Crime, Drama",,Netflix
+Dum Laga Ke Haisha,2015,Hindi,7.5,15000,"Comedy, Drama, Romance",,Prime Video
+Roy,2015,Hindi,3.3,5000,"Crime, Drama, Mystery",,JioCinema
+Shamitabh,2015,Hindi,6.7,5000,"Comedy, Drama",,Hotstar
+Baby,2015,Hindi,8,58000,"Action, Crime, Thriller",,SonyLIV
+Tevar,2015,Hindi,4.1,2000,"Action, Drama",,JioCinema
+Action Jackson,2014,Hindi,3.2,2000,"Action, Comedy, Crime",,Prime Video
+Ungli,2014,Hindi,5.8,2000,"Comedy, Crime, Drama",,Zee5
+Happy New Year,2014,Hindi,5,35000,"Action, Comedy, Crime",,Zee5
+Khoobsurat,2014,Hindi,6.4,5000,"Comedy, Romance",,Zee5
+Creature 3D,2014,Hindi,3.1,1000,"Horror, Sci-Fi, Thriller",,Hotstar
+Mary Kom,2014,Hindi,6.8,8000,"Biography, Drama, Sport",,Netflix
+Raja Natwarlal,2014,Hindi,6,2000,"Crime, Drama, Thriller",,SonyLIV
+Mardaani,2014,Hindi,7.3,15000,"Action, Crime, Drama",,Hotstar
+Singham Returns,2014,Hindi,5.7,12000,"Action, Crime, Drama",,JioCinema
+Entertainment,2014,Hindi,4.3,2000,"Action, Comedy",,Prime Video
+Kick,2014,Hindi,5.3,28000,"Action, Comedy, Crime",,Zee5
+Humshakals,2014,Hindi,1.7,15000,Comedy,,SonyLIV
+Holiday: A Soldier Is Never Off Duty,2014,Hindi,7.2,25000,"Action, Crime, Thriller",,Netflix
+CityLights,2014,Hindi,7.3,2000,"Drama, Thriller",,JioCinema
+Heropanti,2014,Hindi,5.3,5000,"Action, Romance",,SonyLIV
+Hawaa Hawaai,2014,Hindi,7.3,1000,"Drama, Sport",,Netflix
+2 States,2014,Hindi,6.9,25000,"Comedy, Drama, Romance",,JioCinema
+Main Tera Hero,2014,Hindi,5.1,10000,"Action, Comedy, Romance",,Prime Video
+Gulaab Gang,2014,Hindi,4.6,1000,"Action, Drama",,Netflix
+Shaadi Ke Side Effects,2014,Hindi,5.6,2000,"Comedy, Romance",,Prime Video
+Highway,2014,Hindi,7.6,32000,"Crime, Drama, Romance",,Zee5
+Gunday,2014,Hindi,2.6,65000,"Action, Drama, Musical",,Hotstar
+Hasee Toh Phasee,2014,Hindi,6.8,10000,"Comedy, Romance",,Netflix
+Jai Ho,2014,Hindi,5.1,18000,"Action, Drama",,Netflix
+Dedh Ishqiya,2014,Hindi,7.1,5000,"Comedy, Crime, Drama",,Hotstar
+R... Rajkumar,2013,Hindi,5.1,5000,"Action, Comedy, Romance",,Hotstar
+Bullett Raja,2013,Hindi,4.9,2000,"Action, Crime, Drama",,Zee5
+Gori Tere Pyaar Mein!,2013,Hindi,4.4,2000,"Comedy, Romance",,JioCinema
+Goliyon Ki Raasleela Ram-Leela,2013,Hindi,6.4,18000,"Drama, Musical, Romance",,SonyLIV
+Krrish 3,2013,Hindi,5.2,22000,"Action, Adventure, Sci-Fi",,Netflix
+Mickey Virus,2013,Hindi,6,2000,"Comedy, Mystery, Thriller",,Zee5
+Boss,2013,Hindi,5.4,5000,"Action, Comedy, Crime",,Prime Video
+Besharam,2013,Hindi,3.6,5000,"Action, Comedy, Romance",,JioCinema
+Phata Poster Nikhla Hero,2013,Hindi,4.8,2000,"Action, Comedy, Crime",,Hotstar
+Zanjeer,2013,Hindi,3.2,10000,"Action, Crime, Drama",,Zee5
+Shuddh Desi Romance,2013,Hindi,5.7,5000,"Comedy, Drama, Romance",,SonyLIV
+Satyagraha,2013,Hindi,5.9,5000,Drama,,Prime Video
+Once Upon Ay Time in Mumbai Dobaara!,2013,Hindi,5.1,5000,"Action, Crime, Drama",,Netflix
+Chennai Express,2013,Hindi,6.1,58000,"Action, Adventure, Comedy",,Hotstar
+B.A. Pass,2012,Hindi,6.5,2000,"Crime, Drama",,Prime Video
+Bajatey Raho,2013,Hindi,5.4,500,"Comedy, Crime, Drama",,Prime Video
+Ramaiya Vastavaiya,2013,Hindi,5.7,2000,"Comedy, Drama, Romance",,Netflix
+D-Day,2013,Hindi,7.2,8000,"Action, Thriller",,Zee5
+Bhaag Milkha Bhaag,2013,Hindi,8.2,72000,"Action, Biography, Drama",,Prime Video
+Lootera,2013,Hindi,7.3,15000,"Drama, Romance",,Netflix
+Ghanchakkar,2013,Hindi,5.8,2000,"Comedy, Crime, Thriller",,SonyLIV
+Raanjhanaa,2013,Hindi,7.6,32000,"Drama, Romance",,Zee5
+Fukrey,2013,Hindi,6.9,12000,"Comedy, Crime, Drama",,Zee5
+Yamla Pagla Deewana 2,2013,Hindi,3.3,2000,"Action, Comedy",,Prime Video
+Yeh Jawaani Hai Deewani,2013,Hindi,7.2,48000,"Comedy, Drama, Romance",,JioCinema
+Ishqeq,2013,Hindi,5.3,1000,"Action, Drama, Romance",,Netflix
+Aurangzeb,2013,Hindi,6.5,2000,"Action, Crime, Drama",,JioCinema
+Go Goa Gone,2013,Hindi,7,15000,"Action, Adventure, Comedy",,SonyLIV
+Shootout at Wadala,2013,Hindi,5.9,10000,"Action, Biography, Crime",,JioCinema
+Bombay Talkies,2013,Hindi,7,5000,Drama,,Netflix
+Aashiqui 2,2013,Hindi,7,32000,"Drama, Musical, Romance",,Hotstar
+Ek Thi Daayan,2013,Hindi,5.7,5000,"Horror, Mystery, Thriller",,Hotstar
+Commando: A One Man Army,2013,Hindi,6.1,5000,"Action, Thriller",,Zee5
+Nautanki Saala!,2013,Hindi,5.9,2000,"Comedy, Romance",,Hotstar
+Chashme Baddoor,2013,Hindi,5.4,5000,"Comedy, Romance",,Prime Video
+Himmatwala,2013,Hindi,1.7,18000,"Action, Comedy",,Netflix
+Mere Dad Ki Maruti,2013,Hindi,6.4,2000,Comedy,,Zee5
+Jolly LLB,2013,Hindi,7.5,15000,"Comedy, Crime, Drama",,Prime Video
+Saheb Biwi Aur Gangster Returns,2013,Hindi,7,2000,"Action, Crime, Drama",,JioCinema
+"I, Me aur Main",2013,Hindi,4.6,1000,"Comedy, Drama, Romance",,Zee5
+Kai Po Che!,2013,Hindi,7.8,38000,"Drama, Sport",,SonyLIV
+Murder 3,2013,Hindi,4.7,2000,"Drama, Mystery, Thriller",,JioCinema
+Race 2,2013,Hindi,5.3,18000,"Action, Adventure, Crime",,Prime Video
+Inkaar,2013,Hindi,6.1,1000,"Crime, Drama",,Prime Video
+Matru Ki Bijlee Ka Mandola,2013,Hindi,5.6,2000,"Comedy, Drama",,Prime Video
+Table No. 21,2013,Hindi,7.1,12000,"Adventure, Mystery, Thriller",,Zee5
+Dabangg 2,2012,Hindi,4.8,22000,"Action, Comedy, Crime",,Prime Video
+Khiladi 786,2012,Hindi,4.2,5000,"Action, Comedy, Crime",,Prime Video
+Talaash,2012,Hindi,7.2,35000,"Crime, Drama, Mystery",,Zee5
+Jab Tak Hai Jaan,2012,Hindi,6.7,58000,"Drama, Romance",,Prime Video
+Son of Sardaar,2012,Hindi,3.9,10000,"Action, Comedy, Romance",,SonyLIV
+Luv Shuv Tey Chicken Khurana,2012,Hindi,6.6,1000,"Comedy, Drama, Romance",,Prime Video
+Chakravyuh,2012,Hindi,6.9,2000,"Action, Crime, Drama",,Zee5
+Student of the Year,2012,Hindi,5.2,22000,"Comedy, Drama, Romance",,Netflix
+Aiyyaa,2012,Hindi,4.3,1000,"Comedy, Romance",,Hotstar
+OMG: Oh My God!,2012,Hindi,8.1,58000,"Comedy, Drama, Fantasy",,SonyLIV
+Heroine,2012,Hindi,5.1,2000,Drama,,SonyLIV
+Raaz 3,2012,Hindi,4.1,2000,"Horror, Mystery, Thriller",,SonyLIV
+Joker,2012,Hindi,2.4,5000,"Comedy, Sci-Fi",,Zee5
+Jism 2,2012,Hindi,2.9,2000,"Drama, Romance, Thriller",,SonyLIV
+Gangs of Wasseypur - Part 2,2012,Hindi,8.2,45000,"Action, Comedy, Crime",,Hotstar
+Kyaa Super Kool Hain Hum,2012,Hindi,4.6,2000,Comedy,,Netflix
+Cocktail,2012,Hindi,6.3,12000,"Comedy, Drama, Romance",,Netflix
+Bol Bachchan,2012,Hindi,5.5,12000,"Action, Comedy, Drama",,Zee5
+Maximum,2012,Hindi,5.3,500,"Action, Crime, Drama",,Prime Video
+Teri Meri Kahaani,2012,Hindi,4.8,5000,"Comedy, Drama, Romance",,Netflix
+Ferrari Ki Sawaari,2012,Hindi,6.5,2000,"Comedy, Drama, Sport",,SonyLIV
+Rowdy Rathore,2012,Hindi,5.7,18000,"Action, Comedy, Crime",,Prime Video
+Ishaqzaade,2012,Hindi,6.5,8000,"Action, Drama, Romance",,Hotstar
+Jannat 2,2012,Hindi,5.4,5000,"Action, Crime, Drama",,Netflix
+Tezz,2012,Hindi,3.9,2000,"Action, Crime, Thriller",,Hotstar
+Housefull 2,2012,Hindi,5.3,12000,"Action, Comedy",,SonyLIV
+Agent Vinod,2012,Hindi,5.2,5000,"Action, Adventure, Thriller",,Zee5
+Tere Naal Love Ho Gaya,2012,Hindi,5.8,1000,"Comedy, Romance",,Netflix
+Jodi Breakers,2012,Hindi,3.6,500,"Comedy, Romance",,Zee5
+Ekk Deewana Tha,2012,Hindi,5.3,1000,"Drama, Romance",,Zee5
+Ek Main Aur Ekk Tu,2012,Hindi,5.7,5000,"Comedy, Drama, Romance",,Netflix
+Players,2012,Hindi,4.4,5000,"Action, Crime, Thriller",,Hotstar
+Don 2,2011,Hindi,7.1,55000,"Action, Crime, Thriller",,Zee5
+Ladies vs. Ricky Bahl,2011,Hindi,6,10000,"Comedy, Crime, Drama",,SonyLIV
+The Dirty Picture,2011,Hindi,6.6,12000,"Biography, Comedy, Drama",,Hotstar
+Desi Boyz,2011,Hindi,5.7,8000,"Comedy, Drama",,Zee5
+Ra.One,2011,Hindi,4.7,42000,"Action, Adventure, Sci-Fi",,Hotstar
+Mujhse Fraaandship Karoge,2011,Hindi,6.9,2000,"Comedy, Drama, Romance",,Zee5
+Aazaan,2011,Hindi,4.6,500,"Action, Thriller",,JioCinema
+Force,2011,Hindi,6.2,5000,"Action, Crime, Thriller",,Prime Video
+Mausam,2011,Hindi,4.8,2000,"Drama, Romance",,Zee5
+Mere Brother Ki Dulhan,2011,Hindi,5.8,8000,"Comedy, Drama, Romance",,Hotstar
+Bodyguard,2011,Hindi,4.8,32000,"Action, Comedy, Crime",,SonyLIV
+Aarakshan,2011,Hindi,6.2,5000,"Crime, Drama",,Prime Video
+Murder 2,2011,Hindi,6.2,5000,"Action, Crime, Drama",,Netflix
+Delhi Belly,2011,Hindi,7.6,28000,"Comedy, Crime, Drama",,JioCinema
+Double Dhamaal,2011,Hindi,4,5000,"Comedy, Crime",,Hotstar
+Always Kabhi Kabhi,2011,Hindi,4.1,500,"Comedy, Drama, Romance",,Prime Video
+Ready,2011,Hindi,4.8,22000,"Action, Comedy, Romance",,JioCinema
+Shaitan,2011,Hindi,7.2,8000,"Action, Crime, Drama",,JioCinema
+Pyaar Ka Punchnama,2011,Hindi,7.7,28000,"Comedy, Drama, Romance",,JioCinema
+Stanley Ka Dabba,2011,Hindi,7.8,5000,"Comedy, Drama, Family",,Zee5
+Haunted - 3D,2011,Hindi,6.2,2000,"Horror, Mystery, Thriller",,Prime Video
+Dum Maaro Dum,2011,Hindi,6.2,5000,"Action, Crime, Drama",,Hotstar
+Thank You,2011,Hindi,4.3,5000,"Comedy, Romance",,Netflix
+Game,2011,Hindi,5.6,1000,"Action, Crime, Drama",,SonyLIV
+Tanu Weds Manu,2011,Hindi,6.8,15000,"Comedy, Romance",,SonyLIV
+7 Khoon Maaf,2011,Hindi,6.1,8000,"Comedy, Drama, Mystery",,Hotstar
+Patiala House,2011,Hindi,6.2,2000,"Drama, Family, Sport",,Zee5
+Dhobi Ghat,2010,Hindi,7,8000,Drama,,Zee5
+Yamla Pagla Deewana,2011,Hindi,5.9,5000,"Action, Comedy, Drama",,Netflix
+No One Killed Jessica,2011,Hindi,7.2,10000,"Biography, Crime, Drama",,Zee5
+Tees Maar Khan,2010,Hindi,2.6,22000,"Action, Comedy, Crime",,JioCinema
+Band Baaja Baaraat,2010,Hindi,7.2,15000,"Comedy, Drama, Romance",,JioCinema
+No Problem,2010,Hindi,3,2000,"Action, Comedy, Crime",,Prime Video
+Khelein Hum Jee Jaan Sey,2010,Hindi,6.1,1000,"Action, Adventure, Drama",,Zee5
+Break Ke Baad,2010,Hindi,5.5,2000,"Comedy, Drama, Romance",,Netflix
+Golmaal 3,2010,Hindi,5.5,12000,"Action, Comedy",,SonyLIV
+Action Replayy,2010,Hindi,4.3,5000,"Comedy, Romance, Sci-Fi",,Netflix
+Jhootha Hi Sahi,2010,Hindi,6.1,1000,"Comedy, Drama, Romance",,SonyLIV
+Aakrosh,2010,Hindi,6.9,2000,"Action, Crime, Drama",,Hotstar
+Knock Out,2010,Hindi,6.1,1000,"Action, Thriller",,Zee5
+Anjaana Anjaani,2010,Hindi,5.8,10000,"Comedy, Drama, Romance",,Zee5
+Robot,2010,Hindi,7.1,28000,"Action, Sci-Fi",,Netflix
+Dabangg,2010,Hindi,6.2,35000,"Action, Comedy, Crime",,Netflix
+We Are Family,2010,Hindi,5.6,2000,"Drama, Family",,Zee5
+Lafangey Parindey,2010,Hindi,5.2,2000,"Action, Comedy, Drama",,JioCinema
+Peepli [Live],2010,Hindi,7.4,8000,"Comedy, Drama",,Zee5
+Once Upon a Time in Mumbaai,2010,Hindi,7.4,25000,"Action, Crime, Drama",,JioCinema
+Khatta Meetha,2010,Hindi,5.8,5000,"Action, Comedy, Crime",,Hotstar
+Tere Bin Laden,2010,Hindi,7.2,5000,Comedy,,Hotstar
+I Hate Luv Storys,2010,Hindi,5.6,8000,"Comedy, Romance",,Zee5
+Raavan,2010,Hindi,5.4,10000,"Action, Adventure, Crime",,Prime Video
+Rajneeti,2010,Hindi,7.1,18000,"Crime, Drama, Thriller",,Netflix
+Kites,2010,Hindi,6,15000,"Action, Drama, Romance",,SonyLIV
+Badmaash Company,2010,Hindi,6,5000,"Comedy, Crime, Drama",,Zee5
+Housefull,2010,Hindi,5.4,15000,Comedy,,SonyLIV
+Prince,2010,Hindi,4.2,2000,"Action, Sci-Fi, Thriller",,Zee5
+Well Done Abba!,2009,Hindi,7.3,500,"Comedy, Drama",,Zee5
+"LSD: Love, Sex Aur Dhokha",2010,Hindi,7.2,5000,"Comedy, Crime, Drama",,Zee5
+Atithi Tum Kab Jaoge?,2010,Hindi,6.4,2000,"Comedy, Drama, Family",,Hotstar
+Karthik Calling Karthik,2010,Hindi,7.1,10000,"Drama, Mystery, Psychological",,Prime Video
+Ishqiya,2010,Hindi,7.3,5000,"Comedy, Crime, Drama",,Hotstar
+Veer,2010,Hindi,4.5,10000,"Action, Adventure, Drama",,Hotstar
+Chance Pe Dance,2010,Hindi,4.7,1000,"Comedy, Drama, Musical",,Prime Video
+Rocket Singh: Salesman of the Year,2009,Hindi,7.5,15000,"Comedy, Drama",,Zee5
+Paa,2009,Hindi,7.1,8000,"Drama, Family",,Zee5
+De Dana Dan,2009,Hindi,5.2,10000,"Action, Comedy, Crime",,Hotstar
+Kurbaan,2009,Hindi,5.7,5000,"Action, Crime, Drama",,Netflix
+Ajab Prem Ki Ghazal Kahani,2009,Hindi,6.4,12000,"Comedy, Romance",,Zee5
+Aladin,2009,Hindi,4.6,2000,"Action, Adventure, Comedy",,Hotstar
+Blue,2009,Hindi,3.7,5000,"Action, Adventure, Thriller",,JioCinema
+All The Best: Fun Begins,2009,Hindi,6.1,5000,"Action, Comedy",,Hotstar
+What's Your Raashee?,2009,Hindi,4.5,2000,"Comedy, Drama, Romance",,JioCinema
+Wanted,2009,Hindi,6.6,22000,"Action, Crime, Thriller",,Hotstar
+Dil Bole Hadippa!,2009,Hindi,4.6,5000,"Comedy, Drama, Sport",,SonyLIV
+Love Aaj Kal,2009,Hindi,6.8,15000,"Comedy, Drama, Romance",,Prime Video
+Luck,2009,Hindi,5,2000,"Action, Adventure, Crime",,Zee5
+Kambakkht Ishq,2009,Hindi,3.8,8000,"Action, Comedy, Romance",,Prime Video
+New York,2009,Hindi,6.8,10000,"Action, Crime, Drama",,Zee5
+Kal Kissne Dekha,2009,Hindi,3.4,500,"Action, Comedy, Romance",,Hotstar
+99,2009,Hindi,7.5,2000,"Comedy, Crime, Drama",,Hotstar
+8 x 10 Tasveer,2009,Hindi,5.4,2000,"Action, Mystery, Thriller",,JioCinema
+Firaaq,2008,Hindi,7.8,2000,Drama,,JioCinema
+Delhi-6,2009,Hindi,6,10000,"Comedy, Drama",,Hotstar
+Billu,2009,Hindi,6.2,10000,"Comedy, Drama",,Prime Video
+Victory,2009,Hindi,3.2,500,"Drama, Sport",,Zee5
+Raaz: The Mystery Continues,2009,Hindi,5.6,5000,"Horror, Mystery, Thriller",,Netflix
+Chandni Chowk to China,2009,Hindi,4,15000,"Action, Adventure, Comedy",,Hotstar
+Rab Ne Bana Di Jodi,2008,Hindi,7.2,55000,"Comedy, Drama, Romance",,Hotstar
+Dostana,2008,Hindi,6,15000,"Comedy, Romance",,Netflix
+Golmaal Returns,2008,Hindi,5.1,10000,"Action, Comedy, Crime",,SonyLIV
+Fashion,2008,Hindi,6.9,10000,Drama,,Zee5
+Roadside Romeo,2008,Hindi,4.6,1000,"Animation, Adventure, Comedy",,Hotstar
+Karzzzz,2008,Hindi,2.2,2000,"Action, Drama, Musical",,Zee5
+Kidnap,2008,Hindi,4.3,2000,"Action, Crime, Thriller",,SonyLIV
+Drona,2008,Hindi,2,5000,"Action, Adventure, Fantasy",,Zee5
+Welcome to Sajjanpur,2008,Hindi,7,1000,"Comedy, Drama",,Prime Video
+The Last Lear,2007,Hindi,7.1,500,Drama,,Netflix
+1920,2008,Hindi,6.4,5000,"Horror, Mystery, Thriller",,Prime Video
+Rock On!!,2008,Hindi,7.7,15000,"Drama, Music, Musical",,Prime Video
+Bachna Ae Haseeno,2008,Hindi,5.7,10000,"Comedy, Drama, Romance",,Prime Video
+Singh Is Kinng,2008,Hindi,5.8,15000,"Action, Comedy, Crime",,JioCinema
+Ugly Aur Pagli,2008,Hindi,5.1,1000,"Comedy, Drama, Romance",,Zee5
+Mission Istaanbul,2008,Hindi,3.6,1000,"Action, Thriller",,JioCinema
+Kismat Konnection,2008,Hindi,5.1,5000,"Comedy, Drama, Romance",,Hotstar
+Jaane Tu... Ya Jaane Na,2008,Hindi,7.5,25000,"Comedy, Drama, Romance",,Zee5
+Thoda Pyaar Thoda Magic,2008,Hindi,5.3,5000,"Comedy, Drama, Family",,Netflix
+Sarkar Raj,2008,Hindi,6.8,5000,"Action, Crime, Drama",,Hotstar
+Mere Baap Pehle Aap,2008,Hindi,5.5,1000,"Comedy, Drama",,Hotstar
+Aamir,2008,Hindi,7.7,5000,"Action, Crime, Drama",,Prime Video
+Woodstock Villa,2008,Hindi,5,500,"Crime, Musical, Mystery",,Prime Video
+Jannat,2008,Hindi,6.9,8000,"Crime, Drama, Romance",,Netflix
+Tashan,2008,Hindi,3.6,5000,"Action, Comedy, Crime",,Prime Video
+Race,2008,Hindi,6.7,18000,"Action, Crime, Drama",,JioCinema
+One Two Three,2008,Hindi,5.4,2000,"Action, Comedy, Crime",,SonyLIV
+Jodhaa Akbar,2008,Hindi,7.5,32000,"Action, Drama, History",,Netflix
+Mithya,2008,Hindi,7.7,1000,"Comedy, Crime, Drama",,Prime Video
+Rama Rama Kyun Hota Hai,2008,Hindi,4.1,100,Comedy,,Hotstar
+Sunday,2008,Hindi,5.3,2000,"Action, Comedy, Crime",,Netflix
+Halla Bol,2008,Hindi,7.1,2000,"Action, Crime, Drama",,SonyLIV
+Welcome,2007,Hindi,7,25000,"Comedy, Crime, Drama",,JioCinema
+Aaja Nachle,2007,Hindi,6.4,5000,"Drama, Musical, Romance",,Zee5
+Dhan Dhana Dhan Goal,2007,Hindi,6.1,2000,"Drama, Sport",,Netflix
+No Smoking,2007,Hindi,7.2,5000,"Drama, Mystery, Psychological",,JioCinema
+Saawariya,2007,Hindi,5.3,8000,"Drama, Musical, Romance",,SonyLIV
+Laaga Chunari Mein Daag,2007,Hindi,5.6,2000,Drama,,Prime Video
+Dhamaal,2007,Hindi,7.4,18000,"Comedy, Crime",,Prime Video
+Darling,2007,Hindi,4.5,500,"Horror, Mystery, Thriller",,JioCinema
+Partner,2007,Hindi,5.8,12000,"Comedy, Romance",,Prime Video
+Naqaab,2007,Hindi,6.1,1000,"Mystery, Thriller",,SonyLIV
+Aap Kaa Surroor,2007,Hindi,2.3,2000,"Action, Drama, Romance",,JioCinema
+Apne,2007,Hindi,6.1,2000,"Action, Drama, Sport",,JioCinema
+Jhoom Barabar Jhoom,2007,Hindi,3.8,5000,"Comedy, Drama, Musical",,Prime Video
+The Train,2007,Hindi,5.1,500,"Crime, Drama, Thriller",,SonyLIV
+Shootout at Lokhandwala,2007,Hindi,7.1,10000,"Action, Biography, Crime",,Netflix
+Cheeni Kum,2007,Hindi,6.9,5000,"Comedy, Drama, Romance",,JioCinema
+Tara Rum Pum,2007,Hindi,5.6,5000,"Comedy, Drama, Family",,Prime Video
+Bheja Fry,2007,Hindi,7.6,5000,Comedy,,JioCinema
+Shakalaka Boom Boom,2007,Hindi,3.1,500,"Drama, Musical",,JioCinema
+Namastey London,2007,Hindi,7.1,15000,"Comedy, Drama, Romance",,Netflix
+Nishabd,2007,Hindi,5.2,1000,Drama,,Prime Video
+Honeymoon Travels Pvt. Ltd.,2007,Hindi,6,1000,"Comedy, Drama",,JioCinema
+Eklavya: The Royal Guard,2007,Hindi,6.1,2000,"Action, Drama, Mystery",,Hotstar
+Guru,2007,Hindi,7.7,32000,"Biography, Drama",,Zee5
+Bhagam Bhag,2006,Hindi,6.5,10000,"Comedy, Mystery",,Zee5
+Kabul Express,2006,Hindi,7,2000,"Action, Adventure, Drama",,Prime Video
+Vivah,2006,Hindi,6.6,12000,"Drama, Family, Romance",,Netflix
+Jaan-E-Mann,2006,Hindi,6.1,5000,"Comedy, Drama, Musical",,SonyLIV
+Kabhi Alvida Naa Kehna,2006,Hindi,6.1,28000,"Drama, Romance",,SonyLIV
+Golmaal: Fun Unlimited,2006,Hindi,7.4,22000,"Action, Comedy, Crime",,SonyLIV
+Chup Chup Ke,2006,Hindi,6.9,12000,"Comedy, Drama, Romance",,SonyLIV
+Fanaa,2006,Hindi,7.1,35000,"Crime, Drama, Romance",,Netflix
+36 China Town,2006,Hindi,5.6,5000,"Comedy, Mystery, Thriller",,JioCinema
+Gangster,2006,Hindi,7.1,5000,"Action, Crime, Drama",,Zee5
+Pyare Mohan,2006,Hindi,3.2,500,"Action, Comedy, Crime",,JioCinema
+Humko Deewana Kar Gaye,2006,Hindi,5.3,5000,"Drama, Romance",,Prime Video
+Shaadi Se Pehle,2006,Hindi,3.7,500,"Comedy, Romance",,Netflix
+Malamaal Weekly,2006,Hindi,6.9,5000,"Comedy, Mystery",,SonyLIV
+Taxi No. 9 2 11,2006,Hindi,7.2,5000,"Comedy, Drama, Thriller",,Zee5
+Mixed Doubles,2006,Hindi,7.2,500,"Comedy, Drama",,Zee5
+Zinda,2006,Hindi,5.2,2000,"Action, Crime, Drama",,JioCinema
+Bluffmaster!,2005,Hindi,6.7,5000,"Comedy, Crime, Drama",,Hotstar
+Dosti: Friends Forever,2005,Hindi,5.2,1000,"Drama, Romance",,Prime Video
+Neal 'n' Nikki,2005,Hindi,3.4,1000,"Comedy, Romance",,JioCinema
+Garam Masala,2005,Hindi,6.7,8000,Comedy,,Hotstar
+Deewane Huye Paagal,2005,Hindi,5.3,2000,"Action, Comedy, Crime",,Hotstar
+Ek Khiladi Ek Haseena,2005,Hindi,5.4,500,"Crime, Mystery, Thriller",,Hotstar
+Kyon Ki,2005,Hindi,5.6,5000,"Drama, Romance",,JioCinema
+Hanuman,2005,Hindi,7.5,1000,"Animation, Adventure, Family",,Hotstar
+No Entry,2005,Hindi,6.6,8000,"Comedy, Musical, Romance",,JioCinema
+Mangal Pandey: The Rising,2005,Hindi,6.6,8000,"Action, Biography, Drama",,Netflix
+Viruddh... Family Comes First,2005,Hindi,7.1,1000,"Drama, Family",,JioCinema
+Dus,2005,Hindi,5.6,5000,"Action, Adventure, Crime",,JioCinema
+Paheli,2005,Hindi,6.4,8000,"Comedy, Drama, Fantasy",,Hotstar
+Parineeta,2005,Hindi,7.2,10000,"Drama, Musical, Romance",,SonyLIV
+Bunty Aur Babli,2005,Hindi,6.2,10000,"Comedy, Crime, Drama",,JioCinema
+Kyaa Kool Hai Hum,2005,Hindi,6,5000,Comedy,,Netflix
+Main Aisa Hi Hoon,2005,Hindi,5.3,1000,"Drama, Family",,SonyLIV
+Naina,2005,Hindi,4.7,1000,"Horror, Mystery, Thriller",,Hotstar
+Waqt: The Race Against Time,2005,Hindi,6.8,5000,"Comedy, Drama, Family",,Netflix
+Lucky: No Time for Love,2005,Hindi,4.7,2000,"Drama, Musical, Romance",,Hotstar
+Zameer: The Fire Within,2005,Hindi,4.1,500,"Drama, Romance",,JioCinema
+Page 3,2005,Hindi,7.2,2000,Drama,,Hotstar
+Kisna: The Warrior Poet,2005,Hindi,4.9,1000,"Action, Adventure, Drama",,Zee5
+Veer-Zaara,2004,Hindi,7.8,58000,"Drama, Family, Musical",,Prime Video
+Naach,2004,Hindi,4.1,500,"Drama, Musical",,SonyLIV
+Aitraaz,2004,Hindi,6.6,8000,"Drama, Romance, Thriller",,Zee5
+Mujhse Shaadi Karogi,2004,Hindi,6.7,12000,"Comedy, Romance",,Hotstar
+Lakshya,2004,Hindi,7.8,32000,"Action, Drama, War",,Netflix
+Hum Tum,2004,Hindi,7,15000,"Comedy, Drama, Romance",,Hotstar
+Yuva,2004,Hindi,7.3,15000,"Action, Crime, Drama",,Netflix
+Murder,2004,Hindi,5.5,5000,"Crime, Drama, Thriller",,SonyLIV
+Masti,2004,Hindi,6.1,5000,"Comedy, Crime, Mystery",,JioCinema
+Khakee,2004,Hindi,7.4,12000,"Action, Crime, Drama",,Prime Video
+Baghban,2003,Hindi,7.4,15000,"Drama, Family, Romance",,Prime Video
+Koi... Mil Gaya,2003,Hindi,7.1,28000,"Action, Adventure, Drama",,Hotstar
+Darna Mana Hai,2003,Hindi,6.3,2000,"Horror, Mystery, Thriller",,SonyLIV
+Hungama,2003,Hindi,7.6,12000,"Comedy, Romance",,JioCinema
+Andaaz,2003,Hindi,5.2,2000,"Drama, Musical, Romance",,JioCinema
+Bhoot,2003,Hindi,6.5,5000,"Horror, Mystery, Thriller",,Zee5
+The Hero: Love Story of a Spy,2003,Hindi,5.3,5000,"Action, Adventure, Drama",,Zee5
+Saathiya,2002,Hindi,6.8,8000,"Drama, Romance",,Zee5
+Kaante,2002,Hindi,6.6,5000,"Action, Crime, Thriller",,SonyLIV
+Devdas,2002,Hindi,7.5,42000,"Drama, Musical, Romance",,Prime Video
+Aankhen,2002,Hindi,7.4,8000,"Crime, Thriller",,Prime Video
+Raaz,2002,Hindi,6.6,8000,"Horror, Mystery, Romance",,Zee5
+Kabhie Khushi Kabhie Gham...,2001,Hindi,7.4,55000,"Drama, Musical, Romance",,SonyLIV
+Gadar: Ek Prem Katha,2001,Hindi,7.2,12000,"Action, Drama, Romance",,Prime Video
+Mohabbatein,2000,Hindi,7,32000,"Musical, Romance",,JioCinema
+Kaho Naa... Pyaar Hai,2000,Hindi,6.9,15000,"Action, Romance",,Hotstar
+Hum Saath-Saath Hain,1999,Hindi,6.3,10000,"Drama, Family, Musical",,SonyLIV
+Taal,1999,Hindi,6.6,8000,"Drama, Musical, Romance",,Zee5
+Hum Dil De Chuke Sanam,1999,Hindi,7.4,18000,"Comedy, Drama, Musical",,Netflix
+Ishq,1997,Hindi,6.8,10000,"Action, Comedy, Drama",,Prime Video
+Dil To Pagal Hai,1997,Hindi,7,22000,"Comedy, Drama, Musical",,SonyLIV
+Border,1997,Hindi,7.9,15000,"Action, Drama, History",,JioCinema
+Gupt: The Hidden Truth,1997,Hindi,7.3,8000,"Action, Crime, Mystery",,Prime Video
+Judaai,1997,Hindi,6.1,3000,"Comedy, Drama",,SonyLIV
+Khiladiyon Ka Khiladi,1996,Hindi,6.2,5000,"Action, Crime, Drama",,SonyLIV
+Raja Hindustani,1996,Hindi,6.1,8000,"Comedy, Drama, Romance",,Netflix
+Karan Arjun,1995,Hindi,6.8,15000,"Action, Fantasy, Musical",,SonyLIV
+Hum Aapke Hain Koun..!,1994,Hindi,7.5,22000,"Comedy, Drama, Musical",,SonyLIV
+Mohra,1994,Hindi,7,8000,"Action, Crime, Drama",,Hotstar
+Darr,1993,Hindi,7.7,22000,"Drama, Musical, Romance",,Netflix
+Baazigar,1993,Hindi,7.6,28000,"Action, Crime, Drama",,SonyLIV
+Jo Jeeta Wohi Sikandar,1992,Hindi,8.1,22000,"Comedy, Drama, Romance",,Prime Video
+Khiladi,1992,Hindi,7.2,5000,"Action, Crime, Thriller",,Prime Video
+Saajan,1991,Hindi,7.2,5000,"Drama, Musical, Romance",,Netflix
+Ghayal,1990,Hindi,7.7,5000,"Action, Crime, Drama",,Prime Video
+Aashiqui,1990,Hindi,6.3,2000,"Drama, Musical, Romance",,Prime Video
+Maine Pyar Kiya,1989,Hindi,7.3,10000,"Drama, Family, Musical",,Hotstar
+Qayamat Se Qayamat Tak,1988,Hindi,7.5,8000,"Drama, Musical, Romance",,JioCinema
+Mr. India,1987,Hindi,7.7,10000,"Action, Adventure, Comedy",,Prime Video
+Ram Lakhan,1989,Hindi,6.9,3000,"Action, Comedy, Drama",,Zee5
+Chandni,1989,Hindi,6.8,5000,"Drama, Musical, Romance",,Hotstar
+Tridev,1989,Hindi,7.1,2000,"Action, Crime, Drama",,JioCinema
+Tezaab,1988,Hindi,7.1,2000,"Action, Crime, Drama",,Prime Video
+Saagar,1985,Hindi,7,2000,"Drama, Romance",,Netflix
+Utsav,1984,Hindi,7.4,500,"Drama, History",,JioCinema
+Namak Halaal,1982,Hindi,7.4,3000,"Action, Comedy, Drama",,Zee5
+Shakti,1982,Hindi,7.8,2000,"Action, Crime, Drama",,JioCinema
+Silsila,1981,Hindi,7.2,5000,"Drama, Family, Musical",,Hotstar
+Lawaaris,1981,Hindi,7.1,2000,Drama,,SonyLIV
+Kaalia,1981,Hindi,7.1,1000,"Action, Crime, Drama",,JioCinema
+Shaan,1980,Hindi,7,3000,"Action, Adventure, Crime",,Prime Video
+Karz,1980,Hindi,7.6,2000,"Action, Musical, Thriller",,JioCinema
+Dostana,1980,Hindi,7,1000,"Action, Drama",,Hotstar
+Muqaddar Ka Sikandar,1978,Hindi,7.6,3000,"Action, Drama",,Hotstar
+Amar Akbar Anthony,1977,Hindi,7.4,5000,"Comedy, Drama, Musical",,SonyLIV
+Laila Majnu,1976,Hindi,7.3,500,"Drama, Romance",,SonyLIV
+Kabhi Kabhie,1976,Hindi,7.1,2000,"Drama, Musical, Romance",,Hotstar
+Bobby,1973,Hindi,7,3000,"Drama, Musical, Romance",,Prime Video
+Pakeezah,1972,Hindi,8.1,3000,"Drama, Musical, Romance",,Netflix
+Mera Naam Joker,1970,Hindi,8,8000,"Comedy, Drama, Musical",,Prime Video
+Aradhana,1969,Hindi,7.6,2000,"Drama, Musical, Romance",,SonyLIV
+Guide,1965,Hindi,8.4,8000,"Drama, Musical, Romance",,JioCinema
+Waqt,1965,Hindi,7.7,1000,Drama,,Netflix
+Sangam,1964,Hindi,7.5,2000,"Drama, Musical, Romance",,SonyLIV
+Madhumati,1958,Hindi,7.9,1000,"Drama, Mystery, Romance",,Zee5
+Naya Daur,1957,Hindi,7.9,1000,"Drama, Musical, Romance",,Prime Video
+Shree 420,1955,Hindi,8,5000,"Comedy, Drama, Musical",,Netflix
+Awaara,1951,Hindi,7.8,5000,"Drama, Musical, Romance",,Hotstar
+Alam Ara,1931,Hindi,7.5,200,"Drama, Musical, Romance",,JioCinema
+Raja Harishchandra,1913,Silent,6.9,2000,"Drama, History",,JioCinema
+Sant Tukaram,1936,Marathi,8.1,200,"Biography, Drama",,JioCinema
+Dharmatma,1935,Marathi,7.8,100,"Biography, Drama",,SonyLIV
+Devdas,1935,Bengali,7.6,1000,"Drama, Romance",,Netflix
+Maya Bazaar,1957,Telugu,8.8,8000,"Comedy, Drama, Family",,Netflix
+Sankarabharanam,1980,Telugu,8.8,3000,"Drama, Musical",,Prime Video
+Sagara Sangamam,1983,Telugu,8.8,3000,"Drama, Musical",,JioCinema
+Swathi Muthyam,1986,Telugu,8.7,2000,Drama,,JioCinema
+Geethanjali,1989,Telugu,8.2,5000,"Drama, Romance",,Netflix
+Annamayya,1997,Telugu,8.1,2000,"Biography, Drama, History",,SonyLIV
+Tholi Prema,1998,Telugu,8.3,5000,"Drama, Romance",,Prime Video
+Arundhati,2009,Telugu,7.3,5000,"Fantasy, Horror, Thriller",,SonyLIV
+Attarintiki Daredi,2013,Telugu,7.2,15000,"Action, Comedy, Drama",,Zee5
+Race Gurram,2014,Telugu,7.2,10000,"Action, Comedy",,Hotstar
+Rangasthalam,2018,Telugu,8.2,28000,"Action, Drama",,JioCinema
+Uppena,2021,Telugu,6.6,5000,"Drama, Romance",,Netflix
+Devara: Part 1,2024,Telugu,7.1,10000,"Action, Drama",,Netflix
+Game Changer,2024,Telugu,7,5000,"Action, Drama",,Prime Video
+Pushpa 2: The Rule,2024,Telugu,8.5,50000,"Action, Crime, Drama",,JioCinema
+Kshanam,2016,Telugu,8.2,10000,"Mystery, Thriller",,Prime Video
+HIT,2020,Telugu,7.6,8000,"Action, Crime, Mystery",,SonyLIV
+Wild Dog,2021,Telugu,6.1,5000,"Action, Adventure, Crime",,JioCinema
+Republic,2021,Telugu,7.4,3000,Drama,,Netflix
+Akhanda,2021,Telugu,6.8,15000,"Action, Drama",,Netflix
+Bheemla Nayak,2022,Telugu,6.5,18000,"Action, Crime, Drama",,SonyLIV
+DJ Tillu,2022,Telugu,7.1,8000,"Comedy, Crime, Drama",,Netflix
+Godfather,2022,Telugu,5.2,12000,"Action, Crime, Drama",,Netflix
+Yashoda,2022,Telugu,6.6,5000,"Action, Sci-Fi, Thriller",,SonyLIV
+Dhamaka,2022,Telugu,6.3,5000,"Action, Comedy",,Zee5
+Skanda,2023,Telugu,3.2,5000,"Action, Drama",,SonyLIV
+Tiger Nageswara Rao,2023,Telugu,6.1,3000,"Action, Biography, Crime",,SonyLIV
+Extra Ordinary Man,2023,Telugu,4.8,1000,"Action, Comedy",,SonyLIV
+Gang Leader,1991,Telugu,8.2,3000,"Action, Comedy, Crime",,Zee5
+Gharshana,2004,Telugu,7.8,5000,"Action, Crime, Thriller",,Hotstar
+Vikramarkudu,2006,Telugu,7.7,8000,"Action, Comedy, Crime",,JioCinema
+Yamadonga,2007,Telugu,7.2,5000,"Action, Comedy, Fantasy",,Zee5
+Ready,2008,Telugu,7.5,3000,"Comedy, Romance",,JioCinema
+Kick,2009,Telugu,7.8,8000,"Action, Comedy",,Prime Video
+Darling,2010,Telugu,7.3,5000,"Comedy, Romance",,JioCinema
+Dookudu,2011,Telugu,7.4,12000,"Action, Comedy",,SonyLIV
+Businessman,2012,Telugu,7,10000,"Action, Crime",,Prime Video
+Gabbar Singh,2012,Telugu,7.1,10000,"Action, Comedy",,Netflix
+Legend,2014,Telugu,6.1,5000,"Action, Drama",,JioCinema
+Srimanthudu,2015,Telugu,7.5,18000,"Action, Drama",,Zee5
+Janatha Garage,2016,Telugu,7.2,15000,"Action, Drama",,Netflix
+Khaidi No. 150,2017,Telugu,6.1,8000,"Action, Drama",,Netflix
+Bharat Ane Nenu,2018,Telugu,7.5,25000,"Action, Drama",,Zee5
+Maharshi,2019,Telugu,7.2,22000,"Action, Drama",,Prime Video
+Sarileru Neekevvaru,2020,Telugu,6.3,22000,"Action, Comedy, Drama",,Hotstar
+Vakeel Saab,2021,Telugu,7.1,15000,"Action, Crime, Drama",,Hotstar
+Sarkaru Vaari Paata,2022,Telugu,5.8,25000,"Action, Comedy, Drama",,Prime Video
