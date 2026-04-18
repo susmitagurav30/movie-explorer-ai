@@ -22,6 +22,6 @@ python app.py
 
 ## 📸 Screenshots
 
-![Home](images/home.png)
-![Search](images/search.png)
-![Filter](images/filter.png)
+![Home](Home.png)
+![Search](Search.png)
+![Filter](Filter.png)
