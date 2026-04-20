@@ -71,6 +71,13 @@ def home():
 
     for m in movies[:12]:
         m['poster'] = get_movie_data(m['Movie Name'])
+        
+    movies_with_poster = [m for m in movies if m.get('poster')]
+    movies_without_poster = [m for m in movies if not m.get('poster')]
+
+    movies = movies_with_poster + movies_without_poster
+
+
 
     return render_template('index.html', movies=movies, query="")
 
