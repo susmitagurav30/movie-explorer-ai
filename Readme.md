@@ -26,3 +26,6 @@ python app.py
 ![Search](Search.png)
 ![Search](Search(2).png)
 ![Filter](Filter.png)
+![Recommendation](Recommendation.png)
+![Recommendation](Recommendation.png)
+
